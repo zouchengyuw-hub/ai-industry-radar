@@ -1,0 +1,21 @@
+[
+ {"id":"nvidia","name":"NVIDIA Newsroom","url":"https://nvidianews.nvidia.com/rss.xml","priority":0},
+ {"id":"openai","name":"OpenAI","url":"https://openai.com/news/rss.xml","priority":0},
+ {"id":"deepmind","name":"Google DeepMind","url":"https://deepmind.google/blog/rss.xml","priority":0},
+ {"id":"google-ai","name":"Google AI","url":"https://blog.google/technology/ai/rss/","priority":0},
+ {"id":"huggingface","name":"Hugging Face","url":"https://huggingface.co/blog/feed.xml","priority":1},
+ {"id":"github-ai","name":"GitHub AI","url":"https://github.blog/ai-and-ml/feed/","priority":1},
+ {"id":"aws-ai","name":"AWS AI","url":"https://aws.amazon.com/blogs/machine-learning/feed/","priority":1},
+ {"id":"nvidia-blog","name":"NVIDIA Blog","url":"https://blogs.nvidia.com/feed/","priority":1},
+ {"id":"verge","name":"The Verge AI","url":"https://www.theverge.com/rss/ai-artificial-intelligence/index.xml","priority":1},
+ {"id":"techcrunch","name":"TechCrunch AI","url":"https://techcrunch.com/category/artificial-intelligence/feed/","priority":1},
+ {"id":"mit","name":"MIT Technology Review AI","url":"https://www.technologyreview.com/topic/artificial-intelligence/feed","priority":1},
+ {"id":"hn","name":"Hacker News AI","url":"https://hnrss.org/newest?q=AI","priority":2},
+ {"id":"industry","name":"Google News AI Industry","url":"https://news.google.com/rss/search?q=Nvidia+OR+OpenAI+OR+Anthropic+OR+Google+AI&hl=en-US&gl=US&ceid=US:en","priority":1},
+ {"id":"news-en","name":"Google News AI","url":"https://news.google.com/rss/search?q=artificial+intelligence+AI&hl=en-US&gl=US&ceid=US:en","priority":2},
+ {"id":"news-cn","name":"Google News 中文","url":"https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans","priority":2},
+ {"id":"arxiv-ai","name":"arXiv AI","url":"https://rss.arxiv.org/rss/cs.AI","priority":2},
+ {"id":"arxiv-ml","name":"arXiv ML","url":"https://rss.arxiv.org/rss/cs.LG","priority":2},
+ {"id":"arxiv-cl","name":"arXiv NLP","url":"https://rss.arxiv.org/rss/cs.CL","priority":2},
+ {"id":"arxiv-cv","name":"arXiv Vision","url":"https://rss.arxiv.org/rss/cs.CV","priority":2}
+]
