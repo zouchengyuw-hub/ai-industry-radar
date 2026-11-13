@@ -512,9 +512,55 @@
       ],
       "basis": "正文前12000字符",
       "summarized_at": "2026-11-13T10:45:11Z"
+    },
+    "eac4d84ef949975e755c40f9dc94fc330d73ac359791c3bd2e46759bce21bb5a": {
+      "title_zh": "Google 推出全新协作实验项目 Tabletop",
+      "summary": [
+        "Google 推出名为 Tabletop 的全新 Google Labs 实验项目，旨在为群组提供可定制的实时协作空间。",
+        "用户可以通过添加链接、文件和想法，并使用 @tabletop 提示词或模板来生成行程、投票、费用分摊和赛程表等互动工具。",
+        "该工具支持多人同时在线协作，类似于 Google 文档的使用体验。",
+        "Tabletop 目前在美国通过候补名单的形式向 18 岁及以上用户推出。"
+      ],
+      "company": [
+        "Google",
+        "Google Labs"
+      ],
+      "topics": [
+        "实时协作",
+        "群组规划",
+        "人工智能提示词",
+        "Google Labs 实验"
+      ],
+      "basis": "正文前12000字符",
+      "summarized_at": "2026-11-13T10:49:00Z"
+    },
+    "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c": {
+      "title_zh": "AlphaGenome 2：解析细胞如何读取DNA以更好地理解疾病",
+      "summary": [
+        "文章列举了参与AlphaGenome 2核心研究工作的研究人员名单。",
+        "感谢了多位为该研究提供支持和反馈的外部人员。",
+        "感谢了协助传播该项工作成果的专家团队。"
+      ],
+      "company": [],
+      "topics": [
+        "DNA",
+        "细胞研究",
+        "疾病理解",
+        "AlphaGenome 2"
+      ],
+      "basis": "正文前12000字符",
+      "summarized_at": "2026-11-13T10:49:01Z"
+    },
+    "8e8e851f9ac38a1986e4da167bff89ff0f811e14b6cf3f75bb84b07e91b8552c": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-13T12:49:08Z"
+    },
+    "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:49:08Z"
     }
   },
   "quota": {
-    "2026-11-13": 7
+    "2026-11-13": 10
   }
 }
