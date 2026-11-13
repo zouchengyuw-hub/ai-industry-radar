@@ -89,7 +89,7 @@ def summarize(limit=4):
   if error:
    cache[item['id']]={'error':error,'retry_after':iso(now()+dt.timedelta(hours=6))};save(SUMMARIES,cached);continue
   count+=1;quota[day]=count;save(SUMMARIES,cached)
-  try:cache[item['id']]=gemini(item,text,key,os.environ.get('GEMINI_MODEL','gemini-2.5-flash-lite'))
+  try:cache[item['id']]=gemini(item,text,key,os.environ.get('GEMINI_MODEL','gemini-3.5-flash-lite'))
   except Exception as e:
    cache[item['id']]={'error':'AI提炼失败：'+(str(e) if isinstance(e,(RuntimeError,ValueError)) else type(e).__name__),'retry_after':iso(now()+dt.timedelta(hours=2))};save(SUMMARIES,cached)
    if isinstance(e,RuntimeError):break
@@ -100,3 +100,4 @@ if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('command',choices=['collect','summarize']);args=parser.parse_args()
  if args.command=='collect':collect()
  else:summarize()
+
