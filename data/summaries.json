@@ -448,9 +448,25 @@
     "55e43bcf2392574765dff7406b7f6da0287e451a9ee242c5d1f28b451b9ec90e": {
       "error": "AI提炼失败：HTTPError",
       "retry_after": "2026-11-13T12:43:10Z"
+    },
+    "ed8dc20742e8870df2b87cc14d4dc84c2f863277785b47ea33675b0f592a26bc": {
+      "error": "AI提炼失败：模型 API HTTP 404",
+      "retry_after": "2026-11-13T12:43:55Z"
+    },
+    "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:43:55Z"
+    },
+    "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:43:55Z"
+    },
+    "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
+      "error": "AI提炼失败：模型 API HTTP 404",
+      "retry_after": "2026-11-13T12:43:56Z"
     }
   },
   "quota": {
-    "2026-11-13": 3
+    "2026-11-13": 5
   }
 }
