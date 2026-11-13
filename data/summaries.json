@@ -435,19 +435,54 @@
     },
     "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T19:02:23Z"
+      "retry_after": "2026-11-14T00:28:07Z"
     },
     "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T18:17:26Z"
+      "title_zh": "推出 Gemini 4 Hydrogen",
+      "summary": [
+        "谷歌推出了 Gemini 4 Hydrogen，这是一款专为日常编码和智能体工作流（agentic workflows）的高效执行而构建的模型，适用于 AI Studio、Gemini API、企业版、Gemini 应用及谷歌搜索等多个平台。",
+        "在多模型工作流中，Hydrogen 可以与前沿模型（如 Carbon 和 Argon）搭配使用，谷歌还在 Google Antigravity 中推出了 Orchestrator，可动态切换模型，在保持高任务成功率的同时显著降低配额消耗并提升执行速度。",
+        "Hydrogen 在速度、多模态知识处理、开发人员工具交互以及安全性方面均比上一代有大幅提升，支持多达四种思考层级，并在全球范围内面向开发者、企业和普通消费者推出。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "人工智能",
+        "大语言模型",
+        "软件开发",
+        "多模态 AI"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T23:28:11Z"
     },
     "f19cddd04797ae7d9ed5d0a1d62c167e87f3414d038a70f2ab5d51a8aa7353f1": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-13T18:17:26Z"
     },
     "55e43bcf2392574765dff7406b7f6da0287e451a9ee242c5d1f28b451b9ec90e": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T18:17:26Z"
+      "title_zh": "AI 正在改变半导体晶圆厂的运作方式——工程师借此实现更高效的研发",
+      "summary": [
+        "人工智能和加速计算正在变革半导体制造，通过缩短仿真时间、物理信息 AI（Physics-based AI）、AI 代理和数字孪生技术，帮助工程师优化工艺、更早发现问题并加快决策。",
+        "通过集成 NVIDIA 相关库（如 cuDSS、Physics-NeMo、cuLitho 等），如 COMSOL、Applied Materials（应用材料）、Siemens（西门子）和 Lam Research 等公司的仿真平台和光刻软件实现了数倍甚至数倍的性能提升。",
+        "应用材料公司利用 NVIDIA Omniverse 库构建了整个晶圆厂的物理精确数字孪生，使团队能够在虚拟环境中测试设备配置和布局，从而降低实验成本并优化工厂整体运营。"
+      ],
+      "company": [
+        "NVIDIA",
+        "COMSOL",
+        "Applied Materials",
+        "Siemens",
+        "Lam Research",
+        "Advantest"
+      ],
+      "topics": [
+        "半导体制造",
+        "人工智能",
+        "加速计算",
+        "数字孪生"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T23:28:11Z"
     },
     "ed8dc20742e8870df2b87cc14d4dc84c2f863277785b47ea33675b0f592a26bc": {
       "error": "AI提炼失败：模型 API HTTP 404",
@@ -722,14 +757,39 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-13T10:54:08Z"
+    },
+    "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T00:28:07Z"
+    },
+    "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
+      "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
+      "summary": [
+        "医疗健康领域的企业和初创公司正将人工智能应用到临床试验匹配、放射学支持以及患者居家护理等各个环节，NVIDIA 技术为其提供底层算力。",
+        "新泽西州临床 AI 公司 Dyania Health 推出了基于 NVIDIA 技术的 Synapsis AI，它可以在医院防火墙内处理患者的历年病历记录，将非结构化数据转化为结构化临床信号，在保障数据隐私的同时减少医护人员的图表审阅时间。",
+        "克利夫兰诊所（Cleveland Clinic）利用 Synapsis AI 对 7,800 多名主动脉瓣置换患者进行了研究，成功构建了预测瓣膜退化和再次干预风险的模型，大幅缩短了人工审阅图表所需的时间。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Dyania Health",
+        "Cleveland Clinic"
+      ],
+      "topics": [
+        "人工智能",
+        "医疗健康",
+        "临床研究",
+        "数据隐私"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T23:28:11Z"
     }
   },
   "quota": {
-    "2026-11-13": 14
+    "2026-11-13": 15
   },
   "last_run": {
-    "time": "2026-11-13T18:02:26Z",
+    "time": "2026-11-13T23:28:11Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
