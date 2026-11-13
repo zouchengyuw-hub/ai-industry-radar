@@ -432,7 +432,25 @@
       "topics": [],
       "basis": "本机 AI；原文正文（最多前 10000 字符）",
       "summarized_at": "2026-11-13T10:35:33.196868+00:00"
+    },
+    "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:43:09Z"
+    },
+    "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
+      "error": "AI提炼失败：HTTPError",
+      "retry_after": "2026-11-13T12:43:10Z"
+    },
+    "f19cddd04797ae7d9ed5d0a1d62c167e87f3414d038a70f2ab5d51a8aa7353f1": {
+      "error": "AI提炼失败：HTTPError",
+      "retry_after": "2026-11-13T12:43:10Z"
+    },
+    "55e43bcf2392574765dff7406b7f6da0287e451a9ee242c5d1f28b451b9ec90e": {
+      "error": "AI提炼失败：HTTPError",
+      "retry_after": "2026-11-13T12:43:10Z"
     }
   },
-  "quota": {}
+  "quota": {
+    "2026-11-13": 3
+  }
 }
