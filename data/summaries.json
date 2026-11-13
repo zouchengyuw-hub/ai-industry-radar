@@ -646,9 +646,90 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-13T10:52:59Z"
+    },
+    "9ccf20ad200fc0ba5e4f513104de1bd9f2c8e9f81a885a40ccb6f9f8bb0d84c8": {
+      "title_zh": "NVIDIA 扩展开源承诺并推出 OpenShell 捐赠及全新 AI 基础设施",
+      "summary": [
+        "NVIDIA 在 KubeCon 上宣布将开源运行时 OpenShell 捐赠给云原生计算基金会（CNCF），作为 Sandbox 项目管理。",
+        "NVIDIA 参与并支持谷歌主导的 Agent Substrate 框架，实现在 Kubernetes 上大规模运行长期智能体工作负载。",
+        "推出 NVIDIA DSX AI Factory 平台的全新开源组件（NVKE、NVKR 和 Snapshot），加速 GPU 基础设施部署与推理扩展。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Linux Foundation",
+        "Cloud Native Computing Foundation",
+        "Google",
+        "Mirantis",
+        "Netris",
+        "OpenNebula Systems",
+        "Rafay",
+        "Spectro Cloud",
+        "vCluster",
+        "Firmus",
+        "SK Telecom",
+        "Crusoe",
+        "Saturn Cloud"
+      ],
+      "topics": [
+        "人工智能",
+        "开源",
+        "Kubernetes",
+        "云计算"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:54:08Z"
+    },
+    "59a8a5dd3afc5312ddaeaf7c08230ec82a4fb1f4a4a2910346841c785cd547c9": {
+      "title_zh": "我们将 Adobe 的创意和生产力工具更紧密地融入您的日常 Google 应用中",
+      "summary": [
+        "Adobe 与 Google 扩大合作伙伴关系，将 Adobe 的创意和生产力工具直接引入 Google 常用产品中。",
+        "用户可以通过 Google Drive 和 Gmail 直接访问 Adobe Acrobat，并在 Gemini 和 Google 搜索中扩展 Adobe 连接器。",
+        "企业能够在 Gemini Enterprise 中使用 Adobe CX Enterprise Coworker 智能体，同时 Adobe 与 Google DeepMind 正探索专业创意人员的全新编辑体验。"
+      ],
+      "company": [
+        "Adobe",
+        "Google",
+        "Google DeepMind"
+      ],
+      "topics": [
+        "人工智能",
+        "软件合作",
+        "生产力工具"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:54:08Z"
+    },
+    "a552875406bb3160c61364bce8d481550c85395465eb574b1961480abc1fe77c": {
+      "title_zh": "谁能取代黄仁勋？一份高度非科学的潜在继任者名单",
+      "summary": [
+        "由于丑闻和调查导致生存几率下降，外界开始猜测 NVIDIA 首席执行官黄仁勋的可能继任者。",
+        "文章盘点了多位潜在候选人，包括 AMD 首席执行官苏姿丰（Lisa Su）、前 Google 首席执行官埃里克·施密特（Eric Schmidt）、英特尔首席执行官陈立武（Lip-Bu Tan）、布雷特·泰勒（Bret Taylor）以及英特尔/NVIDIA 内部高管 Ian Buck、Andrew Bell 等。",
+        "目前尚无明确的接班人计划，最终走向仍有待观察。"
+      ],
+      "company": [
+        "Nvidia",
+        "AMD",
+        "Relativity Space",
+        "Intel",
+        "Salesforce",
+        "OpenAI",
+        "Silicon Graphics"
+      ],
+      "topics": [
+        "公司治理",
+        "高管变动",
+        "科技公司"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:54:08Z"
     }
   },
   "quota": {
-    "2026-11-13": 12
+    "2026-11-13": 13
+  },
+  "last_run": {
+    "time": "2026-11-13T10:54:08Z",
+    "attempted": 3,
+    "succeeded": 3
   }
 }
