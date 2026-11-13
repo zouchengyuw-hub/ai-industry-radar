@@ -20,7 +20,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python radar.py summarize
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_W }}
           ENABLE_FREE_AI: ${{ vars.ENABLE_FREE_AI }}
           AI_DAILY_LIMIT: '30'
       - name: Save summaries
@@ -36,3 +36,4 @@ jobs:
             done
             exit 1
           fi
+
