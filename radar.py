@@ -65,8 +65,9 @@ def gemini(item,text,key,model):
  url='https://generativelanguage.googleapis.com/v1beta/models/'+model+':generateContent'
  payload={'contents':[{'parts':[{'text':prompt}]}],'generationConfig':{'responseMimeType':'application/json','maxOutputTokens':800,'temperature':0.1}}
  r=SESSION.post(url,headers={'x-goog-api-key':key},json=payload,timeout=45)
- if r.status_code==429: raise RuntimeError('模型额度或速率限制')
- r.raise_for_status();result=r.json(); raw=''.join(p.get('text','') for p in result['candidates'][0]['content']['parts']);o=json.loads(raw)
+ if r.status_code==429: raise RuntimeError('模型额度或速率限制（HTTP 429）')
+ if not r.ok: raise ValueError('模型 API HTTP '+str(r.status_code))
+ result=r.json(); raw=''.join(p.get('text','') for p in result['candidates'][0]['content']['parts']);o=json.loads(raw)
  if not isinstance(o.get('summary'),list) or not o.get('title'):raise ValueError('invalid output')
  return {'title_zh':o['title'],'summary':o['summary'],'company':o.get('company',[]),'topics':o.get('topics',[]),'basis':'正文前12000字符','summarized_at':iso(now())}
 
@@ -90,7 +91,7 @@ def summarize(limit=4):
   count+=1;quota[day]=count;save(SUMMARIES,cached)
   try:cache[item['id']]=gemini(item,text,key,os.environ.get('GEMINI_MODEL','gemini-2.5-flash-lite'))
   except Exception as e:
-   cache[item['id']]={'error':'AI提炼失败：'+(str(e) if isinstance(e,RuntimeError) else type(e).__name__),'retry_after':iso(now()+dt.timedelta(hours=2))};save(SUMMARIES,cached)
+   cache[item['id']]={'error':'AI提炼失败：'+(str(e) if isinstance(e,(RuntimeError,ValueError)) else type(e).__name__),'retry_after':iso(now()+dt.timedelta(hours=2))};save(SUMMARIES,cached)
    if isinstance(e,RuntimeError):break
   save(SUMMARIES,cached)
  print(f'今日云端模型调用 {count}/{daily_max}；当前摘要或失败记录 {len(cache)} 条')
