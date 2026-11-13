@@ -28,4 +28,19 @@ class SummaryTests(unittest.TestCase):
    radar.save(radar.NEWS,{'items':[{'id':'a','title':'A','url':'https://example.com','priority':0,'first_seen':'2026-11-13T00:00:00Z','published':None}]})
    with patch.object(radar,'fetch_article',return_value=(None,'正文不可用')),patch.object(radar,'gemini_batch') as model:radar.summarize()
    result=radar.load(radar.SUMMARIES,{});self.assertEqual(result['items']['a']['error'],'正文不可用');model.assert_not_called()
+class BatchTests(unittest.TestCase):
+ def test_batch_ignores_unknown_ids_and_tracks_missing_items(self):
+  fake_response={'candidates':[{'content':{'parts':[{'text':json.dumps({'articles':[{'id':'a','title':'标题','summary':['要点']},{'id':'unknown','title':'无关','summary':['无关']}]},ensure_ascii=False)}]}}]}
+  from unittest.mock import Mock
+  response=Mock(status_code=200,ok=True);response.json.return_value=fake_response
+  with patch.object(radar.SESSION,'post',return_value=response):
+   out=radar.gemini_batch([({'id':'a','title':'A'},'正文'),({'id':'b','title':'B'},'正文')],'test-key','model')
+  self.assertEqual(set(out),{'a'});self.assertEqual(out['a']['summary'],['要点'])
+ def test_transient_failure_retries_within_15_minutes(self):
+  import datetime
+  with tempfile.TemporaryDirectory() as d, patch.object(radar,'NEWS',Path(d)/'news.json'), patch.object(radar,'SUMMARIES',Path(d)/'summaries.json'), patch.dict('os.environ',{'ENABLE_FREE_AI':'true','GEMINI_API_KEY':'test-key'},clear=True):
+   radar.save(radar.NEWS,{'items':[{'id':'a','title':'A','url':'https://example.com','priority':0,'first_seen':'2026-11-13T00:00:00Z','published':None}]})
+   with patch.object(radar,'fetch_article',return_value=('x'*500,None)),patch.object(radar,'gemini_batch',side_effect=ValueError('模型 API HTTP 503')):radar.summarize()
+   item=radar.load(radar.SUMMARIES,{})['items']['a'];retry=datetime.datetime.fromisoformat(item['retry_after'].replace('Z','+00:00'))
+   self.assertLessEqual((retry-radar.now()).total_seconds(),900);self.assertIn('503',item['error'])
 if __name__=='__main__':unittest.main()

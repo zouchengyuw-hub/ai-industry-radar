@@ -90,7 +90,7 @@ def summarize(limit=3):
  for item in candidates[:20]:
   if time.monotonic()>deadline or len(articles)>=limit:break
   text,error=fetch_article(item)
-  if error:cache[item['id']]={'error':error,'retry_after':iso(now()+dt.timedelta(hours=6))};continue
+  if error:cache[item['id']]={'error':error,'retry_after':iso(now()+dt.timedelta(hours=1))};continue
   articles.append((item,text[:12000]))
  save(SUMMARIES,cached)
  if not articles:print('没有可读取的待提炼正文');return
@@ -101,7 +101,9 @@ def summarize(limit=3):
    cache[item['id']]=output.get(item['id']) or {'error':'模型未返回此篇结果','retry_after':iso(now()+dt.timedelta(hours=2))}
  except Exception as e:
   error='AI提炼失败：'+(str(e) if isinstance(e,(RuntimeError,ValueError)) else type(e).__name__)
-  for item,_ in articles:cache[item['id']]={'error':error,'retry_after':iso(now()+dt.timedelta(hours=2))}
+  transient=isinstance(e,RuntimeError) or 'HTTP 503' in str(e) or 'HTTP 500' in str(e)
+  for item,_ in articles:cache[item['id']]={'error':error,'retry_after':iso(now()+dt.timedelta(minutes=15) if transient else now()+dt.timedelta(hours=2))}
+ cached['last_run']={'time':iso(now()),'attempted':len(articles),'succeeded':sum(bool(cache[item['id']].get('summary')) for item,_ in articles)}
  save(SUMMARIES,cached)
  print(f'今日云端模型调用 {count}/{daily_max}；本次文章 {len(articles)}；成功 {sum(bool(cache[item["id"]].get("summary")) for item,_ in articles)}')
 
