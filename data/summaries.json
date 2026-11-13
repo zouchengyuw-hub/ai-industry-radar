@@ -578,9 +578,77 @@
     "211b0dbb97e7beea0f8baba0611a3ce6b28fc5be620a48384499e082a10b8cf3": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-13T12:52:13Z"
+    },
+    "c0101f36ad82bf9132fd32eb4132fbbfec210ace67fe38311f58e2f752d97fd8": {
+      "title_zh": "Gemini Intelligence：新功能与更多支持设备",
+      "summary": [
+        "谷歌宣布为更多安卓设备（包括摩托罗拉 signature 27 及 Pixel 10 系列）推出 Gemini Intelligence，并扩展了 Rambler 4 语音转文本和任务自动化等功能的应用范围。",
+        "推出“创建我的小部件”（Create My Widget）功能，用户可以通过简单的提示词由 Gmail、日历和搜索中提取信息来定制主屏幕或手表小部件。",
+        "推出“设备协助”（Device Assistance）以及安卓汽车（Android Auto）的主动建议功能，帮助用户在不同屏幕和场景下获得智能支持。"
+      ],
+      "company": [
+        "Google",
+        "Samsung",
+        "Motorola"
+      ],
+      "topics": [
+        "人工智能",
+        "移动设备",
+        "软件更新"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:52:59Z"
+    },
+    "6d8eb3bcd497222db1584f1aa2993835a109f04276471f75e3d9dbc836822f75": {
+      "title_zh": "Gemini 4 Carbon 现已发布",
+      "summary": [
+        "谷歌发布了最强模型 Gemini 4 Carbon，专为网络安全、复杂长周期智能体工作流、软件工程及科学推理等高难度任务打造。",
+        "Carbon 在多项独立基准测试（如 CursorBench 4.0、WANDR 和 AutomationBench）中表现优异，并以极具竞争力的价格通过 API 及谷歌 Antigravity 等平台向开发者和企业推出。",
+        "该模型在网络安全漏洞防御、科学与数学推理（如蛋白质结构预测和代码形式化验证）以及高级数据分析和多智能体协同编程方面展现出前沿性能和增强的安全防护。"
+      ],
+      "company": [
+        "Google",
+        "Perplexity",
+        "Zapier",
+        "Hebbia",
+        "Balyasny Asset Management",
+        "Wiz"
+      ],
+      "topics": [
+        "人工智能",
+        "大语言模型",
+        "网络安全",
+        "软件开发"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:52:59Z"
+    },
+    "2761edb638da751d71f85500b1aab5ef6e4ed3a2ff596473cfb8d05cdcddf535": {
+      "title_zh": "谷歌深知智能眼镜面临隐私问题：以下是其应对之策 - CNN",
+      "summary": [
+        "谷歌宣布与三星及眼镜设计师 Warby Parker、Gentle Monster 合作开发的 AI 智能眼镜将于 12 月 10 日上市，旨在简化与 Gemini 的交互。",
+        "为了应对隐私争议，谷歌的智能眼镜内置了防篡改指示灯，并在使用 Gemini 交互时对周围人的面部进行模糊处理，同时对捕获的数据进行加密且不用于广告定向。",
+        "尽管采取了这些保护措施，谷歌承认防范偷拍的核心隐私难题仍未完全解决，目前正在研发更多的旁观者提醒和基于位置的隐私功能，并明确表示目前没有计划添加面部识别功能。"
+      ],
+      "company": [
+        "Google",
+        "Meta",
+        "Samsung",
+        "Warby Parker",
+        "Gentle Monster",
+        "EssilorLuxottica"
+      ],
+      "topics": [
+        "智能眼镜",
+        "隐私保护",
+        "人工智能",
+        "可穿戴设备"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-13T10:52:59Z"
     }
   },
   "quota": {
-    "2026-11-13": 11
+    "2026-11-13": 12
   }
 }
