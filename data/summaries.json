@@ -464,9 +464,57 @@
     "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
       "error": "AI提炼失败：模型 API HTTP 404",
       "retry_after": "2026-11-13T12:43:56Z"
+    },
+    "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:45:08Z"
+    },
+    "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-13T16:45:08Z"
+    },
+    "c06fca3b9549fb95708df0f2353796ec58f056e0b405f51a42ea39400a3b35d2": {
+      "title_zh": "Gemini Decisions API：快速、校准的多模态决策",
+      "summary": [
+        "谷歌推出了 Gemini Decisions API，由全新的 Gemini Decision 1 模型驱动，提供快速的闭集决策能力。",
+        "该 API 支持处理文本、图像、音频、视频和 PDF 等多模态输入，能够在一个前向传递中评估多达 1,000 个独立问题，端到端延迟低至 150-250 毫秒。",
+        "定价为每百万输入 Token 0.10 美元，不收取输出 Token 费用，并支持三种决策类型：是/否（noul）、多项选择（choice）和有序评分（score）。",
+        "谷歌内部多个团队（如 Gemini Notebook、Stitch、Google Labs 的 CC 以及 Google Search）已将其用于动态模型路由、设计迭代、表情符号选择和安全层构建。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "人工智能",
+        "API",
+        "多模态模型",
+        "机器学习"
+      ],
+      "basis": "正文前12000字符",
+      "summarized_at": "2026-11-13T10:45:10Z"
+    },
+    "2c4a1ee2a455ffba16e5057dcd42e62957d6b4066d1c3e9f8d421ebd1f14d25f": {
+      "title_zh": "深化与英国政府的合作伙伴关系以支持AI时代的繁荣与安全",
+      "summary": [
+        "深化与英国政府的合作，利用AI加速科学、教育、公共服务现代化及国家安全的发展。",
+        "为英国科学家提供前沿AI工具的优先访问权限，包括AlphaEvolve、AlphaGenome、AI co-scientist和WeatherNext模型。",
+        "计划于2026年在英国建立Google DeepMind首个专注于材料科学研究的自动化科学实验室。"
+      ],
+      "company": [
+        "Google DeepMind"
+      ],
+      "topics": [
+        "人工智能",
+        "政府合作",
+        "科学研究",
+        "教育",
+        "材料科学"
+      ],
+      "basis": "正文前12000字符",
+      "summarized_at": "2026-11-13T10:45:11Z"
     }
   },
   "quota": {
-    "2026-11-13": 5
+    "2026-11-13": 7
   }
 }
