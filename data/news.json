@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:18:16Z",
+  "updated_at": "2026-11-14T18:24:01Z",
   "sources": {
     "nvidia": {
       "ok": true,
@@ -98,6 +98,16 @@
     }
   },
   "items": [
+    {
+      "id": "5667249fce668766f2adec05fa299a357b6a2f26fc37a9bc36c2dccae50bbf16",
+      "title": "人工智能时代的适度劳动与职业健康研讨会在福州举行 - 东南网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SZ25OdUJaS1VrQXJlWUt2QmxkSnZFbnZ3eTF5MEpIY2tYR0RUWldyWHByQVdHbjd6Z1prcDUzX3lwaGxnWjUwRW0wUzdHTVMxZ2JTa3lXeWxnSkhNMDhJWkYxYUswNkFzMVlkcw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-14T14:56:50Z",
+      "first_seen": "2026-11-14T18:24:01Z"
+    },
     {
       "id": "0dac5bc8bd77a78df1260cd126f04faa05f89e641c1c943c15879e6962360b64",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
