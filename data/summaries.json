@@ -435,7 +435,7 @@
     },
     "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T04:28:51Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
       "title_zh": "推出 Gemini 4 Hydrogen",
@@ -523,11 +523,11 @@
     },
     "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:43:55Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:43:55Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
       "title_zh": "人工智能助力社会影响力",
@@ -547,11 +547,11 @@
     },
     "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:45:08Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:45:08Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "c06fca3b9549fb95708df0f2353796ec58f056e0b405f51a42ea39400a3b35d2": {
       "title_zh": "Gemini Decisions API：快速、校准的多模态决策",
@@ -632,32 +632,91 @@
       "summarized_at": "2026-11-13T10:49:01Z"
     },
     "8e8e851f9ac38a1986e4da167bff89ff0f811e14b6cf3f75bb84b07e91b8552c": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T12:49:08Z"
+      "title_zh": "体验埃丝特·马兰古博士的艺术与传承",
+      "summary": [
+        "Google Arts & Culture 推出了艺术家埃丝特·马兰古（Dr. Esther Mahlangu）的首个在线回顾展，以庆祝其 91 岁生日。",
+        "项目结合了谷歌 DeepMind 和 Google Arts & Culture 实验室的技术，利用人工智能和 Veo 还原并重现了马兰古 10 岁至 1980 年间未被记录的早期生活记忆。",
+        "回顾展汇集了来自多家知名博物馆和机构的 45 个以上故事与丰富档案，展示了她对全球当代艺术的重要影响。"
+      ],
+      "company": [
+        "Google",
+        "Google DeepMind",
+        "Domestic Data Streamers",
+        "Art of Contemporary Africa",
+        "Iziko Museums of South Africa",
+        "British Museum",
+        "Jean Pigozzi Collection",
+        "National Museum of Women in the Arts",
+        "Serpentine"
+      ],
+      "topics": [
+        "人工智能",
+        "艺术与文化",
+        "数字档案",
+        "文化遗产保护"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T10:48:08Z"
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:49:08Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:52:11Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-13T16:52:12Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "0a9ebdb63db3687d34639c74f820071b0b2cf24b19890ef2c99358b8005ff2a0": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T12:52:13Z"
+      "title_zh": "人工智能如何帮助回收商将混合废物转化为可重复使用材料",
+      "summary": [
+        "全球初创企业正利用基于 NVIDIA 技术的 AI 和机器人来改善废物分类，以推动循环经济并减少垃圾填埋。",
+        "台湾初创企业 AIRECO 利用视觉 AI 和机器人进行精细塑料分类，目标是将处理能力提高近三倍并大幅降低成本。",
+        "EverestLabs AI、Greyparrot 和 reverse.fashion 分别在北美/澳洲、英国和欧洲应用计算机视觉与边缘计算技术，显著提升了回收设施对固体废物、包装材料及纺织品的处理效率与准确率。"
+      ],
+      "company": [
+        "NVIDIA",
+        "AIRECO",
+        "EverestLabs AI",
+        "Greyparrot",
+        "Amcor",
+        "Coca-Cola",
+        "Colgate-Palmolive",
+        "Kenvue",
+        "reverse.fashion"
+      ],
+      "topics": [
+        "人工智能",
+        "循环经济",
+        "废物回收",
+        "机器人技术",
+        "可持续发展"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T10:48:08Z"
     },
     "412fd95eff74cad8ca5cd9cebb9caafc275750de73c5fca2b7c3c6a158e2809d": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-13T12:52:13Z"
     },
     "211b0dbb97e7beea0f8baba0611a3ce6b28fc5be620a48384499e082a10b8cf3": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T12:52:13Z"
+      "title_zh": "NVIDIA 董事会独立成员声明",
+      "summary": [
+        "NVIDIA 董事会独立成员已聘请前美国纽约南区代理联邦检察官 Joon H. Kim 及其所在的 Wachtell, Lipton, Rosen & Katz 律师事务所，就此前宣布的事项开展彻底的独立调查。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Wachtell, Lipton, Rosen & Katz"
+      ],
+      "topics": [
+        "企业治理",
+        "独立调查"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T10:48:08Z"
     },
     "c0101f36ad82bf9132fd32eb4132fbbfec210ace67fe38311f58e2f752d97fd8": {
       "title_zh": "Gemini Intelligence：新功能与更多支持设备",
@@ -805,7 +864,7 @@
     },
     "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T04:28:51Z"
+      "retry_after": "2026-11-14T11:48:05Z"
     },
     "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
       "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
@@ -827,14 +886,18 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-13T23:28:11Z"
+    },
+    "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T11:48:05Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
-    "2026-11-14": 1
+    "2026-11-14": 2
   },
   "last_run": {
-    "time": "2026-11-14T03:28:53Z",
+    "time": "2026-11-14T10:48:08Z",
     "attempted": 3,
     "succeeded": 3
   }
