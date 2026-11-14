@@ -1118,15 +1118,79 @@
     "4b6be27b08661b0692852b1569bb4c4a673db4ee20154a687e2ea7ae4ac9a866": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-14T18:38:57Z"
+    },
+    "1d980cecae4ce0aab0632eb002951392c1ad635311edb1d16819b3b6292df902": {
+      "title_zh": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "summary": [
+        "NVIDIA发布了针对韩国领先开源模型（如SK Telecom的A.X K2、LG AI Research的K-EXAONE 2.0等）的Dynamo优化部署方案。",
+        "NVIDIA Dynamo是一个开源的分布式推理服务框架，用于在多节点环境中管理请求路由和通信，以最大化推理性能。",
+        "针对NVIDIA B200 GPU进行了优化，这些方案开箱即可提供高达2倍的性能提升，助力开发者加速开源模型的生产落地。"
+      ],
+      "company": [
+        "NVIDIA",
+        "SK Telecom",
+        "LG AI Research",
+        "Upstage",
+        "Motif Technologies"
+      ],
+      "topics": [
+        "人工智能",
+        "开源模型",
+        "模型部署",
+        "分布式推理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:26:27Z"
+    },
+    "8f7dfee3212fe05876f47cd276619cc74b8c2c8ce1b5ac5acf308eff334b3d5b": {
+      "title_zh": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+      "summary": [
+        "NVIDIA、Rebellions与SK Telecom宣布合作，利用NVIDIA NVLink Fusion推进韩国的主权AI基础设施建设。",
+        "Rebellions计划采用NVLink Fusion将其下一代R200 NPU连接至NVIDIA的机架级推理开放基础设施平台。",
+        "SK Telecom计划在其AI数据中心部署这些系统，结合其专有模型与服务，支持韩国的“AI for All”项目。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Rebellions",
+        "SK Telecom"
+      ],
+      "topics": [
+        "主权AI",
+        "AI基础设施",
+        "半导体",
+        "硬件合作"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:26:27Z"
+    },
+    "b475b7dcc2276d63203ffeb5959c5cae813a217fd0208b255df456a8d1203bb2": {
+      "title_zh": "Raising the quality of insights in agentic analytics",
+      "summary": [
+        "尽管代理式AI（Agentic AI）承诺自动化整个工作流程，但目前企业中不到一半的代理生成洞察能带来实际的业务改进。",
+        "洞察质量低下的主要原因在于缺乏业务背景以及数据碎片化或无法访问，同时还存在“洞察过载”的问题。",
+        "企业正通过加强AI与数据治理以及在数据架构中添加语义层等方式，致力于提升代理生成洞察的质量。"
+      ],
+      "company": [
+        "Snowflake",
+        "MIT Technology Review"
+      ],
+      "topics": [
+        "生成式AI",
+        "企业分析",
+        "代理式AI",
+        "数据治理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:26:27Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
-    "2026-11-14": 6
+    "2026-11-14": 7
   },
   "last_run": {
-    "time": "2026-11-14T18:23:57Z",
+    "time": "2026-11-14T18:26:27Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
