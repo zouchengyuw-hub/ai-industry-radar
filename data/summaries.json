@@ -435,7 +435,7 @@
     },
     "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
       "title_zh": "推出 Gemini 4 Hydrogen",
@@ -523,11 +523,11 @@
     },
     "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
       "title_zh": "人工智能助力社会影响力",
@@ -547,11 +547,11 @@
     },
     "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:54Z"
     },
     "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:54Z"
     },
     "c06fca3b9549fb95708df0f2353796ec58f056e0b405f51a42ea39400a3b35d2": {
       "title_zh": "Gemini Decisions API：快速、校准的多模态决策",
@@ -660,15 +660,15 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:54Z"
     },
     "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:42Z"
+      "retry_after": "2026-11-14T19:14:54Z"
     },
     "0a9ebdb63db3687d34639c74f820071b0b2cf24b19890ef2c99358b8005ff2a0": {
       "title_zh": "人工智能如何帮助回收商将混合废物转化为可重复使用材料",
@@ -864,7 +864,7 @@
     },
     "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
       "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
@@ -889,11 +889,11 @@
     },
     "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:41Z"
+      "retry_after": "2026-11-14T19:14:53Z"
     },
     "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T17:44:42Z"
+      "retry_after": "2026-11-14T19:14:54Z"
     },
     "ef83b8dc18b1604dec2efe929f1d14bae3a22991fc66232d94721b8f676ae478": {
       "title_zh": "Google Cloud推出面向医疗领域的Gemini",
@@ -951,15 +951,98 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-14T16:44:45Z"
+    },
+    "991ad48e8559b2fefa9ff7bc2bbc96fe5e673f91d6bb1c78428d1dddc9dc303e": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "69d4d9d74efa01629a6c751d8fa58a99d17f0aecb815f679bbfeeb3edf259e44": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "9092d5eb66f29547408d30e047abeac0f87e4c54c42653bfc957c7ad549984e3": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "f3fc54cd1d78c100d666a9c2ab2fb50b602d94d149788dbd0586059b0a0e8b98": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "37e4452e64c861cffe83ba46c2eaac34a7fe63e9ccc79076dee9b50af52cb47b": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "caa9073cefb43725f1a58e80c726b61b1142cf3c90f98b3ffe382a94354b7081": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "952d2516af2e905436adea3bc1ec3df5f6a7559eef98c6b3c275da646bdd61ac": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:14:54Z"
+    },
+    "8827aad4505e69ef98eb5a35323bf36ab3ed2a3bb0a72d80b78337fc2eae5ce7": {
+      "title_zh": "Gemini Robotics 2.5 加速现实世界通用灵巧性",
+      "summary": [
+        "Argon 可以从真实世界相机场景中生成数千次不同且模拟的练习运行，并构建逼真的数字孪生。",
+        "结合真实训练演示，Argon 使机器人能够更快地泛化到新场景和对象，并帮助研究人员分析任务失败原因。",
+        "在 Gemini 4 Argon 等前沿智能模型的加速下，Gemini Robotics 2.5 标志着迈向解决物理 AGI 的重要里程碑。"
+      ],
+      "company": [
+        "Google",
+        "Google DeepMind",
+        "Agile",
+        "Apptronik",
+        "Mercedes-Benz"
+      ],
+      "topics": [
+        "机器人学",
+        "人工智能",
+        "模拟训练",
+        "物理 AGI"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:14:57Z"
+    },
+    "61e7ac7c7e624eb36dec26da6568c691b9f012a47f279f9da05848b8abff68a8": {
+      "title_zh": "实践带来精准：在 CoRL 大会上，NVIDIA 及其合作伙伴揭示机器人如何在模拟中排练精细工作",
+      "summary": [
+        "NVIDIA 在 CoRL 大会上推出了包括世界动作模型、模拟工具、基准测试和智能体工作流在内的全新开放机器人技术。",
+        "新推出的 GR00T 2 是基于 NVIDIA Cosmos 构建的开放前沿世界动作模型，旨在赋能机器人学习灵巧操作技能。",
+        "NVIDIA Isaac Lab 3.0 与 Newton 物理引擎的结合使用户能够对可变形物体和复杂关节系统进行精确模拟，从而加速机器人训练。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Ambi Robotics",
+        "Bosch Research",
+        "Dexmate",
+        "Dyna Robotics",
+        "FieldAI",
+        "Flexion",
+        "Noitom Robotics",
+        "Siemens",
+        "Skild AI",
+        "RLWRLD",
+        "Walden Robotics",
+        "Foxconn"
+      ],
+      "topics": [
+        "机器人学",
+        "模拟训练",
+        "人工智能",
+        "世界动作模型",
+        "工业自动化"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:14:57Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
-    "2026-11-14": 3
+    "2026-11-14": 4
   },
   "last_run": {
-    "time": "2026-11-14T16:44:45Z",
-    "attempted": 3,
-    "succeeded": 3
+    "time": "2026-11-14T18:14:57Z",
+    "attempted": 2,
+    "succeeded": 2
   }
 }
