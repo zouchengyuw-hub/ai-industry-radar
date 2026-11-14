@@ -28,26 +28,11 @@ jobs:
           if [ -f data/summaries.json ]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add data/summaries.json
-            git diff --cached --quiet || git commit -m 'Update summaries'
             for attempt in 1 2 3; do
               git fetch origin "$GITHUB_REF_NAME"
-              python - <<'PY'
-              import json, subprocess
-              from pathlib import Path
-              path = Path('data/summaries.json')
-              remote = json.loads(subprocess.check_output(['git','show','FETCH_HEAD:data/summaries.json'], text=True))
-              local = json.loads(path.read_text())
-              merged = dict(remote.get('items', {}))
-              merged.update(local.get('items', {}))
-              remote['items'] = merged
-              remote['quota'] = {**remote.get('quota', {}), **local.get('quota', {})}
-              if local.get('last_run', {}).get('time', '') >= remote.get('last_run', {}).get('time', ''):
-                  remote['last_run'] = local.get('last_run')
-              path.write_text(json.dumps(remote, ensure_ascii=False, indent=2) + '\n')
-              PY
+              python -c 'import json,subprocess,pathlib; p=pathlib.Path("data/summaries.json"); remote=json.loads(subprocess.check_output(["git","show","FETCH_HEAD:data/summaries.json"],text=True)); local=json.loads(p.read_text()); merged=dict(remote.get("items",{})); merged.update(local.get("items",{})); remote["items"]=merged; remote["quota"]={**remote.get("quota",{}),**local.get("quota",{})}; remote["last_run"]=max([remote.get("last_run",{}),local.get("last_run",{})],key=lambda x:x.get("time","")); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
               git add data/summaries.json
-              git diff --cached --quiet || git commit -m 'Merge AI summaries'
+              git diff --cached --quiet || git commit -m 'Update summaries'
               git rebase "origin/$GITHUB_REF_NAME"
               if git push origin HEAD:"$GITHUB_REF_NAME"; then exit 0; fi
             done

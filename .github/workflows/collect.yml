@@ -23,24 +23,11 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/news.json
-          git diff --cached --quiet || git commit -m 'Update collected AI news'
           for attempt in 1 2 3; do
             git fetch origin "$GITHUB_REF_NAME"
-            python - <<'PY'
-            import json, subprocess
-            from pathlib import Path
-            remote = json.loads(subprocess.check_output(['git','show','FETCH_HEAD:data/news.json'], text=True))
-            local = json.loads(Path('data/news.json').read_text())
-            by_id = {item['id']: item for item in remote.get('items', [])}
-            by_id.update({item['id']: item for item in local.get('items', [])})
-            remote['items'] = sorted(by_id.values(), key=lambda x: x.get('first_seen',''), reverse=True)
-            remote['updated_at'] = max(filter(None, [remote.get('updated_at'), local.get('updated_at')]), default=None)
-            remote['sources'] = local.get('sources') or remote.get('sources', {})
-            Path('data/news.json').write_text(json.dumps(remote, ensure_ascii=False, indent=2) + '\n')
-            PY
+            python -c 'import json,subprocess,pathlib; p=pathlib.Path("data/news.json"); remote=json.loads(subprocess.check_output(["git","show","FETCH_HEAD:data/news.json"],text=True)); local=json.loads(p.read_text()); d={x["id"]:x for x in remote.get("items",[])}; d.update({x["id"]:x for x in local.get("items",[])}); remote["items"]=sorted(d.values(),key=lambda x:x.get("first_seen",""),reverse=True); remote["updated_at"]=max(filter(None,[remote.get("updated_at"),local.get("updated_at")]),default=None); remote["sources"]=local.get("sources") or remote.get("sources",{}); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
             git add data/news.json
-            git diff --cached --quiet || git commit -m 'Merge collected AI news'
+            git diff --cached --quiet || git commit -m 'Update collected AI news'
             git rebase "origin/$GITHUB_REF_NAME"
             if git push origin HEAD:"$GITHUB_REF_NAME"; then exit 0; fi
           done
