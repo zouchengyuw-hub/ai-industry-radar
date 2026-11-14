@@ -25,16 +25,18 @@ jobs:
           AI_DAILY_LIMIT: '30'
       - name: Save summaries
         run: |
-          if [ -f data/summaries.json ]; then
+          cp data/summaries.json /tmp/local-summaries.json
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout FETCH_HEAD -- data/summaries.json
+            python -c 'import json,pathlib; p=pathlib.Path("data/summaries.json"); remote=json.loads(p.read_text()); local=json.loads(pathlib.Path("/tmp/local-summaries.json").read_text()); remote["items"]={**remote.get("items",{}),**local.get("items",{})}; remote["quota"]={**remote.get("quota",{}),**local.get("quota",{})}; remote["last_run"]=max([remote.get("last_run",{}),local.get("last_run",{})],key=lambda x:x.get("time","")); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            for attempt in 1 2 3; do
-              git fetch origin "$GITHUB_REF_NAME"
-              python -c 'import json,subprocess,pathlib; p=pathlib.Path("data/summaries.json"); remote=json.loads(subprocess.check_output(["git","show","FETCH_HEAD:data/summaries.json"],text=True)); local=json.loads(p.read_text()); merged=dict(remote.get("items",{})); merged.update(local.get("items",{})); remote["items"]=merged; remote["quota"]={**remote.get("quota",{}),**local.get("quota",{})}; remote["last_run"]=max([remote.get("last_run",{}),local.get("last_run",{})],key=lambda x:x.get("time","")); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
-              git add data/summaries.json
-              git diff --cached --quiet || git commit -m 'Update summaries'
-              git rebase "origin/$GITHUB_REF_NAME"
-              if git push origin HEAD:"$GITHUB_REF_NAME"; then exit 0; fi
-            done
-            exit 1
-          fi
+            git add data/summaries.json
+            git diff --cached --quiet && exit 0
+            git commit -m 'Update summaries' || true
+            git fetch origin main
+            git rebase FETCH_HEAD || { git rebase --abort; continue; }
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1

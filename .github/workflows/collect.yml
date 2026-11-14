@@ -23,12 +23,16 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cp data/news.json /tmp/local-news.json
           for attempt in 1 2 3; do
-            git fetch origin "$GITHUB_REF_NAME"
-            python -c 'import json,subprocess,pathlib; p=pathlib.Path("data/news.json"); remote=json.loads(subprocess.check_output(["git","show","FETCH_HEAD:data/news.json"],text=True)); local=json.loads(p.read_text()); d={x["id"]:x for x in remote.get("items",[])}; d.update({x["id"]:x for x in local.get("items",[])}); remote["items"]=sorted(d.values(),key=lambda x:x.get("first_seen",""),reverse=True); remote["updated_at"]=max(filter(None,[remote.get("updated_at"),local.get("updated_at")]),default=None); remote["sources"]=local.get("sources") or remote.get("sources",{}); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
+            git fetch origin main
+            git checkout FETCH_HEAD -- data/news.json
+            python -c 'import json,pathlib; p=pathlib.Path("data/news.json"); remote=json.loads(p.read_text()); local=json.loads(pathlib.Path("/tmp/local-news.json").read_text()); d={x["id"]:x for x in remote.get("items",[])}; d.update({x["id"]:x for x in local.get("items",[])}); remote["items"]=sorted(d.values(),key=lambda x:x.get("first_seen",""),reverse=True); remote["updated_at"]=max(filter(None,[remote.get("updated_at"),local.get("updated_at")]),default=None); remote["sources"]=local.get("sources") or remote.get("sources",{}); p.write_text(json.dumps(remote,ensure_ascii=False,indent=2)+"\n")'
             git add data/news.json
-            git diff --cached --quiet || git commit -m 'Update collected AI news'
-            git rebase "origin/$GITHUB_REF_NAME"
-            if git push origin HEAD:"$GITHUB_REF_NAME"; then exit 0; fi
+            git diff --cached --quiet && exit 0
+            git commit -m 'Update collected AI news' || true
+            git fetch origin main
+            git rebase FETCH_HEAD || { git rebase --abort; continue; }
+            if git push origin HEAD:main; then exit 0; fi
           done
           exit 1
