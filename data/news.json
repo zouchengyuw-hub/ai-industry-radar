@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:24:01Z",
+  "updated_at": "2026-11-14T18:26:21Z",
   "sources": {
     "nvidia": {
       "ok": true,
@@ -98,6 +98,166 @@
     }
   },
   "items": [
+    {
+      "id": "51a8c2ef0fc12290952f5bb32d337c63b08d25079c8ef4f55d11a79324b1608b",
+      "title": "Open-source AI without Jensen - by Nathan Lambert - Interconnects AI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lQXpKS3lPM0Vxbkp0WEU1MDhFRzlvQ2s4Wm9uYk1yRGtnVUNtbGoxVEdfaF8wem53LXNXSFZ3MWk1alBfRVU3OVFpcTJLMzYyaUxrTTYzWFU1YUMxSzBHMVprUEdzZVRfdXBUbA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T12:23:15Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "066454a716701955d00707955184b753f04660c46049f1959258573214139f9e",
+      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LV25wOFJyUll0dnZqV2lvQTFGREdqVnJnNDRFSVpoZGFISHJFREVBOUJUWlNGUm5iZy1JcDJIdHdGaXZPcjdBdTdNcUFRVlM4YnFvcE1qVEV1X3Bqck5sR1ZwVk5IWFlRcHFQanpsRktRUDDSAXhBVV95cUxQTHdzNVM4M3ZWQWJNNVl3OGFOQjRob1VkRzg3aGtKU0JSYkpocVFGZ2N3ZGlYYUE5WmV5d0NlSThxM09lYlRVdHM1czRQRUlBS1FSdllyZUR6S3hkT1VhZFc1UW1TRVFxN0JCNDExaGpYLW9TOHpnNHo?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-12T16:55:01Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "1f1b61b35a3ac42eda9d3b21524a14d72ec2e3daa5518b1a1b8560dc40c56ad1",
+      "title": "How Jensen Huang’s resignation from Nvidia is threatening AI-powered economy - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhGSXNsZHhmeEM3NURxZks0ZDV1VjRNOGhSZnpQdjk5MVM3UG45Wlk5YzJLUFF4bzB4R19rQm9tZFVDTFVyTWFES3J0QjczUzJmeUZ4eUV5VW1wX3RHT3B6OGxXQnQ2dk9ZT0tLN1d0UTVxVEFqWmVlLUlMQUQ1eEV3MXE5eHlmRi1F?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T11:00:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "4dce0afa3c07a666ade871f6b69ab6fa82ac5429e9a9a74d42ed8ff75392da71",
+      "title": "Nvidia Leadership Crisis Raises Concerns Over AI Semiconductor Earnings and US Export Restrictions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjRxTk8wODRNNEd3QXA2X2FnQ1pjbzcwOV9HdXN5a0xpWlRyVWVuYk1iMXVfTmRPTlF1eEtJNk9MTEYycXc2TjM5RVpPU2VnVXBjSTNCNTVYcXRRdC1TbW04a1otY012MlZGY0tLQTVsdkc2Y0puVUxrU1M1UXNzT1hnVXFTRVQ1NzZzZ25XTjU0SUl6T0lBUG9zZ0lLbmFQMXNkcXE0MA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T16:10:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "e2fd9d64e20a82928bca95a787afdd8ece000593913a8dca50976dbedb0586c8",
+      "title": "The Nvidia scandal has hidden upside potential for the AI trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWc4Tm5XSzJjOFB1RHhiVmtkbi1BWlp0VVhtWk8yQlJQWGhkMlhxektZVmh4T1NkWThWcnNNcnBGUW5pMDl1Q1p5dU9sNUN4NHR0dUY0OUFxMjZoMC0zbFNyeWMyS1hIMk9TcTExRmJ2S2lHR1RNd05DNVRSX3JTcGwyUHp0djBEMzhtNmZ1UXlzOTloM21MUU50RVc2Sy03OFpVdDFvblc0cUVWVVBmTHlkR2pCYVFmcnQ1c1VnTEo?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T11:00:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "9717c62729152fed7ec30a662ae071468dae310a4fbab74ec404d746575d57e2",
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTlFOUlFc0RmcnJFc01ab3Z1TFFaR2ZYTHZCS2prbnJNbFFzVTN3bDJ5amd6NWxZX216ZmRHbHJDdWFPYjN1R3l0bVhOMTloLXRJNE8tSWNXdzdMV051NVU4ZkVaeFU3bDdqeWtFMkUyTzlkdkhrSzdmSDVKaDBIOXRoUQ?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T14:01:02Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "61c54fc35375c20428f8bc9fad29e7aedcf0c712c4dae764ef52c23c09f5b86d",
+      "title": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDEwYUl1V3JQSU1MMUlWQ2k5V0toMnNCNUFZLXFaTldqYTVEWXlrZ0xudEhMNDk4bVJweUxrNThEaGo1VmRhYTRndVJ6djRINHRNQU8yVE9oczQyUUVxRzVjbnNzZlFQbEhTcGV6elkzcjNNVWs3RFhZYVg3a00zNlhxam1xV0ExcVM0ZEIzN05oQl9YTU5vUC1FVXFXU1k3dFpwQmx0d0hGdw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T17:17:40Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "06a34bad23efd5e36814737c7b1a3a84fe85441caa302288db42b5c2b2b18d57",
+      "title": "Nvidia’s Scandal Is Poking Real Holes in the AI Trade. That Doesn’t Mean It’s Over. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOeVp6SkZKLWtBRFRFSHVldzZBLXFqQmpOWmdaWTRpWGRwdy1TQmIxM1gxblBmRlM5NU9VYU04NFU4YlYxM3V0YXlyeDNDUVdnaC1RZER0YXFJNDc2ZVpRZWgtWC1mcG1STktobFdVRU51dVowWWlKXzZTYw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T20:23:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "d8ba3879470f4390f09b1188e352e3c3220092d6ff49260895cdcf39f2ad7a39",
+      "title": "Nvidia Stock Braces For AI Chipmaker's First Report Without Jensen Huang - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb09Wd1BaSUZ6eXR5c3B3Si11cjE4NXNmV0pvT21JREtGZ21fUFhUZlNiTGJXc1AyMHJKUnZFLWFucnJoVFRMWGFWVnptcUJ3RXJ4eHN2ZlJ0STQzd1JTZG1oS2pxT3dfekdhdTlMeVZyenZ3cVNKbEFNdDA2emh3ZHlNV0oxV21nYkVZeEtaR1pVeVVoRWdyQk5nTks?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T21:30:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "637abfeb84c1525f9acebf3ad4a22905ab8ea97210df817ba1f7880808519c6f",
+      "title": "How Donald Trump and Jensen Huang Forged Their Powerful Alliance - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTdnOVVNWjZfZ2kydUwtRE9DbEFjTUJUTVc4aGw1WEZGbHJWM1YyRzIzdlpYa3RnZTQtX3IxZTdYcG8tLWNmQzNncTc2T0Z5Yjd0M21QT191bkRmYUU4b2c4MUZoZ1BFdElzN3FyUFN1bEx2b0pkcmJ2b0EtQVdaakRrc1VNZ0U1d3Q4?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T02:07:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "c3a3c002f7179a9e6e2162ee0a5402bc36c35ffc3f31acbfa8a84a2d9574bc79",
+      "title": "Jensen Huang's Nvidia Resignation Sends a Warning to Investors Counting on AI for Retirement - WLUK",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZEhPZnFta2VObjljeTVhV2xpbVEyN2xWZ0hwSTBMZXFWQjUyRkdQajNoalpvYWRjMUt2dE1lRXNqa0EySmhsVC1zcjFjbnpOMEI4MmQ3bm9GODliSDVaVUJHUXhJSDRFR0RiYXJMOGJweVhBWVNoc0dFbUFlakFhYnV3?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T13:04:23Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "d9730e5e4b07a46825907ac0b6f044220671986329d3a66a230982653fd6e964",
+      "title": "Claude Meetings lets Anthropic's AI join your video calls - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEdvelpLM01FUEYxQWUtM0t6cUxCTE9YcE1mMmlxUUJLLUJnZ2JsOW1qalg3TjQxRnROaDdwQVZCR25TYkZRTlBjVmEwWXNlOWhBdW43S1o5WTRaN1N4dG5FOFhXeEhzNXd2eTNKeDJPZl9RUmJfdk9aZXU1Z1Nfc3kyY2pEdmIz?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-12T21:48:46Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "81e6f576e45ceaaebfeb0d3419d01d94ae60d9f746c9c7d92a07213554e6b880",
+      "title": "Nvidia Tanks as Altman Joins Dario in AI Chip Export Ban - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZklXTlY1a0laWXlwNlNuWWloMXFRb3RvbFJpWlFGTFBxSFFaSk43UXZGY3FGVzhBb1h4VGhjWHhKdG5XUHhpLTBlN1ZZVzZZRm90Tm5peW9JUnhicFM3MjdMN1pleW5oNC1rTFpFZ2J3RllWY0tNYl9aa3d2OU1ZWkh1c2xDVlBmN1pnZlF0RU13R2RzbW90WXktRQ?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T20:07:30Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "be9f6fde68af9ac5641334dcbd26bce691bb7ef9495afa91445623731eb3e239",
+      "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYjV4RXlrMW1JMXFPUWhsbXJtT2F6dFYzeFpOVHdjNExTaFlXSFZSaGYzVGxXNnYtd2ZpN2VhV0VsUEVzVlhpUVpKRzBWWW5yS1NsZDhEZ2gzSEhNN0FoSDU5SktyMkR3X0N5WGlLUTJYYVVhaWJqNHRielpNMUtpbmxMUy1KZTBrRTNPU0d2anVraml5TmR0MW9mY0U5SjRWRjZ6dy1hQjNSelJoZDdFYlY5dnpJNGdCajFCUkYzMA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T22:15:51Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "9cb1cf434cdd2a6053967c219f0e6c704cb0f3bd6ef48b3de589ee5a73aca70f",
+      "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-13T02:08:00Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
+    {
+      "id": "72ad59740f78fd3e59a36ce638d1e4f4dc0d29d38d36883136f69ed363dec8fd",
+      "title": "‘I don’t care’: Jensen Huang reportedly gave up in his final hours as Nvidia CEO — as his affair scandal wipes away more than $1T in value - MoneyWise.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3VTa1h1UHJDbUxRcHZYVFExRXd2Mmt2d1NFQ1VzU1BzT0ZZTTNJVWdUZnVvVTVMV3VmNTB1aDVCdTU2TnotVmFSN2FMMC1NVFRPemRXTTVRTWphN0h5aEpIaUdKSXVCSy1PQi1fU19mM3ZtODUySHF5VDBWTE44Y1RWS1RwV25qSlBZOW1n?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-14T13:00:20Z",
+      "first_seen": "2026-11-14T18:26:21Z"
+    },
     {
       "id": "5667249fce668766f2adec05fa299a357b6a2f26fc37a9bc36c2dccae50bbf16",
       "title": "人工智能时代的适度劳动与职业健康研讨会在福州举行 - 东南网",
