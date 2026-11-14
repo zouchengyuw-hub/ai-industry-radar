@@ -699,8 +699,25 @@
       "summarized_at": "2026-11-14T10:48:08Z"
     },
     "412fd95eff74cad8ca5cd9cebb9caafc275750de73c5fca2b7c3c6a158e2809d": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T12:52:13Z"
+      "title_zh": "我评测了 Apple HomeView，欢迎向我提问",
+      "summary": [
+        "The Verge 的资深智能家居评测员 Jen Tuohy 对售价 299 美元的 Apple 首款智能显示屏 HomeView 进行了为期一周的测试。",
+        "评测范围涵盖桌面版和壁挂版的多种场景应用，并测试了全新的 Siri AI 功能。",
+        "Verge 订阅用户可以开始提交关于这款苹果首款智能显示屏的问题，评测员将在线进行解答。"
+      ],
+      "company": [
+        "Apple",
+        "The Verge",
+        "Amazon",
+        "Google"
+      ],
+      "topics": [
+        "智能家居",
+        "产品评测",
+        "科技硬件"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:18:19Z"
     },
     "211b0dbb97e7beea0f8baba0611a3ce6b28fc5be620a48384499e082a10b8cf3": {
       "title_zh": "NVIDIA 董事会独立成员声明",
@@ -1034,15 +1051,70 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-14T18:14:57Z"
+    },
+    "02e9abf47eaf3fa01f98fe0d8703230a8e6faa4dd4f2fb401bd0d8381c4ff554": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:18:16Z"
+    },
+    "2e34e84f0999c607fcd026638ba274edf1639ff07c6ab06d851f57d1a6442eba": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T19:18:16Z"
+    },
+    "78a38ab1bb2e5e3a2eb9f6bcdf3a75b5c0e1f01e1d6615cc7fc0c1c6d00de0b3": {
+      "title_zh": "NVIDIA 在 MSIT-NVIDIA AI 创业伙伴论坛上宣布对韩国初创公司的新投资计划",
+      "summary": [
+        "韩国科学技术信息通信部与 NVIDIA 联合举办了 MSIT-NVIDIA AI 创业伙伴论坛，汇聚了 20 多家韩国初创公司。",
+        "NVIDIA 宣布投资韩国初创公司 Point2，并计划对 Motif Technologies、RLWRLD 和 Upstage 进行进一步投资。",
+        "这些投资涵盖了从基础设施到模型再到机器人应用的整个 AI 技术栈。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Point2 Technology",
+        "Motif Technologies",
+        "RLWRLD",
+        "Upstage"
+      ],
+      "topics": [
+        "人工智能",
+        "投资",
+        "初创公司",
+        "技术合作"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:18:19Z"
+    },
+    "59b779471e81fefef54ab0bd5b514b375ed98ed8e01fad0b320572e889614378": {
+      "title_zh": "韩国与 NVIDIA 合作推动各行业的物理人工智能发展",
+      "summary": [
+        "NVIDIA 正在帮助推动韩国的物理 AI 生态系统，三星、Kakao Mobility 和 LG Electronics 等行业领导者正将加速计算和 AI 应用于实际生产中。",
+        "三星电子扩展了与 NVIDIA 的合作，利用加速计算和 AI 物理技术推进半导体创新，在材料研究和模拟方面实现了显著提速。",
+        "Kakao Mobility 计划利用 NVIDIA 技术推进 L4 级自动驾驶发展，LG Electronics 则与 NVIDIA 成功展示了基于 Isaac GR00T 的机器人制造任务。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Samsung Electronics",
+        "Kakao Mobility",
+        "Kia",
+        "LG Electronics"
+      ],
+      "topics": [
+        "物理人工智能",
+        "半导体",
+        "自动驾驶",
+        "机器人",
+        "技术合作"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T18:18:19Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
-    "2026-11-14": 4
+    "2026-11-14": 5
   },
   "last_run": {
-    "time": "2026-11-14T18:14:57Z",
-    "attempted": 2,
-    "succeeded": 2
+    "time": "2026-11-14T18:18:19Z",
+    "attempted": 3,
+    "succeeded": 3
   }
 }
