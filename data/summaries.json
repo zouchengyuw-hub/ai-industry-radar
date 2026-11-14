@@ -435,7 +435,7 @@
     },
     "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
       "title_zh": "推出 Gemini 4 Hydrogen",
@@ -523,11 +523,11 @@
     },
     "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
       "title_zh": "人工智能助力社会影响力",
@@ -547,11 +547,11 @@
     },
     "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "c06fca3b9549fb95708df0f2353796ec58f056e0b405f51a42ea39400a3b35d2": {
       "title_zh": "Gemini Decisions API：快速、校准的多模态决策",
@@ -660,15 +660,15 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:42Z"
     },
     "0a9ebdb63db3687d34639c74f820071b0b2cf24b19890ef2c99358b8005ff2a0": {
       "title_zh": "人工智能如何帮助回收商将混合废物转化为可重复使用材料",
@@ -864,7 +864,7 @@
     },
     "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
     },
     "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
       "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
@@ -889,15 +889,76 @@
     },
     "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T11:48:05Z"
+      "retry_after": "2026-11-14T17:44:41Z"
+    },
+    "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-14T17:44:42Z"
+    },
+    "ef83b8dc18b1604dec2efe929f1d14bae3a22991fc66232d94721b8f676ae478": {
+      "title_zh": "Google Cloud推出面向医疗领域的Gemini",
+      "summary": [
+        "Google Cloud发布了Gemini for healthcare，旨在统一碎片化的临床、运营和行政系统。",
+        "该平台能够整合电子病历、账单平台等数据，帮助医护人员处理医疗记录合成和事先授权审核等复杂工作流。",
+        "目前该产品在预览阶段推出，首批合作伙伴包括HCA Healthcare、Highmark Health和Northwell Health。"
+      ],
+      "company": [
+        "Google Cloud",
+        "HCA Healthcare",
+        "Highmark Health",
+        "Northwell Health"
+      ],
+      "topics": [
+        "人工智能",
+        "医疗健康",
+        "云计算"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T16:44:45Z"
+    },
+    "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94": {
+      "title_zh": "推出AlphaProof Code：深入验证复杂软件的突破",
+      "summary": [
+        "Google DeepMind研究人员构建了AlphaProof Code代理框架，首次对Signal协议的实际代码进行了形式化验证。",
+        "该系统利用多个LLM代理和Lean语言生成了超六百万行的数学证明，将原本需要数年的工作缩短至四周。",
+        "实验证明该框架能够准确区分正确代码与包含漏洞的代码，提升了密码学协议的安全性。"
+      ],
+      "company": [
+        "Google DeepMind"
+      ],
+      "topics": [
+        "人工智能",
+        "软件安全",
+        "密码学"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T16:44:45Z"
+    },
+    "d0f9bf46fa9dba7cc8efaedfd242bd87fcfd2424508bec21de1f7baf642d26dc": {
+      "title_zh": "开放我们AI天气模型背后的数据集",
+      "summary": [
+        "发布了SatWeave和PARDIG两个基础数据集，以支持全球研究人员和开发人员构建天气、水文和气候应用。",
+        "SatWeave是一个全球静止卫星图像镶嵌图，可提供云层和风暴的实时视图；PARDIG是一个基于AI的全球降水数据集。",
+        "这些数据集支持了WeatherNext 3模型的进展，官方同时提供历史档案和实时馈送供外部使用。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "人工智能",
+        "天气预测",
+        "开源数据集"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T16:44:45Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
-    "2026-11-14": 2
+    "2026-11-14": 3
   },
   "last_run": {
-    "time": "2026-11-14T10:48:08Z",
+    "time": "2026-11-14T16:44:45Z",
     "attempted": 3,
     "succeeded": 3
   }
