@@ -435,7 +435,7 @@
     },
     "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T00:28:07Z"
+      "retry_after": "2026-11-14T04:28:51Z"
     },
     "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
       "title_zh": "推出 Gemini 4 Hydrogen",
@@ -457,8 +457,22 @@
       "summarized_at": "2026-11-13T23:28:11Z"
     },
     "f19cddd04797ae7d9ed5d0a1d62c167e87f3414d038a70f2ab5d51a8aa7353f1": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-13T18:17:26Z"
+      "title_zh": "谷歌搜索通过Gemini 4 Hydrogen迎来重大升级",
+      "summary": [
+        "谷歌搜索推出迄今为止最大的模型升级——Gemini 4 Hydrogen，现已在全球范围内向所有用户推出。",
+        "新模型具备更好的意图理解、改进的查询扩展与链接、更具视觉效果的响应以及更丰富的语言理解能力。",
+        "用户可以通过自然语言提出多部分组成、包含拼写错误或高度具体的问题，并获得更精准的图文和表格响应。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "搜索引擎",
+        "人工智能",
+        "Gemini"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T03:28:53Z"
     },
     "55e43bcf2392574765dff7406b7f6da0287e451a9ee242c5d1f28b451b9ec90e": {
       "title_zh": "AI 正在改变半导体晶圆厂的运作方式——工程师借此实现更高效的研发",
@@ -485,8 +499,27 @@
       "summarized_at": "2026-11-13T23:28:11Z"
     },
     "ed8dc20742e8870df2b87cc14d4dc84c2f863277785b47ea33675b0f592a26bc": {
-      "error": "AI提炼失败：模型 API HTTP 404",
-      "retry_after": "2026-11-13T12:43:55Z"
+      "title_zh": "云端新曙光：《战锤40K：战争黎明IV》即将登陆 GeForce NOW",
+      "summary": [
+        "《战锤40K：战争黎明IV》将通过云游戏登陆 GeForce NOW 平台。",
+        "NVIDIA DLSS 5 技术将引入《战争雷霆》和《无限神话》等游戏。",
+        "《龙之信条2：黑暗觉醒》及其他多款游戏本周将加入 GeForce NOW 游戏库。"
+      ],
+      "company": [
+        "NVIDIA",
+        "KING Art Games",
+        "Deep Silver",
+        "Gaijin Entertainment",
+        "Everstone Studio"
+      ],
+      "topics": [
+        "云游戏",
+        "GeForce NOW",
+        "NVIDIA DLSS",
+        "电子游戏"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T03:28:53Z"
     },
     "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
       "error": "原文访问失败",
@@ -497,8 +530,20 @@
       "retry_after": "2026-11-13T16:43:55Z"
     },
     "970c94673769027aa8a43a16c4985c02ce67cc741b47311390118ef4015699dd": {
-      "error": "AI提炼失败：模型 API HTTP 404",
-      "retry_after": "2026-11-13T12:43:56Z"
+      "title_zh": "人工智能助力社会影响力",
+      "summary": [
+        "人工智能正在从理论研究转向解决人类复杂挑战的实际应用。",
+        "全球社区与研究人员正利用AI技术检测、治疗和预防疾病，并预测自然灾害。",
+        "AI的发展旨在扩展学习并为更多人创造经济机会。"
+      ],
+      "company": [],
+      "topics": [
+        "人工智能",
+        "社会影响力",
+        "科学发现"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-14T03:28:53Z"
     },
     "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
       "error": "原文访问失败",
@@ -760,7 +805,7 @@
     },
     "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-14T00:28:07Z"
+      "retry_after": "2026-11-14T04:28:51Z"
     },
     "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
       "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
@@ -785,10 +830,11 @@
     }
   },
   "quota": {
-    "2026-11-13": 15
+    "2026-11-13": 15,
+    "2026-11-14": 1
   },
   "last_run": {
-    "time": "2026-11-13T23:28:11Z",
+    "time": "2026-11-14T03:28:53Z",
     "attempted": 3,
     "succeeded": 3
   }
