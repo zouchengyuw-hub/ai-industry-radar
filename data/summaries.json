@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-16T08:58:43Z"
+      "retry_after": "2026-11-16T19:20:58Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1231,16 +1231,106 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-16T01:06:38Z"
+    },
+    "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-16T19:20:58Z"
+    },
+    "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-16T19:20:58Z"
+    },
+    "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
+      "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
+      "summary": [
+        "Lambda 正在部署 NVIDIA 光子学共封装光学（CPO）交换机，以连接拥有超 10,000 个 GPU 的 NVIDIA GB300 NVL72 机架。",
+        "测试表明，网络延迟在机架规模下降低了约 4%，在 POD 规模下降低了约 10%，同时保持了与传统可插拔光学器件相同的吞吐量。",
+        "NVIDIA 光子学技术通过将电光转换靠近交换机芯片并采用可更换的外置光源，大幅提升了能效和可靠性。"
+      ],
+      "company": [
+        "Lambda",
+        "NVIDIA"
+      ],
+      "topics": [
+        "人工智能",
+        "数据中心网络",
+        "光子学"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-16T18:21:03Z"
+    },
+    "c046784cf46697f9446f6d5a1c8a43febba4ebd1f38213a9ad93a09d384100be": {
+      "title_zh": "NVIDIA 扩展 Slurm 以将量子计算引入超级计算",
+      "summary": [
+        "NVIDIA 扩展了 Slurm 对量子处理器的支持，使科研人员能够更无缝地将量子计算融入超级计算工作流。",
+        "新版 Slurm 构建在开放的量子-GPU 平台之上，结合 CUDA-Q 平台加速了纠错、容错基元和量子算法的发展。",
+        "全球多家量子计算公司和超算中心已开始采用该扩展及相关接口。"
+      ],
+      "company": [
+        "IBM",
+        "Pasqal",
+        "Alice & Bob",
+        "IQM",
+        "Quantinuum",
+        "Altera",
+        "Oxford Quantum Circuits",
+        "NVIDIA"
+      ],
+      "topics": [
+        "量子计算",
+        "超级计算",
+        "NVIDIA CUDA-Q"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-16T18:21:03Z"
+    },
+    "b696bf684c37a1c04a6f8dc05e27ff13df04493bdd424050e2e3d660c773d23d": {
+      "title_zh": "NVIDIA 在 MLPerf 训练和端点测试中大获全胜，Vera Rubin 架构首次亮相即展现领先性能",
+      "summary": [
+        "NVIDIA Vera Rubin 平台在 MLPerf 训练 v6.1 和首次 MLPerf 端点测试中表现卓越，在智能体 AI 的每瓦吞吐量上实现了超 10 倍的代际提升。",
+        "Vera Rubin NVL72 在训练基准测试中展现了出色的扩展效率，并在 1,024 个 GPU 规模下保持了约 97% 的效率。",
+        "多家行业合作伙伴广泛参与了此次 MLPerf 测试，展示了 NVIDIA 及其生态系统在 AI 训练和智能体推理领域的强大实力。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Microsoft Azure",
+        "ASUS",
+        "Cisco",
+        "CoreWeave",
+        "Crusoe",
+        "Dell Technologies",
+        "Firmus",
+        "Giga Computing",
+        "Google Cloud",
+        "HPE",
+        "Inventec",
+        "Krai",
+        "Lambda",
+        "Nebius",
+        "Oracle",
+        "Quanta Cloud Technology (QCT)",
+        "Supermicro",
+        "TTA",
+        "University of Florida"
+      ],
+      "topics": [
+        "人工智能",
+        "MLPerf 基准测试",
+        "NVIDIA Vera Rubin",
+        "智能体推理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-16T18:21:03Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
     "2026-11-14": 7,
-    "2026-11-16": 1
+    "2026-11-16": 2
   },
   "last_run": {
-    "time": "2026-11-16T01:06:38Z",
-    "attempted": 1,
-    "succeeded": 1
+    "time": "2026-11-16T18:21:03Z",
+    "attempted": 3,
+    "succeeded": 3
   }
 }
