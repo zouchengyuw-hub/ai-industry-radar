@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-16T19:20:58Z"
+      "retry_after": "2026-11-17T02:55:21Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1234,11 +1234,11 @@
     },
     "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-16T19:20:58Z"
+      "retry_after": "2026-11-17T02:55:21Z"
     },
     "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-16T19:20:58Z"
+      "retry_after": "2026-11-17T02:55:21Z"
     },
     "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
       "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
@@ -1321,15 +1321,117 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-16T18:21:03Z"
+    },
+    "0f13e34240505e908ad0305d87f46c992d0056f33cc83de1763ba7112a8916ec": {
+      "title_zh": "NVIDIA DGX Spark 开发者套件将桌面变成超级计算实验室",
+      "summary": [
+        "英伟达在 SC26 超算大会上推出了 DGX Spark HPC 开发者套件，将 GB10 Grace Blackwell 超级芯片带到研究人员的桌面上。",
+        "该套件采用四节点环形集群架构，通过 NVIDIA ConnectX-7 网络直连，提供 512GB 混合内存和 20TB NVMe 存储，支持在本地运行高达 700B 参数的模型（如 DeepSeek V4.1）。",
+        "多所知名高校与机构（如加州大学伯克利分校、Kvantify、CYRAN AI 等）已利用该套件大幅缩短计算排队时间，加速材料模拟、生命科学和化学等领域的科学工作流。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Acer",
+        "ASUS",
+        "Dell Technologies",
+        "GIGABYTE",
+        "H3C",
+        "HP",
+        "Lenovo",
+        "MSI",
+        "xFusion",
+        "Kvantify",
+        "CYRAN AI",
+        "OpenFold",
+        "Hartwig Group"
+      ],
+      "topics": [
+        "超级计算",
+        "开发者套件",
+        "人工智能",
+        "硬件发布",
+        "科学研究"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-17T01:55:25Z"
+    },
+    "4c9c656647cd3a23c71c8cf69a6d540fe411f034de40f0d986324363aca10ea8": {
+      "title_zh": "英伟达最先进的 AI 基础设施供应链如何创造未来",
+      "summary": [
+        "英伟达运营负责人 Deb Shoquist 领导全球制造与供应链网络，凭借与 TSMC、Foxconn、Wistron、Amphenol 等全球顶尖制造商的深度合作，保障 AI 平台的高效量产。",
+        "英伟达通过建立严格的全程可追溯体系以及紧密的合作伙伴关系，成功将芯片产出到系统交付的周期从 5 周缩短至 2 周。",
+        "在面对 GB200 计算板等复杂产品的量产测试难题时，英伟达与其制造伙伴通过跨部门团队协同作战迅速解决问题，持续推动供应链的创新与规模化扩展。"
+      ],
+      "company": [
+        "NVIDIA",
+        "TSMC",
+        "Foxconn",
+        "Wistron",
+        "SPIL",
+        "King Yuan Electronics (KYEC)",
+        "Unimicron",
+        "Lumentum",
+        "Coherent",
+        "Amkor",
+        "Amphenol"
+      ],
+      "topics": [
+        "供应链",
+        "制造运营",
+        "人工智能基础设施",
+        "硬件生产"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-17T01:55:25Z"
+    },
+    "970d377277e32883700dc2214d345528605d5a3dd73a73751949cd26e4a0103a": {
+      "title_zh": "英伟达 CUDA-X 库赋予 AI 智能体加速科学发现的工具",
+      "summary": [
+        "英伟达扩展了 CUDA-X 库（包括 cuPhoton、cuPotential 和 cuSpa 等），通过强大的硬件加速帮助科学家处理海量数据，大幅提升天体物理、材料科学和单细胞生物学等领域的研发效率。",
+        "新增的 cuPhoton.xBeam 模块将黑洞观测数据的相关性处理时间从一个多月缩短至 8 分钟，cuPhoton.xLens 则支持对聚变模拟进行实时交互分析。",
+        "cuPotential、Daviator 以及升级后的开源 cuSpa 和 HMMER 库在药物发现、量子化学计算及基因组学等应用中实现了数倍甚至数百倍的性能提升。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Simons Foundation",
+        "D. E. Shaw Research",
+        "Schrödinger",
+        "AMBER",
+        "NAMD",
+        "GROMACS",
+        "LAMMPS",
+        "Open Molecular Software Foundation",
+        "Cadence",
+        "Fathom Therapeutics",
+        "Topos Bio",
+        "Genesis Molecular AI",
+        "Terray Therapeutics",
+        "Lawrence Berkeley National Laboratory",
+        "Memorial Sloan Kettering Cancer Center",
+        "scverse",
+        "Therna Biosciences",
+        "10x Genomics",
+        "Basecamp Research"
+      ],
+      "topics": [
+        "CUDA-X",
+        "科学计算",
+        "人工智能",
+        "软件库",
+        "生物医药与天体物理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-17T01:55:25Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
     "2026-11-14": 7,
-    "2026-11-16": 2
+    "2026-11-16": 2,
+    "2026-11-17": 1
   },
   "last_run": {
-    "time": "2026-11-16T18:21:03Z",
+    "time": "2026-11-17T01:55:25Z",
     "attempted": 3,
     "succeeded": 3
   }
