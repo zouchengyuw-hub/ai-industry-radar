@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T02:55:21Z"
+      "retry_after": "2026-11-17T11:31:51Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1234,11 +1234,11 @@
     },
     "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T02:55:21Z"
+      "retry_after": "2026-11-17T11:31:51Z"
     },
     "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T02:55:21Z"
+      "retry_after": "2026-11-17T11:31:51Z"
     },
     "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
       "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
@@ -1422,17 +1422,33 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-17T01:55:25Z"
+    },
+    "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-17T11:31:51Z"
+    },
+    "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-17T10:46:53Z"
+    },
+    "9332b18c5744f2a0ae4c6613a20c45dca22d1b5bb99aa596b01a7aa9491e3566": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-17T10:46:53Z"
+    },
+    "d150a4aa414b8ce9f29021da27be317fbde61406807c0265dac52aa040c434f1": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-17T10:46:53Z"
     }
   },
   "quota": {
     "2026-11-13": 15,
     "2026-11-14": 7,
     "2026-11-16": 2,
-    "2026-11-17": 1
+    "2026-11-17": 2
   },
   "last_run": {
-    "time": "2026-11-17T01:55:25Z",
+    "time": "2026-11-17T10:31:53Z",
     "attempted": 3,
-    "succeeded": 3
+    "succeeded": 0
   }
 }
