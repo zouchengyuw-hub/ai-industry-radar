@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T02:43:30Z"
+      "retry_after": "2026-11-18T10:14:42Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1234,11 +1234,11 @@
     },
     "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T11:31:51Z"
+      "retry_after": "2026-11-18T10:14:42Z"
     },
     "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T11:31:51Z"
+      "retry_after": "2026-11-18T10:14:42Z"
     },
     "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
       "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
@@ -1425,11 +1425,26 @@
     },
     "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-17T11:31:51Z"
+      "retry_after": "2026-11-18T10:14:42Z"
     },
     "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-17T10:46:53Z"
+      "title_zh": "CUDA 20周年：该平台如何改变科学计算",
+      "summary": [
+        "英伟达在 SC26 大会上庆祝 CUDA 诞生 20 周年，表彰推动 GPU 计算成为现代科学与人工智能基础的科研人员和开发者。",
+        "回顾了 CUDA 自 2006 年发布以来在分子生物学、深度学习（如 AlexNet）以及蛋白质结构预测（如 AlphaFold）等重大科学突破中的应用。",
+        "目前全球已有超过 1100 万开发者基于 CUDA 构建应用，其生态系统正在赋能各行各业的创新。"
+      ],
+      "company": [
+        "NVIDIA"
+      ],
+      "topics": [
+        "CUDA",
+        "高性能计算",
+        "人工智能",
+        "科学计算"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-18T09:14:44Z"
     },
     "9332b18c5744f2a0ae4c6613a20c45dca22d1b5bb99aa596b01a7aa9491e3566": {
       "error": "AI提炼失败：模型 API HTTP 503",
@@ -1463,16 +1478,52 @@
       "summarized_at": "2026-11-18T01:43:39Z"
     },
     "49e988fe944963bc5d3565b3616c13002c9532d7965800a4b85497cc35326940": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-17T19:36:05Z"
+      "title_zh": "Ian Buck 在 SC26 大会上开启英伟达周，引领科学进入智能体时代",
+      "summary": [
+        "英伟达在 SC26 大会上发布了用于科学研究的 Nemotron for Science 模型、Rubin HPC GPU 以及扩展的 Vera CPU 平台。",
+        "介绍了人工智能智能体（AI Agents）在生命科学、化学、射电天文及天气预报等领域的实际应用案例。",
+        "宣布与 IBM 及费米国家加速器实验室合作开展量子计算共同设计平台，并介绍了量子纠错和解码方面的最新突破。"
+      ],
+      "company": [
+        "NVIDIA",
+        "IBM",
+        "Fermi National Accelerator Laboratory",
+        "KTH Royal Institute of Technology",
+        "SETI Institute",
+        "DKRZ",
+        "Lambda"
+      ],
+      "topics": [
+        "人工智能",
+        "高性能计算",
+        "量子计算",
+        "科学研究"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-18T09:14:44Z"
     },
     "ad9fa4a00eb8b7fb5800852f78a3ac3c2475c82e85ebfba2b25ac353a8847e39": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-17T19:36:05Z"
+      "title_zh": "英伟达董事会成立国家安全与出口管制监督委员会",
+      "summary": [
+        "英伟达宣布成立国家安全与出口管制监督委员会，负责对公司国家安全政策、出口管制合规及全球贸易风险管理进行董事会级别的监督。",
+        "任命董事 Suzanne Nora Johnson 为委员会主席，Stephen C. Neal 和 John O. Dabiri 为成员，委员会将聘请独立外部专家提供专业支持。",
+        "此举旨在应对先进硅技术与超级智能对国家安全带来的挑战，并在支持技术创新的同时确保合规。"
+      ],
+      "company": [
+        "NVIDIA"
+      ],
+      "topics": [
+        "企业治理",
+        "国家安全",
+        "出口管制",
+        "合规管理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-18T09:14:44Z"
     },
     "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T02:43:30Z"
+      "retry_after": "2026-11-18T10:14:42Z"
     },
     "ea30d00d9b46925c2d1d59ba1dd92942a94208a1cb6e77432f1d4af2ea779e19": {
       "title_zh": "NVIDIA 扩大与供应链合作伙伴的合作，以支持人工智能基础设施建设",
@@ -1533,6 +1584,18 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-18T01:43:39Z"
+    },
+    "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-18T10:14:42Z"
+    },
+    "b43ef08ac3ed4f7af6f4fa4f8f60d0d2c49772fc6e540a21a0c9e441265578ef": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-18T10:14:42Z"
+    },
+    "3b3be741a87f5e2153e626602817efd9dcc9c3fb90f3d3d29d39838acce03d65": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-18T10:14:42Z"
     }
   },
   "quota": {
@@ -1540,10 +1603,10 @@
     "2026-11-14": 7,
     "2026-11-16": 2,
     "2026-11-17": 3,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "last_run": {
-    "time": "2026-11-18T01:43:39Z",
+    "time": "2026-11-18T09:14:44Z",
     "attempted": 3,
     "succeeded": 3
   }
