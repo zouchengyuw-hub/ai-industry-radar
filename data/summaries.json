@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1234,11 +1234,11 @@
     },
     "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
       "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
@@ -1425,7 +1425,7 @@
     },
     "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
       "title_zh": "CUDA 20周年：该平台如何改变科学计算",
@@ -1448,11 +1448,11 @@
     },
     "9332b18c5744f2a0ae4c6613a20c45dca22d1b5bb99aa596b01a7aa9491e3566": {
       "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-17T10:46:53Z"
+      "retry_after": "2026-11-18T18:30:03Z"
     },
     "d150a4aa414b8ce9f29021da27be317fbde61406807c0265dac52aa040c434f1": {
       "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-17T10:46:53Z"
+      "retry_after": "2026-11-18T18:30:03Z"
     },
     "b451aff394adbb427d3a202a80e74c0e34010e923f753539bb1f7c379790136d": {
       "title_zh": "让 Gemini 为您工作",
@@ -1523,7 +1523,7 @@
     },
     "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "ea30d00d9b46925c2d1d59ba1dd92942a94208a1cb6e77432f1d4af2ea779e19": {
       "title_zh": "NVIDIA 扩大与供应链合作伙伴的合作，以支持人工智能基础设施建设",
@@ -1587,15 +1587,23 @@
     },
     "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "b43ef08ac3ed4f7af6f4fa4f8f60d0d2c49772fc6e540a21a0c9e441265578ef": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
     },
     "3b3be741a87f5e2153e626602817efd9dcc9c3fb90f3d3d29d39838acce03d65": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T10:14:42Z"
+      "retry_after": "2026-11-18T19:14:52Z"
+    },
+    "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-18T19:14:52Z"
+    },
+    "a9ef6dbadc6b0013c70d2fb087034f16b4ba50286d8548f32b959c332c58a242": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-18T18:30:03Z"
     }
   },
   "quota": {
@@ -1603,11 +1611,11 @@
     "2026-11-14": 7,
     "2026-11-16": 2,
     "2026-11-17": 3,
-    "2026-11-18": 2
+    "2026-11-18": 3
   },
   "last_run": {
-    "time": "2026-11-18T09:14:44Z",
+    "time": "2026-11-18T18:15:03Z",
     "attempted": 3,
-    "succeeded": 3
+    "succeeded": 0
   }
 }
