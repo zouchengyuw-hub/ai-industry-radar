@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T00:30:41Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1693,6 +1693,65 @@
     "68ddb817fe4001c0fc7b71404e8ed33269a5f57651ec2110d7ae5f13ebb157e7": {
       "error": "原文访问失败",
       "retry_after": "2026-11-19T18:02:12Z"
+    },
+    "36bc207225e9e41f8c82581f6e01576f6e32dbb6b45ffe2dc91236e139ab5fda": {
+      "title_zh": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "summary": [
+        "微软与英伟达扩展全面合作，将加速计算从Azure基础设施延伸至工业系统和Windows PC。",
+        "双方通过Microsoft Foundry扩展了对英伟达开放模型（如Nemotron系列）及定制功能的访问，助力企业部署AI代理。",
+        "Azure数据中心正运行英伟达Vera Rubin NVL72系统，并在科学AI、边缘计算及Windows 365云电脑等方面展开深度合作。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Microsoft",
+        "EY"
+      ],
+      "topics": [
+        "Accelerated Computing",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Enterprise AI"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T23:30:44Z"
+    },
+    "1b3aafed7dd5d45c68229b6f07d27c707ce09e4c063b40f89c7d138fa17a007b": {
+      "title_zh": "Introducing Tool Retrieval in the Gemini API",
+      "summary": [
+        "Gemini API推出了工具检索（Tool Retrieval）功能预览，旨在解决AI代理连接大量工具时导致的Token膨胀和延迟问题。",
+        "通过配置 tool_search 工具并对暂不使用的工具设置 defer_loading: true，模型可在需要时按需加载参数架构。",
+        "该功能支持服务端检索和客户端检索，兼容远程MCP服务器，且不产生额外费用，适用于Gemini 3.6及后续模型。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "Gemini API",
+        "Tool Retrieval",
+        "Artificial Intelligence",
+        "Developer Tools"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T23:30:44Z"
+    },
+    "d47c74f9a7ce43a8bb22baede17c66c2b938b6068e54a1ac73c10b685033f5b9": {
+      "title_zh": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": [
+        "在最新一期《技术与社会对话》播客中，肯特·沃克（Kent Walker）对话传记作家兼历史学家沃尔特·艾萨克森（Walter Isaacson）。",
+        "讨论了莱昂纳多·达·芬奇、本杰明·富兰克林和埃达·洛芙莱斯等历史人物对AI时代创造力的启示，强调历史上的重大突破往往是团队协作的结果。",
+        "探讨了在信息触手可及的AI时代，为什么好奇心和人类判断力比以往任何时候都更加重要。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "Technology and Society",
+        "Artificial Intelligence",
+        "Creativity",
+        "History"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T23:30:44Z"
     }
   },
   "quota": {
@@ -1701,11 +1760,11 @@
     "2026-11-16": 2,
     "2026-11-17": 3,
     "2026-11-18": 3,
-    "2026-11-19": 3
+    "2026-11-19": 4
   },
   "last_run": {
-    "time": "2026-11-19T17:02:14Z",
+    "time": "2026-11-19T23:30:44Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
