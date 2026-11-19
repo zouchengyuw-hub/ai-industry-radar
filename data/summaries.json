@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-18T19:14:52Z"
+      "retry_after": "2026-11-19T01:33:26Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1604,6 +1604,18 @@
     "a9ef6dbadc6b0013c70d2fb087034f16b4ba50286d8548f32b959c332c58a242": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-18T18:30:03Z"
+    },
+    "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-19T00:48:30Z"
+    },
+    "cac57b5217ba2caa29c847df5f685476e5b042501a45158c9c1b997004f38006": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-19T00:48:30Z"
+    },
+    "00a064e6720eae62fd0b261292c3991b7afabb6edb219f3ad08f3297d75edd6d": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-19T00:48:30Z"
     }
   },
   "quota": {
@@ -1611,10 +1623,11 @@
     "2026-11-14": 7,
     "2026-11-16": 2,
     "2026-11-17": 3,
-    "2026-11-18": 3
+    "2026-11-18": 3,
+    "2026-11-19": 1
   },
   "last_run": {
-    "time": "2026-11-18T18:15:03Z",
+    "time": "2026-11-19T00:33:30Z",
     "attempted": 3,
     "succeeded": 0
   }
