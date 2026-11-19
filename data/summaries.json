@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T01:33:26Z"
+      "retry_after": "2026-11-19T08:53:44Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1606,16 +1606,69 @@
       "retry_after": "2026-11-18T18:30:03Z"
     },
     "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T00:48:30Z"
+      "title_zh": "Introducing Gemini 4 Neon",
+      "summary": [
+        "谷歌推出了 Gemini 4 Neon 模型，具备前沿级别的智能水平，支持复杂的软件工程、知识工作和科学工作流，并提供 100 万 token 的上下文窗口。",
+        "该模型在企业、分析、科学研究以及网络安全和代码编写等多个基准测试中表现优异，具备高效的思维层级调控和强大的安全防护能力。",
+        "Gemini 4 Neon 已通过 Google AI Studio、Gemini API、Google Antigravity 及 Gemini 应用等渠道向开发者、企业和订阅用户推出。"
+      ],
+      "company": [
+        "Google",
+        "Surge AI",
+        "Zapier",
+        "Andon Labs",
+        "Gray Swan",
+        "Collinear"
+      ],
+      "topics": [
+        "人工智能",
+        "Gemini 4 Neon",
+        "软件工程",
+        "网络安全",
+        "大语言模型"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T07:53:47Z"
     },
     "cac57b5217ba2caa29c847df5f685476e5b042501a45158c9c1b997004f38006": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T00:48:30Z"
+      "title_zh": "Genie 4 is now available",
+      "summary": [
+        "谷歌推出了全新的 Project Genie 体验，正式发布交互式世界模型 Genie 4，并对 Genie 3 进行了功能升级。",
+        "Genie 4 带来了更高真实感、实时动态交互、实时原生音频以及中途修改环境的能力，并引入了 Project Genie 智能体和社区画廊。",
+        "该功能目前向符合条件的 Google AI Ultra 订阅用户开放，Pro 用户可加入候补名单，所有生成的视音频均包含 SynthID 水印。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "世界模型",
+        "Project Genie",
+        "Genie 4",
+        "人工智能",
+        "交互式体验"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T07:53:47Z"
     },
     "00a064e6720eae62fd0b261292c3991b7afabb6edb219f3ad08f3297d75edd6d": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T00:48:30Z"
+      "title_zh": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": [
+        "谷歌宣布 Gemini 应用现已登陆低内存的 Android 设备（如 Android (Go edition) 设备），为全球数亿低配手机用户提供个人 AI 助手。",
+        "通过重新架构，该应用可在低配硬件上流畅运行，支持 Gemini Live 语音交流、相机翻译以及使用 Nano Banana 创建自定义图像等功能。",
+        "用户可通过 Google Play 下载、长按电源键或在传音（Transsion）等合作伙伴的即将推出设备上预装来使用该应用。"
+      ],
+      "company": [
+        "Google",
+        "Transsion"
+      ],
+      "topics": [
+        "Gemini 应用",
+        "Android (Go edition)",
+        "移动端 AI",
+        "低内存设备"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-19T07:53:47Z"
     }
   },
   "quota": {
@@ -1624,11 +1677,11 @@
     "2026-11-16": 2,
     "2026-11-17": 3,
     "2026-11-18": 3,
-    "2026-11-19": 1
+    "2026-11-19": 2
   },
   "last_run": {
-    "time": "2026-11-19T00:33:30Z",
+    "time": "2026-11-19T07:53:47Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
