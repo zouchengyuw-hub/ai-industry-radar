@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T00:30:41Z"
+      "retry_after": "2026-11-20T05:14:27Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1602,8 +1602,27 @@
       "retry_after": "2026-11-19T18:02:12Z"
     },
     "a9ef6dbadc6b0013c70d2fb087034f16b4ba50286d8548f32b959c332c58a242": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T17:17:14Z"
+      "title_zh": "NVIDIA RTX Spark 紧凑型台式机正式发布及本地人工智能更新",
+      "summary": [
+        "ASUS、Dell 和 MSI 推出的全新 NVIDIA RTX Spark 紧凑型台式机上市，搭载 20 核 NVIDIA Grace CPU 与 Blackwell RTX GPU，支持本地 AI 代理和模型微调。",
+        "Adobe 扩展了对 RTX Spark 的原生 Arm 支持与 RTX 加速，提升 Premiere、Photoshop、Substance 3D Painter 等应用的性能。",
+        "Blender 5.3 集成了 DLSS 4.5 射线重建技术，微软也在 Windows Server 2028 及 Windows ML 中带来多项 AI 开发更新。"
+      ],
+      "company": [
+        "NVIDIA",
+        "ASUS",
+        "Dell",
+        "MSI",
+        "Adobe",
+        "Microsoft"
+      ],
+      "topics": [
+        "人工智能",
+        "硬件产品",
+        "软件更新"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-20T04:14:30Z"
     },
     "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0": {
       "title_zh": "Introducing Gemini 4 Neon",
@@ -1752,6 +1771,65 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-19T23:30:44Z"
+    },
+    "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-20T05:14:27Z"
+    },
+    "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-20T05:14:27Z"
+    },
+    "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-20T05:14:27Z"
+    },
+    "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-20T05:14:27Z"
+    },
+    "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
+      "error": "原文访问失败",
+      "retry_after": "2026-11-20T05:14:27Z"
+    },
+    "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
+      "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
+      "summary": [
+        "NVIDIA 将出席第 30 届 UBS 全球科技与人工智能大会。",
+        "活动定于 12 月 1 日（星期二）太平洋时间上午 6:35 进行。",
+        "投资者可通过官网收听现场音频网络广播，回放将保留 90 天。"
+      ],
+      "company": [
+        "NVIDIA",
+        "UBS"
+      ],
+      "topics": [
+        "金融活动",
+        "投资者关系"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-20T04:14:30Z"
+    },
+    "81bcb470e238c85caf4cf0fd944bf121dda18ad9b1b1955ff931d76e4db2a2d5": {
+      "title_zh": "GeForce NOW 推出黑色星期五特惠及多项更新",
+      "summary": [
+        "推出限时六个月的 Performance 和 Ultimate 会员七折优惠，活动持续至 11 月 30 日。",
+        "GeForce NOW 正式登陆亚马逊所有三款 Vega OS 流媒体播放设备（Fire TV Stick 系列），并提供首月九折优惠。",
+        "五款 Bethesda 经典游戏（如《辐射 4》、《上古卷轴 V：天际》等）现已加入 GOG 版本支持，用户无需重复购买即可通过云端流式传输。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Amazon",
+        "Bethesda",
+        "GOG"
+      ],
+      "topics": [
+        "云游戏",
+        "GeForce NOW",
+        "黑色星期五"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-20T04:14:30Z"
     }
   },
   "quota": {
@@ -1760,10 +1838,11 @@
     "2026-11-16": 2,
     "2026-11-17": 3,
     "2026-11-18": 3,
-    "2026-11-19": 4
+    "2026-11-19": 4,
+    "2026-11-20": 1
   },
   "last_run": {
-    "time": "2026-11-19T23:30:44Z",
+    "time": "2026-11-20T04:14:30Z",
     "attempted": 3,
     "succeeded": 3
   }
