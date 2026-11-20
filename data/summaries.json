@@ -660,7 +660,7 @@
     },
     "9b5b194180922719bc691548c97a66eaee114bda02df05a1eefe26af1ce2ac4d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
       "error": "原文访问失败",
@@ -1234,11 +1234,11 @@
     },
     "2d7a5d6b20fff3cd431e56c6c45800450e6e12e3351b563ba22db14d6cc86266": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:13Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "dd659f011024f04f24b0b918544913431aa1336cb6fdeb78ce4549a3a5fdd29c": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:13Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
       "title_zh": "Lambda 借助 NVIDIA 光子学技术提升 AI 工厂的弹性和效率",
@@ -1425,7 +1425,7 @@
     },
     "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:13Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
       "title_zh": "CUDA 20周年：该平台如何改变科学计算",
@@ -1523,7 +1523,7 @@
     },
     "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "ea30d00d9b46925c2d1d59ba1dd92942a94208a1cb6e77432f1d4af2ea779e19": {
       "title_zh": "NVIDIA 扩大与供应链合作伙伴的合作，以支持人工智能基础设施建设",
@@ -1587,19 +1587,19 @@
     },
     "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "b43ef08ac3ed4f7af6f4fa4f8f60d0d2c49772fc6e540a21a0c9e441265578ef": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "3b3be741a87f5e2153e626602817efd9dcc9c3fb90f3d3d29d39838acce03d65": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:13Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "a9ef6dbadc6b0013c70d2fb087034f16b4ba50286d8548f32b959c332c58a242": {
       "title_zh": "NVIDIA RTX Spark 紧凑型台式机正式发布及本地人工智能更新",
@@ -1691,27 +1691,27 @@
     },
     "184d931227f2504de1a33bebb5615518a5072d45e1bfb93a37850e8332740e3a": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "58da586369f33999eb920dc2411502d48d9dc9ca37a4ab1a788d83ffd176938a": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "53d809d7420a3923e8bad7c3bd224d7d2c9da9cb37fe0d761411713f6da0b90e": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "67952d9a918d2536a7bf3b37b6c05ec5dc7c7c22fdf68db178458bb74b4d4f2d": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "68ddb817fe4001c0fc7b71404e8ed33269a5f57651ec2110d7ae5f13ebb157e7": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-19T18:02:12Z"
+      "retry_after": "2026-11-20T14:16:23Z"
     },
     "36bc207225e9e41f8c82581f6e01576f6e32dbb6b45ffe2dc91236e139ab5fda": {
       "title_zh": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -1774,23 +1774,23 @@
     },
     "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "原文访问失败",
-      "retry_after": "2026-11-20T05:14:27Z"
+      "retry_after": "2026-11-20T14:16:22Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
