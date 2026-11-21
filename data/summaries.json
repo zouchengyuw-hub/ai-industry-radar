@@ -1135,8 +1135,26 @@
       "retry_after": "2026-11-14T18:38:57Z"
     },
     "4b6be27b08661b0692852b1569bb4c4a673db4ee20154a687e2ea7ae4ac9a866": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-21T02:52:08Z"
+      "title_zh": "DXC Technology如何基于Amazon Bedrock构建多模型AI底层架构",
+      "summary": [
+        "DXC Technology基于Amazon Bedrock构建了DXC OASIS的多模型AI底层架构（substrate），为银行、医院等高度监管组织提供安全的IT运营代理。",
+        "Amazon Bedrock提供了统一的托管接口、内容过滤、PII脱敏和AWS PrivateLink等基础设施级别的安全与治理保护。",
+        "自2026年3月全面可用以来，DXC OASIS在56个衡量用例中平均将故障解决时间缩短了95%。"
+      ],
+      "company": [
+        "DXC Technology",
+        "Amazon",
+        "Anthropic",
+        "Meta"
+      ],
+      "topics": [
+        "云计算",
+        "Amazon Bedrock",
+        "企业级AI",
+        "IT运营自动化"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T10:15:26Z"
     },
     "1d980cecae4ce0aab0632eb002951392c1ad635311edb1d16819b3b6292df902": {
       "title_zh": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
@@ -1882,12 +1900,45 @@
       "summarized_at": "2026-11-20T04:14:30Z"
     },
     "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-21T02:52:08Z"
+      "title_zh": "应对对抗性蒸馏",
+      "summary": [
+        "随着前沿AI模型能力提升，对抗性蒸馏为恶意攻击者提供了在没有适当防护的情况下复制模型能力的途径，特别是在网络安全和生物学等双重用途领域。",
+        "OpenAI通过对抗性测试、模型训练、分类器、API级保护以及对模型推理过程（思维链）的保护等手段，全面检测和打击对抗性蒸馏行为。",
+        "在GPT-6.2 Astra和Sol中加强了对受保护推理过程的防御，并通过持续的账号封禁、政策制定及呼吁立法来维护美国在AI领域的领先地位。"
+      ],
+      "company": [
+        "OpenAI",
+        "DeepSeek",
+        "Moonshot AI"
+      ],
+      "topics": [
+        "人工智能安全",
+        "模型蒸馏",
+        "对抗性防御",
+        "网络安全"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T10:15:26Z"
     },
     "8145fefb47ff1ca9fa5560e62b69bf54a222274ffe6f44de71f6b3dfaaa8f955": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-21T02:52:08Z"
+      "title_zh": "Hebbia利用GPT-6 Astra提升金融研究效率",
+      "summary": [
+        "Hebbia测试了OpenAI的GPT-6 Astra，用以改善金融研究中查找所需来源以及构建符合银行家简报的演示文稿这两项工作。",
+        "GPT-6 Astra在引用所需类型的来源方面比最佳替代方案高出13.6个百分点，且引用的摘录相关性达99.5%。",
+        "在演示文稿质量方面，它满足了97.9%的适用演示要求，比最佳替代方案领先14.4个百分点，显著节省了金融专业人士审查和制作幻灯片的时间。"
+      ],
+      "company": [
+        "Hebbia",
+        "OpenAI"
+      ],
+      "topics": [
+        "金融研究",
+        "人工智能应用",
+        "大语言模型",
+        "自动化报告"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T10:15:26Z"
     }
   },
   "quota": {
@@ -1898,11 +1949,11 @@
     "2026-11-18": 3,
     "2026-11-19": 4,
     "2026-11-20": 2,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "last_run": {
-    "time": "2026-11-21T02:37:08Z",
+    "time": "2026-11-21T10:15:26Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
