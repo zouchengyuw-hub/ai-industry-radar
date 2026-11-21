@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:09:34Z",
+  "updated_at": "2026-11-21T06:58:35Z",
   "sources": {
     "nvidia": {
       "ok": true,
@@ -79,7 +79,7 @@
     "arxiv-ai": {
       "ok": true,
       "error": null,
-      "count": 400
+      "count": 0
     },
     "arxiv-ml": {
       "ok": true,
@@ -89,15 +89,1115 @@
     "arxiv-cl": {
       "ok": true,
       "error": null,
-      "count": 161
+      "count": 0
     },
     "arxiv-cv": {
       "ok": true,
       "error": null,
-      "count": 337
+      "count": 0
     }
   },
   "items": [
+    {
+      "id": "6b1a37a3501d8c9aa6e029ceb19e71baa27b4c7a03d4ed9485542409c1f63589",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "source": "AWS AI",
+      "source_id": "aws-ai",
+      "priority": 1,
+      "published": "2026-11-21T01:06:42Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "756bd32258a5ff4a6e998eab59191985004bbf78a0bc5855456cc5a177f6a291",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "source": "AWS AI",
+      "source_id": "aws-ai",
+      "priority": 1,
+      "published": "2026-11-21T00:14:26Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "a80f0b7fcfaf73bbf295f4162447c959b59b27c881ed454349e1d406b3992b58",
+      "title": "Aletheia Aegis: Deterministic sub-millisecond output guard for AI agents",
+      "url": "https://github.com/vikasny30/aletheia-aegis",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T06:21:38Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "01a058410eff8a92cdc300fbe9ff7e2c5b1c4ec9d1b6fa19ca7cb4faa8cd6870",
+      "title": "Federal Revenue When AI Replaces Labor",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T06:12:31Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "e6d22a58c704dee7caad51107645882224f280416459408baa312800389b20e3",
+      "title": "Show HN: Sniffy – a free AI detector and Chrome extension",
+      "url": "https://getsniffy.com/",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T05:47:31Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "83da1f2aa472b8eb6a7c64a609121e917b9e495408bdf852a6b21f39698a4eda",
+      "title": "Show HN: Musset, open-source Scrivener alternative with an AI that never writes",
+      "url": "https://github.com/Musset-App/musset",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T05:42:49Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "bc4ea20c927d277cad6535bf194157fa1333e7874f80fa8d948fb9ede333935f",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T05:38:01Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "16f8ba33f755702859874a997d8066efc7ce48096aeda3246050b183aaae1fdb",
+      "title": "Show HN: Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V",
+      "url": "https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T04:17:44Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "21a66ca265cce691bd81a2f0c73d28e097fa0103e884eb924928adc56d4c5b75",
+      "title": "Legit use cases for uncensored AI models",
+      "url": "https://uplinkswitch.ai",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T03:44:14Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6665a1820890493526ee6e35bba9b59857d3f0b917162cd53d49175b6a3e59f5",
+      "title": "The Dangers of AI 'Handoverism'",
+      "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T02:50:11Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "aa457c83637cdab767b0f4bc95ee08542edcbe407476c3518bcccc92b5726fb8",
+      "title": "The Most Important Charts in AI Are Wrong",
+      "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T02:45:31Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6a3a98976260ebb3c636396d5dbc16f46c50d39b57f98dacf74cd5392c91a8a3",
+      "title": "Images of Canada's most wanted are AI-generated",
+      "url": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T02:44:51Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "d9d43296365478917c08e42df52e580ebcd317fe35e8ee32811d1ad677e46681",
+      "title": "Experts warn: Everyone in AI is susceptible to a honey-trap scheme",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T02:19:42Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "a88505e29e2a65c37009ab0f5c0046e36d4b01add60aed2e6a44c507a58eb833",
+      "title": "AI R&D-relevant model capabilities are improving rapidly",
+      "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T01:23:46Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "0fcec1a6bc7a2315e1bc29dbb3afb978136064ab19f720d44bf5d5eafd98c224",
+      "title": "Things I learned coding with AI for a year",
+      "url": "https://twnstr.com/blogs/software-development-post-ai",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T01:18:18Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "2cb8c69b6a9875f0582d5a823cfe89d127731c1657d48e440bb8c8118e3cb49c",
+      "title": "Detecting AI Agents in Next.js with Vouched KYA",
+      "url": "https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T01:10:10Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c03990b614e810a0fd4dcb4c299f318822281aad78c784695c28f57332dcdbbc",
+      "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+      "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T01:03:45Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "58ec7438120e68c9003e28b1102abacaa5c76eceecab063181176c4b995ea0b8",
+      "title": "A push for a treaty to not allow AI total control over nukes",
+      "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T00:31:13Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "87df34a31f625bd3a911328565f21967823791fd739ad7e07b4a0bab97c18638",
+      "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+      "url": "https://cvigoe.github.io/website/ai-cures/",
+      "source": "Hacker News AI",
+      "source_id": "hn",
+      "priority": 2,
+      "published": "2026-11-21T00:29:57Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "07922136a13ac7e112833540e345de7548ee1132d5b67700342e2d6cef3529b8",
+      "title": "NVDA Stock Sees Biggest Fall In 22 Months, But Top Analyst Says Nvidia’s AI Boom Isn’t Over Yet — Here Are 5 Reasons Why - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDBWLTd5T3R4NFVNLWI0Vm9nWEJmd1FHdDdqLUdfWjJJdXBOWFU1d2x1Nk1NUjNCVW5OT1IzY0hLUnRIbkIxZXBsd1pNMV9MQUppQ2twZmRQT2EwT3Q3V0I2dVVLX1EyOEN6cjdSOTJHWmkydGJ6bFpfb2VaN295ekRxWDM3SXhqcVdOZlhoVzlma3VSOERiaA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T02:48:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "433139216107bee925aafc4e44e86bb1c82b09b6f933b3d9ddd2d41ab13779d8",
+      "title": "Check what your AI agents do before they do it, with Semantic governance policies - Google for Developers Blog",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXJuMFkzWWRTYldvbW55aVVZYThrNFpvVHI3b1VDemh4N1dVMk5kdDF6dW9QVmlBWGxkTlJlQzZFbUw5TnFXMTBncWhpTEFCTl9FdjJLY1hSeHJTZndzZHRlcXdfLUR0c0hiQ3gyVC0wWHFINm5VOTViSEpHTXAzbWs4SnVrWmZnSmpTMHdMYTcwQTN0YWw3Vmc1cm8tODNjcDJiZklzV0R0dC1oY1JBWmJtYkxFZw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T22:38:29Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "329916e1b61c54fc933d77e9bab0aa18d09d40746e6a59e3b01e5346ebbeb33a",
+      "title": "Scaling Airflow pipelines with AI agents on Managed Airflow - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUs4V2lwTldXRmMtY3dlUTVINmNEV3d6ZDViNEJDN2lXUUEtNDhpQWp1QjNxZ2pMWDFWd20zOE92eVVWOXZSWVN6MnRqSHhvSGZyZXFlYTFYYUg3eVpqUlFRLWowY3BlVnZrQUplMlkxeURvUFE0OFp4aDBqNjZqNzB4eEVoYUdmUFVRVGluVGs0cTgtNzhjc3VadE5jZU5iNHR4M2VUMXZRYW51RkZxcUZHQQ?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T17:21:20Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "7016c0c48d4a0c5c2a20fe9c19d8ed9025e21ac2ef3187a9088b42969cf2f7ed",
+      "title": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T22:30:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "81d192fdd1408d9e3e606bce1320d79cd1c4c45e77de124643e0a0827c566eb0",
+      "title": "Tristan Thompson Reveals His “Home Run” Investment in Anthropic AI After Its $81.3 Billion Stock Debut - E! News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTZPbDRlZDljRGk1V1pmNlJERTZmVkgwQVd2bkFpUWZ0d2lUR3UyVW5wVzFVLUVYVW9DOEJLLTJCaGh1cW5lRDF3WGNqaDlSRi1rTEhLTkFWei1UazR0RGtSc1RYdmJUUWpJeEQzY3daY2JPSktlUExZd1N5RWlQNTFUcThnVmdxTWZlX240Yzg2QVEyTVVseDVrdnFERnB5MGV6dUUzUVludUZB?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T00:08:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "77fadabf0e0c8862ed807e266cf353f8f43b07ed30f32da9a4f54e47ca47759c",
+      "title": "Anthropic retail traders face losses as shares dive 13% the day after debut - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T18:16:23Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "f33816855e17d6d89031b51ce002e9bb9e7f2e6fcc99a4de30c6777374a4d02f",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini - Google Research",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlRVWE01Qm4tMzF5bnZxeFJXajNPR05fMTNxd184akFELTB1aF84OEZWUjRsUkRRMG4zYVlhRmI2T0lKZHV2MWVGbDdqNkdnWWNSenJkWWhtMkFzczFhMGEyLW0xM1B1Yy1lMGg5NUNLMkJ1TjhGZlBQeVZoUjRYZjVfcmtPNjlrQzVLNTYwRzFOSzY3WnJ6Z0NDd2Vvdw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T23:31:34Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ee0c93541f8b59724faed5b895759afac2bf1f9aa9a76793289625702bb161e6",
+      "title": "AI: Anthropic’s IPO Aloft, Nvidia Reigns On, TSMC Steps In & More. AI-RTZ #1277 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWHVWV1VmNHpXWGQ5eUlLZUFlVmgtcDl2N1lIQkZLZEllUWhLRlV4bS1qUFFLT0ljT1lNNlVlVVV1Q0lEY0s0UHgtYmFDeFBlM093UFhtUlBrXzduRFhBLUd1eExGZ1NoaE1ySVpNU1BaR2dfeGpmLWhXbnI4NGc?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T06:02:36Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "0f1fa3f630462ee71c3df825263510400af47fb98a64e22962b71c921df62ab5",
+      "title": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T17:10:35Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "3c010d19409e0eba6903b5fafc6a62ad49d0228e18726150a1ac77bfb6c8d33c",
+      "title": "Anthropic’s post-debut stumble delivers reality check for AI trade - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmJKZnQxSjJZSFFic3RSOTZjY2VNUFBhV0NNN1Fjd2UxMWlwdHVzSWRxZXJQLTh5SENCQ2hLV0FrT0hZWk5la2hjZUgycnJKTV91RGxsaURkaGdObnVnQk1iOTBHN3JOb0hVYnFadmdYRHRVeWhmN1d1WUpHeTZ5VlpjYw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T04:19:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "7477f844085f8ac50a65e147254e709f227509175f461fa2f13d22de77231e68",
+      "title": "AI may have solved the most important problem in mathematics - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY256NUZxVFdCVEZCamFBLV90OXFrMGJaZTJWcDBtaGFyMGxjUjExSko2bUU0VzZKeFBZazJQblBrUS1VdkJOWEl1MG1idkFVSkV3S3lFSTJQMXVJaWpnZF9oZFQ3d0dVcjJmU0F0eXV1VzUzYXdOUUZVX09xcEE1eGE3VWpqeWR5WnduVEx6MUw5bzBfYlFyLU1nQWZ5LW0zMHFRNTFEQzlCUGU3SXpRUVY1eDR2M0N6bHF6ZA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T21:41:15Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "3c36cda77f38fcf6a2acef148eaecc27e60dd93d41e3d500538d3e6e46e83300",
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1o0V0VWVWFJMVk1d3RFd0xGX0Z2X2h1MnZIaU95SlRVeDR2M0JiXzNCY09oZlpmMlZxRnEtOFBsend2SkNDbU40djB4YlN3NHVTcWVRS3RxNktTR09UWnE2dExMVVdrdEpMWWgtS085QkJTUXByTXdKWkVBV3gyUmNwcnFCd3MzRndrSEZScElQV3M1akRYYnVubHpacGszRVZva2hrYzRxTERTSHhvNWYzemZQOEd0ajlxSkprQndSVGdkbktDZHFn?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T04:52:30Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "2634f5875009d91a2c106196e89cccc4051b3ed69383153c85c701f8d3309e17",
+      "title": "Watch Hindlian Advisory CEO on AI & Anthropic Market Sell-off - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjJaSXVYVUVfU3Q1QVk1b0pkejliTHc2d0ZnVkRQRTZBZVBOSUF4YzhaRDJ1QmlDeEZnNzA2UlZ1V1NpLTRjdFkxM0dUbDk0UE1TNkxvZ253VHdpZDNCTndHYjlZVTVKeXVOUG5Hek9JTFRIaGQ0R0FjYVd0bXZzeGRZdUd3cy1ZTnhmLWlhSTFrNXJIUHk1MTV6QzFkZWJBTFB3YmxIeFQ4NERw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T23:01:57Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6eef3c98d338c0638a769f8c89c3e194ed4229d1da803019a01624e422796659",
+      "title": "COPYRIGHT NEWS—Anthropic and Meta self-helped themselves to AI training materials, new lawsuit asserts - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOLW9HRlRYZGg3aXBsVEllckNNdEJ5a3BMZXYxeWphaUJranRsTnd2QldMY29xNHI3U2JDZTA1Vy0wVGZZRGZyVkRuaFJWLVBMd1QybEVnU1VBejBIem9QSnJyVWdhOHJrZWxNS0dvVFpmZVoxaGp5aHotUzdHalVwM3pjdXhxckVVemlsUWhzbjd3WnlyLUkzdVlyTS1ka2tYSU9acHFaQVhRZXczOTZaQkQzbUItemZnZmdVdDI0TzRTNUhqemtsNUNMdnBQbDhWRG5aY0hCekRtLUg4ZDFkWV81aE91aHVReWgtVG5WaE1pS0lDVmpUTTFNZ3Zzdw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T00:59:31Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "2bd5925477bbe367ea819daeb969c66d43f46e185b6bfcdf8071509a2436448f",
+      "title": "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTklYb2p0ZDVLc1dIdVhGS25WSE5UbzZSbHdjYXFqMS1rMXBzcEN5WERCSVdOVThPRUVCOVJXaFNFaVZaTWxtWDAwUG0zMnQ3WU93T05UTmliLVRVeFdGbFlKY2VqVlk3TGJwbUJnamVYRVVVaE4xZGNiR1hNdnAzX1l4aHR5TUszT2xsYkJKR2o5bUlnOVp2NkFn?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T04:19:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "45d8862e45f96c65464fb3bf18413853e9b38365d7ae16f0a7adc8e1794ecd78",
+      "title": "Google's New Homepage Redesign Makes AI Search Even More Like Gemini - PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmpxUjdBeG9LTEY4eWdhdE1NcVJ5S3RPbXVOdUsxVkdmUWphZURrVmhaOWwtZFk2ZDk2RnNEbU1HR25YZ0FsT196SHZQa1hXXzM3a3ptTmkzalB1eFNtTXUtTU15RjlwOXRZZFhtTWZ6aERVajJpajE5R3ZwWHo3cFpoMEF3QWxCRmctcDVJNmRNYXpaOHNzUjZreHJCQ1Jt?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T03:59:47Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "70f53457ef9d02c8c3c3b44f12f143661dcde783c6879352ee749bf93fa86673",
+      "title": "Google Builds Fake Internet to Test AI Agent Security - GovInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHNWakF3emZic0h4WWs3ZlZiTFlkUTJfdGhxMVhXUGFnVW1zZjZPNzJjZWhjZnN2VEU5RTVqS0dMR0VWOTd0aE5kcGlLNVlEVFBGSXk4aHRLSHRaVHlDd25uQ0xqREx2alE0NkdFRzduQmtPYVl4cjI3R3RVZ2pHMFpRSU5ZQ09lRktESkIzUTlVa2IxMmVXSw?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T22:19:47Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "12fc75aab98b65d91303427eb95d5f81f3332a4e9eaa7dc6510cef1d27926c6c",
+      "title": "Anthropic mathematician says AI helped solve one of math's most famous unsolved problems - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMTlVRl9xOUVOVGJmRWVhZnBjZDh1U3JVSzgtT2k5RE9jaHFqcWYwRzEtNDNlQ0lxemFRV0x3T21yR2RYdFZDeXlNWVQxQkRqRDEtd0xMWDByRkFJQ1ZEbjR5MUh3Zl9yWFFsU1ZuNzhTQnFVWmlFVVUxeTl4QjhQYWZTQTJGN1lJaE9paDdWeVQwUVdqeFdrR2EyMXlSdW42eVh1VTdVcHpMWVpIY09hU2EzcWV5cU8tNXpDelZrOXBQQWVodjlmbUl3VW1MMHp0WlRYTkZwdlRQOG8?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T00:39:52Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "7cb207bedc740e2deaf2fec53d0cc5437148b9e35d6732607cc70d8901e0344a",
+      "title": "Gemini 4 Neon Is on the $19.99 Google AI Pro Plan, Not Ultra - OrcaRouter",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUF9lSW1QaENOLU5kRnlEZjRsSUtTMmFxeHlKd1h6UjluSGZUaVFiUWFUNnlEOTF5NGhVZ05NZUF2aDAzUWlEckp0dkxOeFZtQkxNYzlOcV9SWXBpWTZMdWJLREZfM24wX1dWRA?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T03:12:32Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4d7ba7c1f658117f83ea1c46e148d0bd1582dffd7c8c2bf9a1741143848b5508",
+      "title": "Google Drops Search Button for 3 Gemini AI Shortcuts - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUZLaWVxb0k3a0lSd20zVWRLRmlrWnZKNE5NQnkxay1xMkItdFV0dVd1cW9YOUUtTG5WS3puRTlUekVYRWI3ZVhxU3NYdFhyZUpTNHBoY2k3elp1cFA3MGxJb2F1SHRPbnRndWdUVG5ycTA5WmVMaWpJNWpkWW14Q29R?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-21T00:20:46Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "e41e5578f32820f8a5d722f3231036f08bcadf51c43ba30005553a9f9b26039a",
+      "title": "5 Critical Challenges Facing AI Chip Giant Nvidia - Design News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVI4ZlU2SE9MeXdmemtmdUdPVUdxLTY0RDBoNkI0VTB0ZjgzU2xESkJyelJYbllURTViOWlmYzZ0WWpoS0pUZk9selpHejlvMXF5TlNLbDRyUDI1VzBRVUlRR2RwNjNVUnR2RHhaYnFWcmRCOEF0b2Nzb0QxeDFiOS1iODNsZVhL?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T21:40:22Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "a5ad1e90464381f40b92ce7139b482372385342fba580a9c8145f77f2499813d",
+      "title": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1VJaHVqMzZFUWdGNm53MDlYdDlPRW9xX254NHRmelMyb3pBQXREOWRVWHgtMW4xUmhWYThCMnY4bmxMeFdPX2RrWmxwYlZiQTNSLXZkcUdsS0FtcmRHVkhTNm5UdG51MURGc0xOVm1lNVhJUlU4OFdfTjdHV1dEVmo4Z1ZnWDMwRVBCeUsyVGdzdmdxcnJlLWM4TjE5UlJ4SHp5eXVfbWdDbENCdVRhZHVXVi1lY1pfazVTbQ?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T23:39:57Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "dda12045e8220b8b2e27122034bfbf214210b32497c508a80e52c452d169af1d",
+      "title": "US Stock Futures Fall as Anthropic Shares Retreat and AI Concerns Weigh on Global Markets: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY00yVG5QWERBdHUyMWNybW1Uekc0Z2Q5aTBmWGZmZnB6VDVTWGQyRHMyc0dncWk4WHdsUDEtU1gxM1RIdFFQdzdFUmFXSFB2dlRmdnJDNnljV1JHdUg1bm9UYTNhRE1EdktIZmx0WmM0Q1BuV2hrWjRkWnYxVnN5NUtYMmNKMHZCa0ljYU5xb1VBaTBTRGZDSjVHZ3Q?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T09:44:20Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "f365ceb20a5684624d6429ce596da6f65378557577d33996929e84cb03cd7cc7",
+      "title": "Anthropic’s $2 Trillion IPO Draws Protesters Over AI Safety: “We Don’t Want To Die” - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUpzT0JqcWFlNnpmMHBsRk45aWRmdFdEcFJmUmU5RThlVVRnZWtaeUlCX3RkRk1Ya0NOamt3TFdXSlJHbnFyTHB6SXdfeUoyaFNMck1id3JzRzFxYlpmclpYbW5idktqczZNemY3dURoV2g0Znp0NmpKNzJ0UGFta0R4czBpUm5LdGVEREZaSFVKVVg1S0NiRG13?oc=5",
+      "source": "Google News AI Industry",
+      "source_id": "industry",
+      "priority": 1,
+      "published": "2026-11-20T18:58:38Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "e198c98cc2e3e26894cb1705ba4f4596d235003d083c30f082d4bb6baa06b14b",
+      "title": "Anthropic Researcher Claims AI Has Solved Math’s Greatest Mystery - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0tWdWs1Z04zbnI3OHkyWkRoQ3dYZDNiQVhhMXpNUmllUjhFQ1Q3M09qTWR3T0hfMUh0S3F1ZjNackRSeHY3eWRNa01ONFE0Q1h6R3ZpWjEzT29fRGIwVXdwZm84ekZjeTc1Yks0cll2YzVJSnZjd3JiNlJVT3RoRF9XaXRnRkY4SG1BN09sRHdXVmdXODJUWUV1OA?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T21:35:30Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4c87be1061dddb4ab7b0f1826c060ad10945588f120b8f8fbcbdf27065fdb39a",
+      "title": "It takes only minutes for AI tool to ace all English, math CSAT questions - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmNHVWdkazJBRTBGcGN5LXFVRzladVpaNDE2NFlwYkg0UFl1cUw5Z2o1ZFhQSjVBcEI4SXFJakhseklRcVdzTEdhQXNUUXNLSTVLS0hjRlFUY1U2bHphTU1ubXFtekNDMkNTNjROejRXektsd3JGZmEzLTVDZzZoVXcxX0lET1RKaDhIa1ZCblpqcnVSU3FhdDRlYklHdE1HdHdZVzBoek9vRVJjd2FWNF9BaW55dWk3QU82N1VKMW1HQTJwV3JXbVB1c9IB0AFBVV95cUxOWEo2MGhtM1hYSEpNaENxT1J0dEZNRHpCUVVzZWtxRkVaNk42VU83S1Jyc3NQU242dl90SXFXVFFSNGNtZVp3SVZNSWl0dFkxOVZTU3dBUXpHbzF1M29tUF8tRlR4ajJXRlpuc3lOekEwZmNNckFVNUJxUHhPSzFYeTJaQkg5Y2l1MG9HOFpRT2xVV2tFZ0lqTHN4T2lUZkFQdGVxMFlIbFIwQy1OSUk4RkhRWTJRa1RQS0dsLXpudzdiNk1fUDRtWXhsa0tVa1hz?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T06:29:03Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4fc93d7bf8d5e48dd41c67f2291c4f3ca25f417fb6fc3d80135a9a5ed01694d6",
+      "title": "Senators Will Weigh Caregiver Artificial Intelligence Risks - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yd0lTeVQwTkY0ZjZ6OVdZTTU3UDg4clF2bmwwNFFHaDEyRU1OeVRCR2JKcURSY24zbHBGSnVFTnFWTmk2dDRSTUg2ZDAxMnJkbjBZZGRlY3IyQXkySTNSYVpTUFpJUzBwckNucWlXRTJEUmpCYUE?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T21:11:09Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ed7ab7074e7dceef9dfeea16c64994ee712fe5dba00f68c3119f764c363d93af",
+      "title": "Will Artificial Intelligence (AI) Replace Family Law Attorneys? - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRURVaWtXRVBlamxjbkd2RnMxMlFlbU4ydHg3T2Ywc0JZb1hWNE5YVHFZVldZdDlWcjNia0oySU9mcjVOdzQ3MUR0eUlEQ2E1OTRNS2JZcmRWMzN0WW9JdVVDRHZHOFhucTM4c0NEa3lRTmRUQm05RTNwNG80M2J5SVd4TEhrSGtNeldvei0yWHR1RFZkQTRiXzRjenloQQ?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T19:31:18Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "7ad945c6dabf6812176f58eb15c4c001601ccce4db3e116b5b871af992e2b8fc",
+      "title": "NextEra’s AI Saves Florida Customers $20 Million - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWVyWnV1MTNWTTk3V3N1eVR1ZHlEV1ZUcTUxaElKUno3UU1ZTDVOcWUxYXh1RENDRXdGZkVJUkpkVE0wOTA5WVEwSmo5azhHUDF5TVR3TXp0emV0ZXRQWUV6YUc3Z2RIWkdEMG9NZ1l5RnRfU3RwaWZXUWJUb3hpblZrZzdsOFVMT01STVN2Y3Z2eFpJR1VOMFZnc2NkLUZ1Sl9LczhLcw?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T00:09:14Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ee64c7e2512029ae68be26db4ba4c140e03e66a99753169eee790411f410d217",
+      "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T06:00:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c18c2a7d78a7cf1d449332ce4fa36f071fc21f936eed92e42be3c37755b4eb0e",
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQckpwd3lrUXlPREp2UDlwUHhYaDNxZVo4LUJKTmRjRUY4Ri15OU45RUU4MktKUDVpZVFKTW5IcmpJUkJ5aWNSRThQbGstODY4Mm5jNVdhVWlnTGlfWDJnT2lLdy02R1pqb0t2T3Jyd2IyYmFyZ2lXdG9oblI5aVpOMDhBemYyb3lIcUhtRHE4LTRpcHBhRDFodVlUMm9VT3VFak9KUFVuU2pRZ19VVXlYVmpxeEJ5eFVGeW5GWkpVeGtRdHYydmlRbm5pWkE?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T06:15:37Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c1dc357a711ac52ad5b6d9b48f69caaa6236211405242806c010f2560a4fab7d",
+      "title": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVgwOWVPY1VoZVhqblB4dVpfczFNRl85TWV1YlRjeHdtOXljeXBaS0NMWEd6LVlDc2owNnNkaG9XYmNtTVpLUFBISzlSTWFuOG83aUJkMXJSSU5mRXVxeGYyYV9BSTNhMDkycTkyLUxoREVQYjRBUEFwNGlEcFAxVmdseUhGcjViT0lmaVE3UU0?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T05:20:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "aab2d2c7aa28fcf4373e0b43b8dff6a62018444fa6dc6c66bf9fd60851d79968",
+      "title": "'It's ridiculous': Raleigh eviction after AI bot’s promise reinvigorates push for protections - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkNPNXI5cVZnZC1jLVh3Z1lULU52Umk5TS13RnFIamF5ZG52SXRSRlAwdmhfNUZHWDlfdkFrSDVDQUhiVVZUcm1YVF9DbW1YVDR5X3JheS1QS1hVbGM5SFhEYnJmQ0U5S21ZV0ZnaEZPc1BrckM4eVlhSXFFXzBqSHdzek5KR1hTN2pMM1FNZUpJLTNpVi1NLUt3V2VrQkd0Mko1R3N2VlRIVE0?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T00:18:26Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ef9c89a775c2bf22639c692b3f01c59854a3eea0aff16597e9a40754c7f801cc",
+      "title": "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeVRqSGRRTFRWa1pqdzFqaTI1Yks4aWFMb1JhNnFuU2VaRHJZUnBGQ0pUdU9HclJPV2JjSUhMQkdOV1Nxa3ljY1pGNW80S0Vhb2NQV0JJZ0hBX1ZLbmlpbVItOUV4eVVsRGJZZWdRX1dtOVFUZ3d3bllJNGN3U0dyN3J2R3lDS0lEdnllMlJfd2xabXRxeHRvM3I2a0diTXUxSkRPeGp2czN6WXRQN0llT21oeUZlZ3RTSF90NnEzS1lIQnVHSmZDZWxjV0FWaTVJSjZSNG9ETFVfdWlmU2hfLTB2aDJhX1lmWDdNVXBpbi1lSHhTNk5QNm1kaE0zUGFXNVdGalNKUDVWYnBWUWVvMDBnNmk?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T11:13:22Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "bf1f73ebd33398211e6de590874dbff3c0cb06b65869085d972f94e6ba5bc0e1",
+      "title": "Senate Democrats Push for New AI Oversight Committee With Subpoena Power - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0dJeUhNdVVjdDZkWUdqRmZ4ZnVJQm5odndXRVQ5d0tzVEZJMzhGUGZBaFF5RkRPMGNpMU9hbkFCRHZ4cC1hREFJR2NUOS1xM1B4RUlBV1cyOE5EQUJvMkhrWmRYSUdQZnIxaUpWT2dPSnVNT29kMkVMVHpheGpJWDNLVnRob2JRSURLVF9qUk1rMlhtWHEwYw?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T00:55:34Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "888baa8f3c4e1c76ff512de572999a57b8bd2c1f5d66e19ef9ab132cabf390cd",
+      "title": "AI agents are getting wallets. Is Hong Kong ready for them? - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXpnY2k0ZTBrMzRSQnVSV3hkdGh3aTk3VS1TeFJwNF95VnI0SzlKc0s2VEhoR3VyaUd6WS1xbWEyc3k2VU5BcFNOREpQZWVYRE5CcmZycW1aUjdjMDZKdlhRQ0s1YmNHZHB2a21oUzN6TXRGUHdRTUxDY0NOc1NpYUdLYWR5cGFwcllXblFxanozV2t5aWNoaXc1LU1wbjJUdzRz?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T02:30:05Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "a06f49281135c1eef4fb3a7c1c1a24ce4573bab5265edfcda045045c2fa73bcb",
+      "title": "The Anthropic IPO and the Limits of Being Extraordinary - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblhzdWktbEdzVWRQWlFsMlJhd0RlTFhNSG9xc2ItVDBIMWZzcmtEdlBhS0ZHaEVqS0NzYzBhaUYyaVhLcV81ZlRMZlZmd3h4Z25rWE5YS2dZRmE1aHRBWEJ3YmRjRXFYZmVzNkxBTWNONWF0YWhlOWgzQVVzWW0tOXg0S1lzUG1iNzJCdGdQWXJidElJbEQ4?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T04:47:25Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ddf42e3694328f792e7fe77a86795b3e19719a5e7267da9f92655425393f7496",
+      "title": "AI in Oncology: Do We Have a Vision, or Are We Doomed? - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96QTBZdTN2ajd1N0ZMOHRDc0JqYVBkVV9hbzFGX2JtSTBXVThDaTJzTW9pN3M1S0k2dVpNZlpNcUFTdTBOOUw5eXVNc3JFWl9aX2JPTlZXSQ?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T13:47:11Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "2ea9960c78388e1861c0258e3a384a24b910d7f687eb133808e4c7589df6bbbe",
+      "title": "Allooloo Tops 100M Capital Markets AI Agent Traffic a Month - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlk2TFVLUG1SSFJGcGN4WURJN2E4elNUNXBQeHlBWTlOZXpkNU9uT3o2OGYzRHNGSDRhelJpaWU0TlRvTVBxQ0MzV09Fei1HbmwyV2xJS0RMeU10OTZwSS0wOHRqWEdiTVhQTmExZ2VMT2xoTGpabnFJZG9lTzI5U3U5aWVSTTBVNFRn?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T23:42:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "334045f264ea14039a7a6a5ca32cc176a15620b23b5417647eb0bae1a7cbc4f1",
+      "title": "Dow, S&P 500 enter correction as Nasdaq plunges in AI stock sell-off - upi",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0dZWG1SVm5SaEVhQ210NU9hbURrdXRxOGZ0eHlWaTBvSUV4UlZCZmsycFVaVm1WMU5MaXBoT3FzZHowd0Y4eVZoanBoNjVOSUNYZHRvNDFsY3BhYldpckRSa2FSOHdwdEZ0cktLYVZ5SjctdVRGSDdsdVhLTEVoMFJPbzQ0eE91SHRlY1VpZ0ktZU9wc2ZWMUFNZ3NWZk5ZYk0teNIBqgFBVV95cUxNbWFQbGR6ZHRyUmI0VTdmRlJNdlMxQjg3QzFfcjh6UGhra2NEMHdDaTkyejVVZHBEMDUxY0FVV1ZOaUw4aHg2N2U4dGhNTFB2SjdRLUMxRlZrWHRTTVZ5clpUTHhRSGQ5UDhlSjFlUHFxd1c2alR5YURVNm5xVHZPdVBIeGFXYVM2VDdkM0FTaDJhNGxmVlhUMUhOcWFzZXRsVGZha0hUajdOZw?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T23:14:22Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "665cd244eec2353e1065397479fb81c5d0f407b59bc42d65ccf144c3a3460826",
+      "title": "Senator proposes select committee on AI as Democrats hope to move quickly to regulate it - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQnQtbUpRVEk1MldyYV9fWmN2aTllOEpTNldRWHFtVVZWaFdLUUljSjNkaFRDZDEwODhBcGRycS1xcDN2M00ydDZyeWRpdjh2alRQX2cyNmhMTE12SHZJcjdHX28wZWxkbEpPUFFYTHNGUnh5bmJ6U3VhUk1Pal8weUFva2dIbnZIVXNEOHpyeHpvVFN2X1dUVE4zSkcwMXJNUW1iSjdkcFVGNllobS1Kb0ZtVWtpQkR2RUl1Y19NWVBlZFJDcVpMeERoUThGN0g4QjFMYldB?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T22:07:01Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4db3b98420610dd7838a12dcd01710c663f9df759e61f753707ed8ba545511d0",
+      "title": "It has been claimed that artificial intelligence (AI) has solved one of the biggest challenges in ma.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OMmZaMW1zWExXU3hiTUVRVE9vMTg0TjRwallXUEpCTklnYWY5ZVZkbHkyVFFhNS12dGVScm5rZ1J6TjdEcU14RGV6UQ?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-21T02:21:22Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4ffdefc6921ad8f2dda9517fee14a07cd17d94be08574c3f35e56820a6dbe0b1",
+      "title": "Big Pharma Says AI and Anthropic Tools Shrink Preclinical Drug Discovery Timelines - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2dUZGNwd01IZk1pX1lLT2x4RktCMFlDVkhvakU5c3pWb0RfV1I3NXdjVUFtMEVkTVgyU2FYSnBfNkRUeFd4UGFmNFQ2RUIxamVjV3ZfT1dEd1NiSkg4SXZfZGs4WWxNWEgxc0JCaFl1VTNHZHFfeDdhNFF3enc3WnlJWm5jMmt3VTJ0YkNCYlI4X0k?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T20:37:19Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "f7267fff409b029d2c0a0f361ebb5019b6edd1ebc1495431f82a666deaff40fe",
+      "title": "Apple develops AI agent to control apps, browse web and write code - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0MyOTYwaXBfX2ktZGFBaHhPQUViYjBISkNiTzlCeGl5VXFPaGZNX05DSGdGelZ6S1RUZjdiUzY0NzJzNmx6REtYTWNrUGhCb0g1a1d3WEpJYVg4MUZRNGhJYlMydzQwRDh3a3hXZ0tkRFFNRjBxZ25kT3lKWjFFdVl6bjd6djVINU13TTBCY3IzM1RvTU8za0tpWWVPd25vMnhXbW9IYnNFTXBqUmZlQ2x0LVE4b0RGb3dNdDhXeU5MUi00ODNuOWZGNHpSV0hZbGc?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T16:07:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "9c04469dde1130f00e80adfe551dcf4c658d8c60718b4a0d8573bf96d76ff004",
+      "title": "Will Artificial Intelligence (AI) Replace Family Law Atto... - London School of Business and Research (LSBR)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYi1FZFA3RVhUUUNKTEdVRGx4UTBhaGtxR0ZkWjFKRzdtZ25Pa3N2ckJYTGItNzFPMUowQUcxN1dkT0dFOV84LUxyOWU5Zkt2YzNxeFNxMlVGZHpBQUpreW4teUY0cFJyLVVlTUxVM1hlVmN6VjFxazg0aXJUUFNtRUwzaHVfYktNZFRpZ0F3?oc=5",
+      "source": "Google News AI",
+      "source_id": "news-en",
+      "priority": 2,
+      "published": "2026-11-20T19:31:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6ff7329e8f1c9607b90a7f2213424dc541a824c0a59725afbf44e94bcbaf99bd",
+      "title": "“AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Q3ViRHAyWjhaODdTV2hGTWNVXzl6NnlMdDc2Q0JIeHdvRm9IcWFQc3JUelpOeW41c3VEbUdnU3RQRjg5ZFdrQmttX2d5M3htaDB0WXJzQ0ZRdkRVTEw4aXR6dm1rZw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:08:21Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c33537fda54e3078f115f1bfc78c431a7d7ce19282a2e8e62acd9ada843c6fa5",
+      "title": "AI燎原 智领未来 | 福建省医疗人工智能与医院高质量发展研讨会暨 AI百城计划福州站圆满举行 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkV2eEpSM1ZEMVNyUTBzYkVnOGdLQ1VZbThXNGY5SzRaa0pILTV2dWZWNFBYNkdYRWdENGM3OEV6UlRoQ3Q3VndtN0ZDTTB3WHRDT3pKalZZT0NNaU5TQ0syazZXaVlpNTY0UFk2aS1nZ3Jvc3FodXI1eWs4bDdQLUJqQ2xKc09SbHhJQTFlMXpQWlphb3hDUHd3cE50cU9vSFBtcVlzSGdXa2pQVF9sb2ZlTFE2aTRZeWpIcUxSMGFkbjItWmh0cm4yYlp5WGZtNFJieVpOdHY?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-19T04:32:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "37c861c78b9885cc6dca5e7bd5fbb2521547c4661f26646fb5f5d4da67a079c0",
+      "title": "一场对接会，如何“链”动智能终端新视界？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzZBUmtSMl9TUk1ObDh6dDN6V2dIYnhmLXRrZFNfaUVlRVdnWVBZMnF3MFR6bVNpbGJxTTlHSkl6ekdzd1VyRDl4ZFNER0FRQ1J0TjI5VVFUdDFEdnhLTDFOS0JuSGFWVjdxZm1mOWVvbTNMdEE5UkgxVlhHNURHQm1lVTk1ck1D?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:59:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "17a231ce4b85cdf74acb0c6ca2a89dbe266ead05b6446dcfa9278952f96a9a76",
+      "title": "法官主导、技术辅助、提质增效 - 最高人民法院知识产权法庭",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lMVdNR0dfRFJVU19XYXlDSEl6TXh5THFPbkNyWkZybUw1ektkZnlPeEd2Vmw1dGZsM000NzlwdVRtQ1ItT2dpY0pKX2dBcmt1Vm1WaGQ1azFjUlF5MlNN?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:16:05Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ef38502d2f92afbff3049de18330a3e9c86801e7a9cc1215b81dae529c007df9",
+      "title": "探展vlog｜看人工智能如何“牵手”金融服务新场景 - 新华网江苏频道",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWp4QTI2TWhObkUzLUlHeXhBZXNHMTJ2Y0dvV0NnQ0o4TG1PU01ZeW9tS2RyR2dMY2xEalF1enFISEFhclVOd1ZNakdtcGJub05weUp6dm5JUXpVZ2llenpqd2g0ZWcyRHFQT2Zld2VVVnE0VDJEQVgtSWo0dnNlaHRB?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:44:15Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "53c7862324157febf645aba6669c7c8af7aeefd537e9544447d19bf454f9b069",
+      "title": "超2万个智能体正在武汉5700个场景落地 - 武汉市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85cy1Ha1ozZE81aEotRGxyaVota1JxdEd3cm0yOTlrYWloYlRqQnpZSFRSaFkxWFRMUWRRSVZCNkFLWlppOVlvcF93ZW1kb3lPekNMU3RMXzRsMXM5TTJBekgxUHJJVjJqb2pOYXFvOUg?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T00:15:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "f277e90a5dec0252e8a30732ba23af173e95ab8aee254c4f430d1f5147c51fd0",
+      "title": "香港人工智能与生命科学伦理研究院成立 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVXhsUTcyQ2pZeE9IZTJwQ056ZGtlQUw2cU5TV3NuZmtaWVRVOVZMbnRyMUEtcFlKdGRTeTBqTUt1S253ZENONWlBQlVpWDVmSkdPN1BueG9KVE5FMGhNUFVXb0QyV0FvOEE?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:27:04Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "fb25877f866f1fa7f227c2495d555a1a7d62b9baab3700f5e77a98dd098c30c9",
+      "title": "“保持好奇心非常重要！”汪军院士回母校金中开讲人工智能 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eDNHZmRPT2NzdU8zQUo3b3M4a1RObXFLSnhlRkJELWpDdXlZQ2sxaVZfYm5OSWRKaHFjZXJIdFRFY195clVzcHZOQmpuMVcxS1BhQ1FXT3pVNVFpanFuODBtc19JVnFI?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:06:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "d4880602c38d5260f9e1a117f521b9170d2e1cb10e80be9109829bce844c8894",
+      "title": "算力筑基、场景生根：山东AI的产业落地样本 - 山东宣传网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mMFBKNzM2Z1VIVG44bnlXNTlEMDF6SFFQdHBwdnI2RzlxQWl3cUpiaGVfU3ZRNEhuVUpaVml2M0ZOb2Mxa3pvaUhyOGJOYmtHQUNTZmZjaWFjZUhOa1VralFLcFRXeWdZZGZfY2x4QUc?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:03:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "b7c96d99ab710c0d1d28e27b2b2d9e73d3fc170548c67f865c5cfe9ba3dbe884",
+      "title": "提供要素支撑等6大服务 这一国家级人力资源服务方向中试基地在渝揭牌 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9STTVTaTR4dVBHMWNJd3BEbEp2eUNrM0hOeUxtSy14TUw3TjgxUVRuV2dPSmNMeVlQeHQ0dnlPU2VnbkI1MG1XU2tidDNFc1RHNDR0THBxS0lzZFBZWlo1TUZiRmhYUnNPMFVJ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:34:06Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "5057e9d2bf20860ed30c987998052b1460b49e9d9a43582a2021743d1a259126",
+      "title": "国产大模型引领全球开源生态 累计下载量突破100亿次 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVkpndlVwaXA2SGVuUXAxRV9GdWJBWU1XWS1nWVk0UW1uLVpqQjJ6WG5XN2hpNmctNG5BbFFvRjdjNG9aYmw1YVY5QXF1Z0RuenZ4blgwTnR5dDEwUlZMNUpkNnBtcHdnV2psWE5HVy16SGtzdExLNDNjLWJKMGtib1R1SQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-20T23:54:03Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "15fe6ab6fa2f5a5c7e2e1249078f11e8c8e9e628fc6b57f60ae9059f4a3eae72",
+      "title": "何逸舟：APEC会议给商界带来信心，AI有望成亚太合作新抓手 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1E1d2gyNnVONWo1OXo1TVV1VVpiMVpLQ3ZaVTdRVUIzRFFkVkNlVmZqTkdCZHpKRm9JMmpOWHV6UFNFZ0VYUi01bEZwZE55MVdPRlkyenF1bzdUWUlUMG54LURQakw2cUd2aE95ZnpfcTdoR2ZIdEMwbllPeURfUDA5a2Vpc1Jvai15dFpRMA?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T06:00:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "8773761b508f39332efc6ec3fd3adf6bdc396a450b7d0d5c7e05246082e41d8b",
+      "title": "生成式人工智能情境下机器人智能能力归因与大学生心理困扰的关联机制：AI焦虑的中介作用与AI素养的调节效应 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VGRlX1d0QlVxNlY2M3dPR3AxeXJDVjJnX1ZfX1R1TXlfUUhPLWtGQ2RiQnJ6Rm4wYXVnYVlkeV8tclNGRHV3U2diXzZsOTV0MDNJR0VGRnFnYkdnelZ1ckNnMXRHSWlFMnZ0RThB?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T00:09:04Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "35f325707380e29eea104ce006f792cbae45d553f6a3bf2b7d03e21be3e319a3",
+      "title": "西班牙医疗卫生专业人员对人工智能的认知、态度及伦理法律担忧：一项横断面调查 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yY0RWYmxHT0ZPUnEwMDViRWVEdVRyajBUVVh0VGk1RXFoRTQyV1Fld1V0TTJjZnhMUXc5bXlTQzF0YXhJc1hKQUFiLTYwZHV2RHVzX1NlRG5WcTAtNTFlMzh2dVRvOGREQ2xFc1pn?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T00:09:04Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "384afc5be6b4796da47da95c14d3b1e4d38af0c7c42f525b3ba6a749e204a0b1",
+      "title": "人工智能创新对中国城市可再生能源消费的影响机制与异质性研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uSWE0dXVBblRYRTZGbEFkR0dJTFlCT1JKeERGYVVUZXMwNFdXeU11dVptUUxJdVdNWWl0WEw0bl95WDZqVnVDRlFlZW5TWVlGWEFZMmtDaXJqQmJoOXp6QkJSWU5ScUJ0c2JWT0J3?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:06:33Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6745aa9a31738a716ceb2f6447858e7b50acad9d965a22c120ed8ddd2fc0e35b",
+      "title": "人工智能时代下的人才培育：教育如何引领青年把握创科新机遇 - 紫荆网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2pQTVk2a1NMME95X1VqT05vYW9Rcm1FWWhhd1FoSWJJOGZtRndZZFBJUjFocFBWcURqQm5pMlhXVFRKMDhrMklleXJCTWRhMXM0Nl9EQjRJMEdVVGoyVUtMQU03NEkzRGVvYm9jNkdJczVxYmVqOXlidjBjcTA2QmxtREZMYXRvMUtEdHQzX29wQW85?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:26:15Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "fb21781af00da09ba53fda662bdec179737561887bdd554694b2cb712dced234",
+      "title": "芯片出口管制争议持续，参院委员会计划邀请卢特尼克与贝森特同台作证 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMk1DTXJBWWduM05JQjZYd1RLS25ZZ3NWSnNHZEpadEkyaWx5MWdTcmlkSlIxS1pUUXY3emtBVDR5STYzYV9JWWFoTkhjUGhCLWFmZUpwdnVQNkwzRFVtSzVRQmdwblNUZlJjb21oQmhlRzYwMHdoTHJVN3ZkdG9LcVhZS3JnMV9KZE1LSzliMnprLVlvc0dOZ25GYUNPZHNyamtHMGxEQ3JhR3g3S1VOSjNmTFlaMnQ2M2FyYzZhUi1fMU9RbDh6YXZsdVVMb1RqM1ZfNkZKTGMxZHJKQmN1LTNrbl9QdFl5YlJLM1hB0gHwAUFVX3lxTE1CUWstYzI1SllucDZhVVV0eEtNY0xzUWhwcFZmOThtUVV1ZnpZbld5YTQtOXBiSUlIX2pJUm9ua0FLT3M0OURSLThKdTNuNlZwQUxsYWdkajY1Nmt1RnVhMU1panRwNTNUWGVWVnM2eHMzTTU4bV9Vc0J2RmlTWXhUUEhOY0dGN0RsRjYyRTRQdXBzRGVGNDZmQ3FwRko5OHN4NXdiUkxRVU1JdjlwZElTckM3WmRBUVRPVzRzSUVwamF0WE9WUlZUS1ZfcmNveTZ3VE96Zkx6NW1qNXJQb0JaeG1FQTVGZVpaMm5MYUpXTg?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T00:14:58Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "17471c981b497f04706e9e22a8eaacb0f8a4bc21e1ba9167ccec1001aac8bfc5",
+      "title": "11月20日科创人工智能ETF银华基金份额增加400万份，重仓股澜起科技、海光信息、芯原股份 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LeTl5UnVvVkpPR1o5VmdUSXBlX3JUVnA1U0F5Y0pGS3RSWFI4dFFvVlpkS1B0bVJ3cW1YRW5idlk0d0lUakcyWnNzVlZKdEhkQUt5anJRUzM3OFdPY3B1WnRn?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-20T22:52:11Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "b13dd5a56fb8ae17f93ec476350a68b158a9e90a0bb5a729d1bdbf33823c9f1d",
+      "title": "用于金属有机框架发现的智能体人工智能系统MOFGen - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaUDgzTUt6R0xWU3hiTm04NHMtM0JuOGQ4c1hUQjhiMjJoLTRpMW5weXNXdjlxSlBueGpNRXRmd3FpWS1PYWplU1RPYXdnQklpdEpMY2hNWGhMQXNtNXBlMkV4S3FHbnB0SDZ3REJn?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:06:33Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "4c7aa1d7a56279d77910880dfc8254021cbef4ce0094c001794f34af7e5b50df",
+      "title": "范式智能前三季度收入增53.3%，AI平台在手订单约90亿元 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE5qSGQ2Q3BGZUtzcTBtS1VJWVg4eTlucEk4a05fNzNqd1pmeDNTR1o3ZHFYbHI1VjBHTHNQbGZ4RnhJNFlSU3FyRjZPUFNwV0RHVWNZaUd3LU5uN2ZxMkF5V281dURqZzh2WEdQZ2ZLWG81a0MwalgxbDU4eDlRMWdiOWF6d3ZSaUtlbG9pRQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:06:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "de626ed850f2fc8a22f1b46a54d1cdabb9c1173312c3bdfaacd14360d784355a",
+      "title": "韩国总统李在明访问蔚山SK人工智能数据中心，称速度是全球竞争的关键 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSy1udkFHN1BsS3NIZmdPTGItbjJ4b1dSOG9ha19FakIyQXFKekJKN043QjVINFBfQjJiRVEwVWlOSTlkeXE4RnJmbzVQTjlFQzcweDl5NFBwZEFoWVdqR2hqY1VXczBUS1RYVWRmUTd3SEFzZDNueG1uMWpnd0pmNmpzeDdZbGhKRjl1QQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:01:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "619d340cb4db63e3c58ee2a08d8211cbdf98752ad6ce18ddf2c6a0cc0e28f954",
+      "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？ - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMRjdkM3lfTXJTRERvRmtlcUNqNExkVWRRbVUya0NRc2EwTjZoUkQtSEl6dGNFSi1UMy02SDNzSFZoNVU3RkxKY2hRdnNVV1g0ZmduVWhwbVEtVS1hVGJyak96MXBaV1h1cHFRdVVtQUVyajJ4SUVlN2taZw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T02:36:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c3df7ba0d2395fc95f5ed01a0585405bc0689bf65638c5290911e307ad8befae",
+      "title": "彭文生：人工智能新规模经济 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlV2OGdhalM0WG8tRzlIZ2JyRU1MblkwZGNMdmgwZ0JTVnplb3pEems3VjRzcmRRTUpZbkk0cFVuSnVEdXZRX1ctNEg5aG9DRUQ4VHZXdjlFa1VIMkhUVTdQX1B1TGxlTFpOVjZKYU11TWV0dFVNVk5tcmZrNmM2eGlNSF81VlM4WmNQdg?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T01:22:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "5a0ef1f9b9da8d3193ed478d5afab0c689a0697c11dca900a69616934730992f",
+      "title": "AI芯片需求托举，中船特气前三季度净利增169.26％，六氟化钨自主定价落地、产能扩张提速 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cG1yS29teVFTQ1F5UTB2NU5DQzRlTkw5R0taS1Y3UFBTTTVSTmM0N21mSXlEMzktUnpHdWc0NExUSmlubzlnMzFYcmJYTThTcllEczJETTBlYnd0R3Y2a3NfVQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T06:55:23Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "439f3a06abf6e5fc145a9db136e04e60a8ae92fa5896749232023de0c2a173f4",
+      "title": "把AI制药做成Token生意，MIT初创融了1.1亿美元 - 麻省理工科技评论",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95dWJNV1VPZF9tRGdESHZCdjlXbWZIeEdGZTNQQmdLRjk3NC10bF96Q1RtZVhGVzhRYjVrSEk3WEw3ZTRMQVREcXBOcHE3U19PdW5wcTBOYw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:44:13Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "59e77e2e911a24a9a94e5b1318b637048ddee171de2ee320018b1f736e54488c",
+      "title": "专访安永田苗苗：建议将AI对就业的影响纳入企业ESG管理 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zOGFOYVZHdERlbU1mSmxodW90dTA4dlVtaW9mLTBxZUxsbE0wYlVBb3VJUFNqSFJxWGdCbEFZUlBsV1Fqb2k5OVdkS3J2aDdhdlpz?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T02:40:17Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "ba1e36f6fd4cd92fda76af977a7315c477c1d572183b843c5f15ad81f95f2865",
+      "title": "11月20日创业板人工智能ETF富国基金份额减少200万份，重仓股新易盛、中际旭创、天孚通信 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jenRUNjRKSmc4RzVFdmtrenZhSTlUOWc1XzVSSGhpejEtZTh3bHRndGJ3VVBTazN6NmZ0eW9tVE1WMU1xbnJUZVlkRXEtc2N3eWdCN2tvZ180UjRoVEtabUtn?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-20T22:35:18Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6719e223d2e91f51050a65073f462a5a947661b587b4aaa9e21550b138bd0598",
+      "title": "Science！人工智能监测的生物黏合剂用于无缝线微血管吻合 - 电子工程专辑EE Times China",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yN3lBY05zM29WQjlSb3JVZ3hWV1Z3TWROT0p5VFdhTUNiSTl4TXlvbmgtNDFxRDQ1NVc2YU4zQW5BZzQ5d0U3Z3Y4bXRSVE5HTHUw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T00:15:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c3d91cdce2b5de7ebd0dc152393246bc9a78fe61bd53a5bfa348c596626f7329",
+      "title": "人工智能使用与学术拖延的关系：学术焦虑和自我控制的中介效应及负罪感的调节作用 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSGNWZkpTVnAzQkhfSlIwSUllSkdCR25KSWtJQkJVRDdaaWd5Qm1FMXhBaXNrVEthY0c3bURwUDBKZWNPOTVpUnlLaDZMNHNRN3U2NUZyU2RlenBjWmlEX09mcGI0UkN3TmhWYkd3?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:06:33Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "29f6d2e6838b7dddc14b3eb8750f9387acf35ebf593a355824203a08933f971e",
+      "title": "澳中欲就人工智能技術展開对话 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yR245R3hkWExjOWxPcUxEYl9PR09xMW9lZkJyU3BkT3BrdURwQUp1SmRNZGFuMThhYWhfei0wZlVvMDNSZlEyZ2F6dlk4WHZnejZDVVk0VWpMMGtNVTRJN0tn0gFnQVVfeXFMTVAzcFpZeWNLWURCbGdiOUVlcnY3SGI1Yk9wLWJFZDlaRnNxbGxxMFJWMXIyZ1VVNXJmaWhtbUJRN21NdTdBY001YkJ4RXdLTEFlLTM0ZGlDYTd4TUk4MVNWR2NUNmMxMA?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:01:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "362077b798cd4e5af89ac51e83a4cc79d1efe4300a4b3e7b6d1042a3d6b65296",
+      "title": "祝贺！苏州这些同学 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84WWVrdWtUNXRNbDAzb195QUltUDJoaFNteWxTaVdjc21QNmZVVlpvekZnRFBJWGVsM291TjBqOS1aSHlPeUo0VWZXckxLaWhBYWtVSFl1cDZDS3NuXzN1RExEbE9BbGFNOHRyWVNZUGY?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:38:42Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "f3f94ac5b15f61c62ad9697c658ab7dfbbc7eed10f7e6fc4bb31be86a16169ac",
+      "title": "马上评｜AI证明黎曼猜想，数学家该恐慌吗？ - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zVENqOGVCZVloZnJrOHFRaHhlMkctaWJIVk5XdGJZRm9nV2hBWk45eDc3TnR0REZadmlaSWkyTTF0SnFRYlFNalJ2bjJhYTgwT0tCdnY2TzRTUFhlX2dhVg?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:46:25Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "b256d4734b67979691a0dcef9dd26d213d69db1d44799f10dece1ceb522dc1fe",
+      "title": "共筑算力普惠服务平台，天河算力超市启航 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZU1VV0duNEtoMV9UcFY2MWZ0MDNHOUFWQnpjbk9IamNHQ0ljYTkzbHNOc2JIQ0xZX0NQLW5DcnN0SUJYc1ZVUkVJeVVkVlluMko0cmVPeThTSUlIR2Nqeko2VDZsRXRxTW9pYlNsOWxRYVFvOEFub054dHFfVThzTXMtOHlUV2JMUjJTNXBzTQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T05:12:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "9d216b0ee4ae121b77e0f6565c60a3d322b09c4bf0d59e936ba95ab6a08f911c",
+      "title": "算术九章2026｜算力筑基、场景破局，湖南产业加速向“智”跃升 - 红网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tOHNDdVVTdzhCajhIR1RrMF8ySndwM0d1S1NJU2pfX0w3T2RNMEc5YzFpV0NBXzQzOTlUVU1VZ2RSRjZteF9jVTVSemdyUFQ3ZzdzZnhVeTdSVkhHUXRwTTVn?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T06:14:47Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "d571d18cb76b9bc12b4fddf234f4dd368d0e1df5a99ff3652335aeae402b344d",
+      "title": "日本全家便利店将引进AI机器人为饮料柜补货 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlQ3pkZXI3SzQ3OWIwNFlwY3RLdE9BcS1QblFQN2tBMUdxUzFnRjZsdDhoVVpnSEJaZHpDelFTSkZWSkpQbDNtcDF0aHY1NkREX0NSV19yTQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:00:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "c15efe7cf450fbe5f462330db129ba8a03083f0f3eb16bedd4bd1ddd62a919c7",
+      "title": "这两款AI烹饪产品惊艳亮相前海科技展 - 广西新闻网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbFFRcjZkVllyOWR6RjB3ZDRLcTk1RjZvMFZyaHBXVnA0cWdoclFZdjhGaExlM2x5UFg3V3l6UWg3VHhxdE5nQkNLd2J4bThLZ2J2S3Jsd1VpTEp5b21RMTVMRDVKWTY1cUNPeFNHTFNmcm5OZ1ZacWtBa0dzWEk?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-20T15:16:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "02222bd19b260fadaaf237a44baf9ae0dfab0719fba7dc546f9d00717e12bb18",
+      "title": "3对3全自主人形机器人足球邀请赛即将登陆澳门 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjlYVDFydk5wQWVBZTBHcW41OUNwZ3ZSempfaXUxQml4ZjhjVmRTQzRNRGVudmZtd2NUQW1faHR4T0JhaUVEbEJXZk53OWpwN21SaEdodU94YU1fSi13T2NkUm1GTEsyLXR4bUM0djhLNkNzZnRCaThpNExxcXFQTm56WE02dkdteC05dTVaaw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T06:26:51Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "b3d05673b544980e6a7fe0bef0f7911366ef74649a282e2138cfaa3ac1db4759",
+      "title": "黄仁勋或将创办新半导体公司，重返人工智能行业，“其可能从朋友和盟友处筹集500亿美元创业” - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NU0s4cUJTREdDTXZHZ1REd0ppVmp0eFdSX3lxcFFlSXNIVFA5T1ZIbEZJZTh0UHNPbE4wNDQ5V3QxSWZVSTB2MkVEcDR6Zi1nSHlBWHJ1WjdPWEQwS0ItTVg1ZUZCdXdYczhzTUFqRFRfbGFYODNRcXVaNGh3Zw?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:56:27Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "d75c436640083ed4e2938003ed785e2fa5499efa03d0166c07b77f81528d3ed7",
+      "title": "多国嘉宾合肥共话全球数智合作新图景 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcHlUS0JfZXhFT1VUT0pZWm1lVVB5bEhEZ01LOGdUOEVBd3hUcXBMd0Y2UXJkTGNPX0k5Z195YUNEOWc1TG1WTmpvc18yMWNMa1RDUmU3a2NvUURZRWlVRHc0STlBVFlPNE9FUmFtRks?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T03:25:55Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "6e0235d2541bbcab434bed31f49178d31bd731b0cc5ae66529ead9c425a280e1",
+      "title": "【环球财经】科技股暴跌拖累纽约股市三大股指20日均跌入技术回调区间- 中国金融信息网 - 中国金融信息网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5R21TV0NKaG1nWmNsc3AydTVRTDFtbkZUM0NfVDhEQlNMbkRCUGhkVFVxbDJ4Mnc3YXMxOU5CbThQUVNUMV9CU09jYXJMN2ZudV9KZTBuUEY5eXpBRHBmR3ZobUlZY1U?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T01:23:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "48e9cd4033210b55d48a7e6e7109fd8b0fe7c842c3069b3db1309b4510c2edac",
+      "title": "商汤视觉AI全球市场份额第一 毛利率升至43.4%商业化加速释放 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWFpTG9RdlBCdDVEYXFqZ1FJZWFMQ01yNXZGRVVGU0J2TWdoXzlHX0RHTXJBYjJ3TnZzTW1TOWViYWJyUTNnOERvbFpLWm1PMDRsN2UwRXJWT3BualZSa0JxMk9FVi1tNkJaM1liX2xTV0MyYWlET1gxZXAwTU9FTzJsQWlvUWhOV21hbE13?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T01:57:34Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "2be47d747c55318f55d5d09c808b24de4f8bd0fcacb4a5915f4f44cd289d5169",
+      "title": "科普研学营怎么选？嘉兴6大宝藏基地实测，50元就能玩一天+FAQ - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCUkc4WGNiN1E2b2tramtPWVpQR2lwR0syY2hWNmVfNnY3OEZMMkdxVHJPNVF0WkdxR0RxaWhsMGRxa1NvQzZnS2Z3SnNpajlFSGtRa3NyUWpIa3NNMU1vX0hZc3ZIRFY1RDk3TzctbEpRUQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T06:16:53Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "0609b4aa66cd331268c8d650c86662dbe8762b97efbf814501055ef139a568b3",
+      "title": "闪烁的绿光与跳动的心脏：人工智能时代的终极博弈 - 澳洲看新闻",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYXBrVTZwMXlkYks3QXN1dDl5X3lZeHZ6bEFqREhvdk9ObURReEthMURDTkdpOHprc1cydE1tWFJBanR3b2tNQVltenV4Z3oyRFVXU05PdTJnNzZNVHl1SjFaOU0tMlpPdUZQeS1BZGpWVFFCOXNWN3pxSVpwM0pXSjR4X3laNVZUMnBYdzJQVWttcjFwczhNVF92NlV2RUkxeFQxYVBHMHBVSFdNVjNkcUtkbWRKVE5qcnZEVXpucDZqc1NhQVdISFQ5cnluM1IxN3kxcmxRT3VzdV9ubHVCc3hvNEk1QU1pSFJRWUw0azJhSTB0clg5VHpqLUFZRGp5NnNOYjREWks4ZzlHaGNRbndSQUthVVQtMGpfNVRCQ0RMOHQwcG50VFhURUwtNUlKSVZ1VGxYdUVkdDhZTXRXbkln?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T02:08:52Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "a424cb05ce16cdfc31867e0654c83e81fa27d4161222e64e92b69ade73bcd1d1",
+      "title": "干货满满！“AI漫剧出海”主题研讨会在成都举行 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HOHNMNWc0YkxUNEltbjBvM2ZmSkdHQXVBZTVOOFRCZFlrdHJrdWZqak9rbUJyZmxfT1VjdVBzOWVTaWJnVkVXRjYxTDhfYzhwVUtva1RhMElQTVJiSHlfOGM4RQ?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-20T08:35:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "baac64796cbcd5f3df0aa33947bbcfc51cee92825070f414d2af5ff69a9e3740",
+      "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式 - InfoQ.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUGNpb05jWWg3X3REcTFvT0tydXhab29LZk5HNzY1aE50bkswdWRZS1VuVzBGVTk2Z3c1YUNfbzVGQklXTDJlUldHNkVZdER6MnU4eE5Dbm5fTDNCbmc?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T02:01:05Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
+    {
+      "id": "b3d9b704af430ce057225e815887b0245540f1306d76ea811a4c6b6c05fbade7",
+      "title": "人工智能产业日报(11.20) : AI行业动态 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHFZeUt1WXpLOVl4ZUlLdU82eFRWV0JZa2Zyak1FZXRUNXBRRjF1TGh1SU52Q1lJYkdwSE9UVVJpZWg3NndQMUNfQV9SSFBCTldWMGFETXFfSVBQcE54eVZiUGRxRGM3T2QzMGNoSVFmMk5OV1NybWtrTmgxSTdEYkJzR3NoT29w?oc=5",
+      "source": "Google News 中文",
+      "source_id": "news-cn",
+      "priority": 2,
+      "published": "2026-11-21T04:02:00Z",
+      "first_seen": "2026-11-21T06:58:35Z"
+    },
     {
       "id": "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965",
       "title": "Combatting adversarial distillation",
