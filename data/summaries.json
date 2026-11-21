@@ -1136,7 +1136,7 @@
     },
     "4b6be27b08661b0692852b1569bb4c4a673db4ee20154a687e2ea7ae4ac9a866": {
       "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-14T18:38:57Z"
+      "retry_after": "2026-11-21T02:52:08Z"
     },
     "1d980cecae4ce0aab0632eb002951392c1ad635311edb1d16819b3b6292df902": {
       "title_zh": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
@@ -1880,6 +1880,14 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-20T04:14:30Z"
+    },
+    "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-21T02:52:08Z"
+    },
+    "8145fefb47ff1ca9fa5560e62b69bf54a222274ffe6f44de71f6b3dfaaa8f955": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-21T02:52:08Z"
     }
   },
   "quota": {
@@ -1889,11 +1897,12 @@
     "2026-11-17": 3,
     "2026-11-18": 3,
     "2026-11-19": 4,
-    "2026-11-20": 2
+    "2026-11-20": 2,
+    "2026-11-21": 1
   },
   "last_run": {
-    "time": "2026-11-20T21:20:37Z",
+    "time": "2026-11-21T02:37:08Z",
     "attempted": 3,
-    "succeeded": 3
+    "succeeded": 0
   }
 }
