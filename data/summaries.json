@@ -1768,12 +1768,43 @@
       "summarized_at": "2026-11-21T17:40:28Z"
     },
     "53d809d7420a3923e8bad7c3bd224d7d2c9da9cb37fe0d761411713f6da0b90e": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": [
+        "住友生命（Sumitomo Life）的高管和管理人员率先带头使用 ChatGPT Enterprise，以身作则推动了全公司的技术普及。",
+        "该公司的规划、投资以及财务等团队使用 ChatGPT 进行海外保险研究、提案准备以及风险分析的代码编写，取得了显著的每周使用率和投资回报率（ROI）。",
+        "住友生命在与 OpenAI 合作评估并通过严格的安全和数据隐私标准后，计划在 2026 年下半年进一步扩大 AI 在各类角色甚至专业业务中的应用。"
+      ],
+      "company": [
+        "Sumitomo Life",
+        "OpenAI"
+      ],
+      "topics": [
+        "生成式 AI",
+        "ChatGPT Enterprise",
+        "企业级应用",
+        "人工智能投资回报"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T22:25:31Z"
     },
     "67952d9a918d2536a7bf3b37b6c05ec5dc7c7c22fdf68db178458bb74b4d4f2d": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "Inside the Codex sandbox",
+      "summary": [
+        "OpenAI 为其代理工具套件 Codex 构建了 Codex 沙盒（sandbox），在保障安全的同时允许 AI 在用户现有环境中运行命令。",
+        "沙盒通过平台特定的底层设施、文件系统限制以及网络代理，结合保守的默认权限与自定义权限配置文件，实现了对代理行为的精细化控制。",
+        "Codex 沙盒支持跨 macOS、Windows 和 Linux 的通用 API，并允许企业管理员通过分层配置和托管要求来约束用户的安全设置。"
+      ],
+      "company": [
+        "OpenAI"
+      ],
+      "topics": [
+        "AI 安全",
+        "Codex",
+        "沙盒机制",
+        "开发工具"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T22:25:31Z"
     },
     "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0": {
       "error": "原文访问失败",
@@ -1863,19 +1894,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T18:40:18Z"
+      "retry_after": "2026-11-21T23:25:26Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T18:40:18Z"
+      "retry_after": "2026-11-21T23:25:27Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T18:40:18Z"
+      "retry_after": "2026-11-21T23:25:28Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T18:40:19Z"
+      "retry_after": "2026-11-21T23:25:28Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -1994,6 +2025,25 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-21T17:40:28Z"
+    },
+    "a2908e03cf24041e9ff5e67e92a558a7a644f1e12c3ff4a0dd7ea9221579e4f5": {
+      "title_zh": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "summary": [
+        "GitHub Copilot app 推出了名为 canvases 的自定义双向界面功能，支持看板、检查清单和表单等多种形式。",
+        "用户只需在代理会话中运行 /create-canvas 并用日常语言描述需求，无需手动编写代码或设计布局即可创建工具。",
+        "Canvases 支持与 AI 代理实时协同工作，双方的更新能立即在共享状态中体现，并可通过 Awesome Copilot 共享和复用。"
+      ],
+      "company": [
+        "GitHub"
+      ],
+      "topics": [
+        "AI 开发者工具",
+        "GitHub Copilot",
+        "自定义工作流",
+        "协同办公"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-21T22:25:31Z"
     }
   },
   "quota": {
@@ -2004,10 +2054,10 @@
     "2026-11-18": 3,
     "2026-11-19": 4,
     "2026-11-20": 2,
-    "2026-11-21": 3
+    "2026-11-21": 4
   },
   "last_run": {
-    "time": "2026-11-21T17:40:28Z",
+    "time": "2026-11-21T22:25:31Z",
     "attempted": 3,
     "succeeded": 3
   }
