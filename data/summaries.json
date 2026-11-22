@@ -1461,8 +1461,28 @@
       "summarized_at": "2026-11-17T01:55:25Z"
     },
     "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": [
+        "OpenAI正通过 Daybreak 工具向北约及盟国网络安全机构提供高级AI模型，以增强网络防御能力。",
+        "北约及欧洲多国的网络机构（如欧盟ENISA、法国ANSSI、波兰CERT Polska等）利用这些模型成功识别并修复了多项软件漏洞。",
+        "乌克兰数字化转型部也正使用 Daybreak 工具来加强对民用基础设施的网络防御。"
+      ],
+      "company": [
+        "OpenAI",
+        "NCIA",
+        "ENISA",
+        "CERT-EU",
+        "CERT Polska",
+        "MikroTik"
+      ],
+      "topics": [
+        "网络安全",
+        "人工智能",
+        "国际合作",
+        "漏洞修复"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T17:55:53Z"
     },
     "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
       "title_zh": "CUDA 20周年：该平台如何改变科学计算",
@@ -1659,12 +1679,47 @@
       "summarized_at": "2026-11-22T10:19:53Z"
     },
     "b43ef08ac3ed4f7af6f4fa4f8f60d0d2c49772fc6e540a21a0c9e441265578ef": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "Astra for Law leads in legal intelligence",
+      "summary": [
+        "OpenAI发布了更新后的法律人工智能模型配置 Astra for Law，在多个法律评测基准中表现领先。",
+        "该模型基于 GPT-6.2 Astra，大幅扩展了法律搜索索引并优化了法律推理与防幻觉能力。",
+        "所有 ChatGPT Enterprise 客户均可通过可信访问计划申请使用 Astra for Law 及其 API。"
+      ],
+      "company": [
+        "OpenAI",
+        "Cooley",
+        "Ropes & Gray",
+        "Sullivan & Cromwell",
+        "Vals AI",
+        "Artificial Analysis"
+      ],
+      "topics": [
+        "人工智能",
+        "法律科技",
+        "模型更新",
+        "企业服务"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T17:55:53Z"
     },
     "3b3be741a87f5e2153e626602817efd9dcc9c3fb90f3d3d29d39838acce03d65": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "Introducing OpenAI for Chile",
+      "summary": [
+        "OpenAI宣布与智利政府建立合作伙伴关系，推出“OpenAI for Chile”计划以支持智利公共管理部门负责任地采用人工智能。",
+        "合作重点包括提升公务员的AI技能与素养，以及帮助当地初创企业开发有用的AI应用。",
+        "该合作属于OpenAI全球倡议“OpenAI for Countries”的一部分。"
+      ],
+      "company": [
+        "OpenAI"
+      ],
+      "topics": [
+        "人工智能",
+        "政府合作",
+        "公共行政",
+        "初创企业生态"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T17:55:53Z"
     },
     "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915": {
       "title_zh": "Le Groupe Figaro 与 OpenAI 合作将费加罗报的新闻引入 ChatGPT",
@@ -1975,19 +2030,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-22T11:19:47Z"
+      "retry_after": "2026-11-22T18:55:48Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-22T11:19:47Z"
+      "retry_after": "2026-11-22T18:55:48Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-22T11:19:49Z"
+      "retry_after": "2026-11-22T18:55:50Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-22T11:19:49Z"
+      "retry_after": "2026-11-22T18:55:50Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2148,7 +2203,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-22T11:19:49Z"
+      "retry_after": "2026-11-22T18:55:50Z"
     }
   },
   "quota": {
@@ -2160,10 +2215,10 @@
     "2026-11-19": 4,
     "2026-11-20": 2,
     "2026-11-21": 4,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "last_run": {
-    "time": "2026-11-22T10:19:53Z",
+    "time": "2026-11-22T17:55:53Z",
     "attempted": 3,
     "succeeded": 3
   }
