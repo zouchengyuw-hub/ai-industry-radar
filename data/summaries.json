@@ -1807,12 +1807,45 @@
       "summarized_at": "2026-11-21T22:25:31Z"
     },
     "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "管理前沿 AI 风险：从训练到部署",
+      "summary": [
+        "OpenAI 介绍了管理前沿 AI 模型风险的综合方法，涵盖沙盒研究、内部部署和公开部署三个阶段的层层防护机制。",
+        "通过严格的安全审查、监视能力评估、内部网络隔离以及诸如 Control Room 等中央控制系统，确保模型行为的可控与安全。",
+        "强调了持续监控、红蓝对抗以及在发现安全隐患或不当行为时及时暂停训练和发布的重要实践。"
+      ],
+      "company": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "人工智能安全",
+        "模型对齐",
+        "风险管理",
+        "前沿AI"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T02:36:12Z"
     },
     "68ddb817fe4001c0fc7b71404e8ed33269a5f57651ec2110d7ae5f13ebb157e7": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-20T14:16:23Z"
+      "title_zh": "使用 OpenAI 模型推进芯片设计",
+      "summary": [
+        "OpenAI 的模型被用于加速自定义推理芯片 Jalapeño 以及 AMD 下一代旗舰 GPU 和 CPU 的电路设计与 PPA（功耗、性能和面积）优化。",
+        "通过在开源 RISC-V 核心（PicoRV32 和 Ibex）上的评估测试，展示了模型从头设计或优化处理器架构的能力。",
+        "OpenAI 正与 Synopsys 合作，将前沿人工智能集成到电子设计自动化（EDA）工具中，推出 GPT-Synopsys 模型。"
+      ],
+      "company": [
+        "OpenAI",
+        "AMD",
+        "Synopsys"
+      ],
+      "topics": [
+        "芯片设计",
+        "硬件优化",
+        "人工智能应用",
+        "EDA"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T02:36:12Z"
     },
     "36bc207225e9e41f8c82581f6e01576f6e32dbb6b45ffe2dc91236e139ab5fda": {
       "title_zh": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -1894,19 +1927,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T23:25:26Z"
+      "retry_after": "2026-11-22T03:36:08Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T23:25:27Z"
+      "retry_after": "2026-11-22T03:36:08Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T23:25:28Z"
+      "retry_after": "2026-11-22T03:36:09Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-21T23:25:28Z"
+      "retry_after": "2026-11-22T03:36:09Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2044,6 +2077,26 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-21T22:25:31Z"
+    },
+    "5eb39a97cd91885d0aba26f5b35362f214fd37144fb5bb4215e13eece163557c": {
+      "title_zh": "如何使用 Transformers 和 Tokenizers 从头训练一个新的语言模型",
+      "summary": [
+        "本文演示了如何在低资源语言世界语（Esperanto）上从头训练一个名为 EsperBERTo 的小型类 RoBERTa 模型。",
+        "详细介绍了使用字节级字节对编码（Byte-level BPE）分词器进行分词训练、优化及保存的过程。",
+        "展示了如何使用 transformers 脚本进行掩码语言建模（MLM）预训练，以及在下游词性标注任务上进行微调。"
+      ],
+      "company": [
+        "Duolingo",
+        "INRIA"
+      ],
+      "topics": [
+        "自然语言处理",
+        "机器学习",
+        "模型训练",
+        "分词器"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-22T02:36:12Z"
     }
   },
   "quota": {
@@ -2054,10 +2107,11 @@
     "2026-11-18": 3,
     "2026-11-19": 4,
     "2026-11-20": 2,
-    "2026-11-21": 4
+    "2026-11-21": 4,
+    "2026-11-22": 1
   },
   "last_run": {
-    "time": "2026-11-21T22:25:31Z",
+    "time": "2026-11-22T02:36:12Z",
     "attempted": 3,
     "succeeded": 3
   }
