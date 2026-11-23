@@ -1539,12 +1539,45 @@
       "summarized_at": "2026-11-18T09:14:44Z"
     },
     "9332b18c5744f2a0ae4c6613a20c45dca22d1b5bb99aa596b01a7aa9491e3566": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T17:17:14Z"
+      "title_zh": "英伟达发布 Rubin HPC — 一款旨在加速科学、工程和分析领域AI代理的新型GPU",
+      "summary": [
+        "英伟达在SC26大会上推出了NVIDIA Rubin HPC，这是一款旨在加速科学、工程和分析工作流中模拟与数据处理的新型GPU。",
+        "Rubin HPC单颗GPU拥有超过50,000个CUDA核心，并具备稀疏数据加速功能以及第七代NVLink互连技术。",
+        "该GPU预计将于2028年上市，能够帮助研究人员缩短从假设、模拟到精炼的循环周期，更快取得突破。"
+      ],
+      "company": [
+        "NVIDIA"
+      ],
+      "topics": [
+        "GPU",
+        "高性能计算 (HPC)",
+        "科学模拟",
+        "AI代理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-23T03:57:54Z"
     },
     "d150a4aa414b8ce9f29021da27be317fbde61406807c0265dac52aa040c434f1": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-19T17:17:14Z"
+      "title_zh": "英伟达宣布与IBM及费米国家加速器实验室合作推出量子经典协同设计平台及纠错突破",
+      "summary": [
+        "英伟达与IBM及美国能源部下属的费米国家加速器实验室展开合作，推出模块化量子计算协同设计平台，并将NVIDIA DGX B200系统与IBM量子计算机进行同地部署。",
+        "英伟达发布了属于CUDA-Q平台的新解码算法TCBP-JOBS，可为量子纠错研究带来高达13,000倍的加速，将研究计算时间从12周缩短至45分钟。",
+        "英伟达正在扩展开源Slurm工作负载管理器，增加量子接口，以简化将量子处理器集成到超级计算环境中的过程。"
+      ],
+      "company": [
+        "NVIDIA",
+        "IBM",
+        "Fermi National Accelerator Laboratory",
+        "RIKEN"
+      ],
+      "topics": [
+        "量子计算",
+        "量子纠错",
+        "超级计算",
+        "协同设计"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-23T03:57:54Z"
     },
     "b451aff394adbb427d3a202a80e74c0e34010e923f753539bb1f7c379790136d": {
       "title_zh": "让 Gemini 为您工作",
@@ -2065,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T00:31:37Z"
+      "retry_after": "2026-11-23T04:57:49Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T00:31:39Z"
+      "retry_after": "2026-11-23T04:57:49Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T00:31:39Z"
+      "retry_after": "2026-11-23T04:57:51Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T00:31:39Z"
+      "retry_after": "2026-11-23T04:57:52Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2238,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T00:31:39Z"
+      "retry_after": "2026-11-23T04:57:51Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2258,6 +2291,30 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-22T23:31:43Z"
+    },
+    "e441c96039b52017dd3f7a12d5d3be3fa59cfa78b4cace8dfe67688da07db726": {
+      "title_zh": "英伟达扩展 Vera CPU 平台以加速科学发现",
+      "summary": [
+        "英伟达发布了NVIDIA Vera CPU机架级平台，将定制数据中心CPU与Quantum-X800 InfiniBand网络相结合，旨在提升天气、气候和分子模拟的性能。",
+        "德国气候计算中心（DKRZ）已选择Vera CPU用于其HLRE-5气候科学超级计算机。",
+        "完整Vera CPU平台预计将于2027年初开始由戴尔、HPE、联想和超微等公司提供。"
+      ],
+      "company": [
+        "NVIDIA",
+        "DKRZ",
+        "Dell Technologies",
+        "HPE",
+        "Lenovo",
+        "Supermicro"
+      ],
+      "topics": [
+        "CPU",
+        "高性能计算 (HPC)",
+        "气候科学",
+        "机架级平台"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-23T03:57:54Z"
     }
   },
   "quota": {
@@ -2269,10 +2326,11 @@
     "2026-11-19": 4,
     "2026-11-20": 2,
     "2026-11-21": 4,
-    "2026-11-22": 4
+    "2026-11-22": 4,
+    "2026-11-23": 1
   },
   "last_run": {
-    "time": "2026-11-22T23:31:43Z",
+    "time": "2026-11-23T03:57:54Z",
     "attempted": 3,
     "succeeded": 3
   }
