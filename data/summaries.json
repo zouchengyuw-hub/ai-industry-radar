@@ -2098,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T04:57:49Z"
+      "retry_after": "2026-11-23T15:24:14Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T04:57:49Z"
+      "retry_after": "2026-11-23T15:24:14Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T04:57:51Z"
+      "retry_after": "2026-11-23T15:24:19Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T04:57:52Z"
+      "retry_after": "2026-11-23T15:24:19Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T04:57:51Z"
+      "retry_after": "2026-11-23T15:24:18Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2315,6 +2315,18 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-23T03:57:54Z"
+    },
+    "e1907b763e0a61166a88cb158cc86d7f5f243c4b851d0f39d532e1ccf7fda4b7": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-23T14:39:21Z"
+    },
+    "dfc32ad6652396f06f7a93754dcf29cd4bd7a9e5681781a2743267824b56ee87": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-23T14:39:21Z"
+    },
+    "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c": {
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-23T14:39:21Z"
     }
   },
   "quota": {
@@ -2327,11 +2339,11 @@
     "2026-11-20": 2,
     "2026-11-21": 4,
     "2026-11-22": 4,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "last_run": {
-    "time": "2026-11-23T03:57:54Z",
+    "time": "2026-11-23T14:24:21Z",
     "attempted": 3,
-    "succeeded": 3
+    "succeeded": 0
   }
 }
