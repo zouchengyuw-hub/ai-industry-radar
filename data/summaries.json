@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T15:24:18Z"
+      "retry_after": "2026-11-24T02:47:53Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2327,6 +2327,63 @@
     "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c": {
       "error": "AI提炼失败：模型 API HTTP 503",
       "retry_after": "2026-11-23T14:39:21Z"
+    },
+    "54f2316ecc01fa7ace1e397f690ba0d8d04013386e9434efe67ced43f5318e8c": {
+      "title_zh": "英伟达技术助力节日季：畅玩游戏、内容创作与构建机器人",
+      "summary": [
+        "英伟达推出面向游戏玩家的GeForce RTX 50系列、RTX Spark PC以及DLSS 5等技术，提供卓越的游戏性能与视觉体验。",
+        "通过GeForce RTX系列设备与NVIDIA Studio工具，创作者可以获得强大的AI加速支持，提升视频编辑与3D设计效率。",
+        "利用NVIDIA Jetson边缘AI平台和JetPack SDK，开发者能够构建具备计算机视觉与具身智能的机器人及自主机器。"
+      ],
+      "company": [
+        "NVIDIA"
+      ],
+      "topics": [
+        "硬件产品",
+        "游戏技术",
+        "人工智能",
+        "机器人技术",
+        "内容创作"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-24T01:47:56Z"
+    },
+    "d6fdac3c20f42b84f4304f1951d3cdbdd4c92ee694e8dda3d2554a16c48874d6": {
+      "title_zh": "更具个性化且专属的谷歌搜索",
+      "summary": [
+        "谷歌搜索的Personal Intelligence功能正逐步接入更多应用，首批推出Google Wallet连接，未来几周还将支持Google Drive和Gemini应用。",
+        "用户连接Google Wallet后，可在AI模式和Gemini中获取消费分析、支出优化及信用卡福利建议，同时谷歌仅读取信息而不管理资金。",
+        "谷歌搜索中的AI Overviews和AI Mode将根据用户的近期搜索上下文提供更具个人相关性的回复，且用户可随时开启或关闭个性化设置。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "搜索引擎",
+        "人工智能",
+        "个性化服务",
+        "软件更新"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-24T01:47:56Z"
+    },
+    "3ffa5c39e01e3431aafb68b86f47a423cad3918397f531b6569292d3719a69a5": {
+      "title_zh": "利用智能体与形式化验证寻找更快的量子算法",
+      "summary": [
+        "该研究由Google DeepMind与Google Quantum AI合作开展，汇聚了众多作者的共同贡献。",
+        "研究过程中得到了关于Lean库、手稿反馈、法律政策支持以及视觉和传播协助等各方的大力支持与讨论。"
+      ],
+      "company": [
+        "Google DeepMind",
+        "Google Quantum AI"
+      ],
+      "topics": [
+        "量子计算",
+        "人工智能",
+        "学术研究"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-24T01:47:56Z"
     }
   },
   "quota": {
@@ -2339,11 +2396,12 @@
     "2026-11-20": 2,
     "2026-11-21": 4,
     "2026-11-22": 4,
-    "2026-11-23": 2
+    "2026-11-23": 2,
+    "2026-11-24": 1
   },
   "last_run": {
-    "time": "2026-11-23T14:24:21Z",
+    "time": "2026-11-24T01:47:56Z",
     "attempted": 3,
-    "succeeded": 0
+    "succeeded": 3
   }
 }
