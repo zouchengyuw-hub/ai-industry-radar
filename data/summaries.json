@@ -2098,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T15:24:14Z"
+      "retry_after": "2026-11-27T09:10:14Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T15:24:14Z"
+      "retry_after": "2026-11-27T09:10:16Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T15:24:19Z"
+      "retry_after": "2026-11-27T09:10:16Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-23T15:24:19Z"
+      "retry_after": "2026-11-27T09:10:16Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T01:00:55Z"
+      "retry_after": "2026-11-27T09:10:16Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2317,16 +2317,64 @@
       "summarized_at": "2026-11-23T03:57:54Z"
     },
     "e1907b763e0a61166a88cb158cc86d7f5f243c4b851d0f39d532e1ccf7fda4b7": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-23T14:39:21Z"
+      "title_zh": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+      "summary": [
+        "NVIDIA 推出了 Nemotron for Science，整合了 Nemotron 3.5 Super VL 开源模型、科学评估工具、全新的开放化学数据集及后训练配方，帮助研究人员构建特定领域的科学智能体。",
+        "发布了包含近 5 万个化学推理训练和评估问题的 LitmusBench v0.2 数据集，并支持通过后训练让模型适应化学、蛋白质设计等专业任务。",
+        "Lila Sciences、Terray Therapeutics、Therna、美国能源部阿贡国家实验室及 RIKEN 等全球领先的研究机构和生命科学公司正在利用该模型加速科学发现。"
+      ],
+      "company": [
+        "NVIDIA",
+        "Lila Sciences",
+        "Terray Therapeutics",
+        "Therna"
+      ],
+      "topics": [
+        "人工智能",
+        "科学研究",
+        "开源模型",
+        "化学推理"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T08:10:19Z"
     },
     "dfc32ad6652396f06f7a93754dcf29cd4bd7a9e5681781a2743267824b56ee87": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-23T14:39:21Z"
+      "title_zh": "New Ask Maps features to help with holiday travel and prep",
+      "summary": [
+        "Google Maps 推出了全新的 Ask Maps 功能，可帮助用户轻松创建分步骤的节日旅行行程规划，并提供实时路况、营业状态及“出发前须知”提示。",
+        "借助全新的智能体功能，Ask Maps 可以代用户在线寻找美容、宠物护理、汽车和家居维修等预约，并致电当地商家。",
+        "用户可以通过 Ask Maps 快速搜索已保存列表中的地点，检查其实时可用性，且该功能正在向全球超过 200 个国家和地区扩展。"
+      ],
+      "company": [
+        "Google"
+      ],
+      "topics": [
+        "地图导航",
+        "节日旅行",
+        "人工智能智能体",
+        "出行规划"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T08:10:19Z"
     },
     "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c": {
-      "error": "AI提炼失败：模型 API HTTP 503",
-      "retry_after": "2026-11-23T14:39:21Z"
+      "title_zh": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": [
+        "OpenAI 的经济研究团队通过暑期试点研究了 1,800 多名科学家使用 ChatGPT 的情况，发现科学家们将其广泛应用于文献综述、数据分析和构思等研究全过程。",
+        "参与调查的科学家估计，在没有 AI 的情况下，相同质量的工作将耗费 1.9 倍的时间，且 98% 回答相关问题的参与者预期 AI 将加速其领域的科学发现。",
+        "OpenAI 宣布正将“学术研究版 ChatGPT”扩展至全球 20 万名以上的免费研究人员，以助力科学探索。"
+      ],
+      "company": [
+        "OpenAI"
+      ],
+      "topics": [
+        "人工智能",
+        "科学研究",
+        "ChatGPT",
+        "学术研究"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T08:10:19Z"
     },
     "54f2316ecc01fa7ace1e397f690ba0d8d04013386e9434efe67ced43f5318e8c": {
       "title_zh": "英伟达技术助力节日季：畅玩游戏、内容创作与构建机器人",
@@ -2387,7 +2435,7 @@
     },
     "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T01:00:56Z"
+      "retry_after": "2026-11-27T09:10:14Z"
     },
     "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa": {
       "title_zh": "OpenAI 与思科推出开源运行时 Shirudo",
@@ -2619,10 +2667,10 @@
     "2026-11-24": 3,
     "2026-11-25": 3,
     "2026-11-26": 2,
-    "2026-11-27": 1
+    "2026-11-27": 2
   },
   "last_run": {
-    "time": "2026-11-27T00:00:58Z",
+    "time": "2026-11-27T08:10:19Z",
     "attempted": 3,
     "succeeded": 3
   }
