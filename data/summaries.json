@@ -2098,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:14Z"
+      "retry_after": "2026-11-27T19:11:58Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:16Z"
+      "retry_after": "2026-11-27T19:11:59Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:16Z"
+      "retry_after": "2026-11-27T19:11:59Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:16Z"
+      "retry_after": "2026-11-27T19:11:59Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:16Z"
+      "retry_after": "2026-11-27T19:11:59Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2435,7 +2435,7 @@
     },
     "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T09:10:14Z"
+      "retry_after": "2026-11-27T19:11:58Z"
     },
     "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa": {
       "title_zh": "OpenAI 与思科推出开源运行时 Shirudo",
@@ -2651,6 +2651,70 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-27T00:00:58Z"
+    },
+    "b82b64ef90f76e66fb0003e74649f67052cf66f11ce4f6f63d50fd3308925680": {
+      "title_zh": "Revolut 如何在不降低标准的同时提高雄心",
+      "summary": [
+        "Revolut 借助 OpenAI 模型和 Codex 将编码时间缩短了 30% 到 60%，并将其用于自动化金融犯罪调查和内部代码审查。",
+        "公司利用 AI 将七年的设计文档在一天内转化为 AI 可读的上下文，显著提升了团队效率。",
+        "尽管 AI 承担了实施工作，但 Revolut 坚持要求人类员工对最终结果保持最终责任和审核监督。"
+      ],
+      "company": [
+        "Revolut",
+        "OpenAI"
+      ],
+      "topics": [
+        "人工智能",
+        "软件工程",
+        "金融犯罪防范",
+        "企业效率"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T18:12:02Z"
+    },
+    "ff7833693fa2a06713dc923ab6354b82d0a99faf362cef1531beb712e1bb1855": {
+      "title_zh": "LVMH 媒体部门宣布与 OpenAI 达成战略合作伙伴关系",
+      "summary": [
+        "LVMH 集团的媒体部门（Groupe Les Echos-Le Parisien）与 OpenAI 签署战略协议，在其所有出版物中引入人工智能工具和 ChatGPT Enterprise。",
+        "该合作旨在帮助记者简化日常运营、进行文档研究和对比，从而将更多精力投入到调查性报道中。",
+        "合作还将增强 LVMH 媒体内容在 ChatGPT 中的展现形式，提供带有来源和链接的摘要与节选。"
+      ],
+      "company": [
+        "LVMH Group",
+        "OpenAI",
+        "Groupe Les Echos-Le Parisien"
+      ],
+      "topics": [
+        "人工智能",
+        "媒体与出版",
+        "战略合作",
+        "新闻业"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T18:12:02Z"
+    },
+    "21b4758ab52123ac78ffa3dbca8705003ed9e3a44cc34d1840f5a51cf6e091d0": {
+      "title_zh": "推进面向医疗团队的计算机操作智能体",
+      "summary": [
+        "OpenAI 推出了面向医疗和行政工作流的计算机操作智能体（computer-use agents），并在临床安全性测试中表现优异。",
+        "诸如 CVS Health、Abridge、Cigna Healthcare 和 Ambience 等领先医疗机构正在与 OpenAI 合作，利用智能体自动化处理授权请求、转诊和文档积压等任务。",
+        "新工具支持符合 HIPAA 标准的工作流、基于角色的访问控制以及严格的人工审核监督机制，以确保患者信息安全和临床安全。"
+      ],
+      "company": [
+        "OpenAI",
+        "CVS Health",
+        "Abridge",
+        "The Cigna Group",
+        "Ambience"
+      ],
+      "topics": [
+        "医疗健康",
+        "人工智能",
+        "计算机操作智能体",
+        "行政自动化"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-27T18:12:02Z"
     }
   },
   "quota": {
@@ -2667,10 +2731,10 @@
     "2026-11-24": 3,
     "2026-11-25": 3,
     "2026-11-26": 2,
-    "2026-11-27": 2
+    "2026-11-27": 3
   },
   "last_run": {
-    "time": "2026-11-27T08:10:19Z",
+    "time": "2026-11-27T18:12:02Z",
     "attempted": 3,
     "succeeded": 3
   }
