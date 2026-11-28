@@ -2098,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:58Z"
+      "retry_after": "2026-11-28T02:28:22Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:59Z"
+      "retry_after": "2026-11-28T02:28:24Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:59Z"
+      "retry_after": "2026-11-28T02:28:24Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:59Z"
+      "retry_after": "2026-11-28T02:28:25Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:59Z"
+      "retry_after": "2026-11-28T02:28:24Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2435,7 +2435,7 @@
     },
     "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-27T19:11:58Z"
+      "retry_after": "2026-11-28T02:28:22Z"
     },
     "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa": {
       "title_zh": "OpenAI 与思科推出开源运行时 Shirudo",
@@ -2715,6 +2715,83 @@
       ],
       "basis": "原文前12000字符；批量提炼",
       "summarized_at": "2026-11-27T18:12:02Z"
+    },
+    "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9": {
+      "title_zh": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": [
+        "OpenAI 推出了面向医疗领域的 ChatGPT 计算机使用代理（computer-use agents），协助临床与行政工作流。",
+        "升级了受信任的临床搜索功能，能更准确地寻找、评估和引用医学证据，并通过 Responses API 提供给开发者。",
+        "扩展了医疗插件生态系统，新增 20 多个覆盖临床护理、护理协调和业务运营的插件。"
+      ],
+      "company": [
+        "OpenAI",
+        "Abridge",
+        "Ambience",
+        "Cigna Healthcare",
+        "CVS Health",
+        "Luma Health",
+        "TriZetto",
+        "Metriport",
+        "UpToDate",
+        "AIVA",
+        "Amion",
+        "IMO Health",
+        "Stedi",
+        "Turquoise Health",
+        "Assort Health",
+        "Ferry Health"
+      ],
+      "topics": [
+        "Artificial Intelligence",
+        "Healthcare",
+        "ChatGPT",
+        "APIs",
+        "Software"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-28T01:28:28Z"
+    },
+    "3d4aeac88b69acfaa9cd944cf75b07a9d89f3c8d684549bae7f0b762916da940": {
+      "title_zh": "At Holiday Extras, dots get to work before anyone asks",
+      "summary": [
+        "英国旅游科技公司 Holiday Extras 的员工使用基于 OpenAI 技术的 AI 助手（被称为 dots）在未被要求时主动生成报告和发现问题。",
+        "员工通过语音交互等方式在通勤期间与 AI 助手进行自然对话，规划日程、检索数据并处理各项工作任务。",
+        "AI 助手还被用作设计和开发的合作伙伴，大幅提升了 3D 动画制作等工作效率。"
+      ],
+      "company": [
+        "Holiday Extras",
+        "OpenAI",
+        "Google"
+      ],
+      "topics": [
+        "Artificial Intelligence",
+        "Travel Technology",
+        "Productivity",
+        "ChatGPT"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-28T01:28:28Z"
+    },
+    "60f3c7381bc61eae5e3d002a0ecfce30c3913c926a7778f89e799b4b1d0cc1eb": {
+      "title_zh": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": [
+        "The King’s Trust 与 OpenAI 达成了一项价值 100 万英镑的重要合作伙伴关系。",
+        "该项目旨在帮助多达 25,000 名年轻人（特别是未在接受教育、就业或培训的群体）在日益由人工智能驱动的经济中构建工作所需的 AI 技能。",
+        "作为双方合作的一部分，The King's Trust 将在未来几个月内推出全国认可的 AI 资格认证项目。"
+      ],
+      "company": [
+        "The King’s Trust",
+        "OpenAI",
+        "The Open University"
+      ],
+      "topics": [
+        "Education",
+        "Artificial Intelligence",
+        "Philanthropy",
+        "Skills Training"
+      ],
+      "basis": "原文前12000字符；批量提炼",
+      "summarized_at": "2026-11-28T01:28:28Z"
     }
   },
   "quota": {
@@ -2731,10 +2808,11 @@
     "2026-11-24": 3,
     "2026-11-25": 3,
     "2026-11-26": 2,
-    "2026-11-27": 3
+    "2026-11-27": 3,
+    "2026-11-28": 1
   },
   "last_run": {
-    "time": "2026-11-27T18:12:02Z",
+    "time": "2026-11-28T01:28:28Z",
     "attempted": 3,
     "succeeded": 3
   }
