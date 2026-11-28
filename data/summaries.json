@@ -899,8 +899,8 @@
       "summarized_at": "2026-11-13T10:54:08Z"
     },
     "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-16T08:58:43Z"
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-28T09:38:00Z"
     },
     "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
       "title_zh": "AI 如何帮助护理团队更快地为患者提供正确的护理",
@@ -1221,12 +1221,12 @@
       "summarized_at": "2026-11-14T18:26:27Z"
     },
     "2e8f421d2ee2a3dfd36bfcc5be1c93ba1a42b98e60398a99d5e21362ce523fd9": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-16T08:58:43Z"
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-28T09:38:00Z"
     },
     "33b95c2112c46efd095543028e60f6116680e85e464182b74c65e43667746d78": {
-      "error": "原文访问失败",
-      "retry_after": "2026-11-16T08:58:43Z"
+      "error": "AI提炼失败：模型 API HTTP 503",
+      "retry_after": "2026-11-28T09:38:00Z"
     },
     "7890886c01383a50e6388e69c6de172e10502425509334b9f410eebaa684833c": {
       "title_zh": "首尔AI日汇聚韩国行业领袖、初创公司和开发者社区",
@@ -2098,19 +2098,19 @@
     },
     "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:22Z"
+      "retry_after": "2026-11-28T10:22:56Z"
     },
     "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:24Z"
+      "retry_after": "2026-11-28T10:22:58Z"
     },
     "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:24Z"
+      "retry_after": "2026-11-28T10:22:58Z"
     },
     "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:25Z"
+      "retry_after": "2026-11-28T10:22:58Z"
     },
     "c0b0f540e5fdb81a2155b0d35318527cab17b990f14c0cfdb78aa82f26391884": {
       "title_zh": "NVIDIA 公布即将举行的金融界活动安排",
@@ -2271,7 +2271,7 @@
     },
     "be4a31a143512fa5cb77fca8867e27b18019a1319b63d8f21cff5e85d5e0a2cb": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:24Z"
+      "retry_after": "2026-11-28T10:22:57Z"
     },
     "1a10f1676d46fc01a909d8eab6d17033b89331ee5fd1f1e04952fc2f6f54665c": {
       "title_zh": "困惑度与智能",
@@ -2435,7 +2435,7 @@
     },
     "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c": {
       "error": "正文无法获取或过短",
-      "retry_after": "2026-11-28T02:28:22Z"
+      "retry_after": "2026-11-28T10:22:55Z"
     },
     "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa": {
       "title_zh": "OpenAI 与思科推出开源运行时 Shirudo",
@@ -2809,11 +2809,11 @@
     "2026-11-25": 3,
     "2026-11-26": 2,
     "2026-11-27": 3,
-    "2026-11-28": 1
+    "2026-11-28": 2
   },
   "last_run": {
-    "time": "2026-11-28T01:28:28Z",
+    "time": "2026-11-28T09:23:00Z",
     "attempted": 3,
-    "succeeded": 3
+    "succeeded": 0
   }
 }
